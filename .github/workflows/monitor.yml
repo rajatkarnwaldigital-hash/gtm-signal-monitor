@@ -1,0 +1,45 @@
+name: GTM Signal Monitor
+
+on:
+  schedule:
+    # 05:30 UTC — deliberately clear of yc-gtm-monitor-actions at 03:30 UTC.
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # needed to commit seen.json and ledger.md back
+
+concurrency:
+  # Two runs committing state at once would clobber each other.
+  group: gtm-signal-monitor
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python3 monitor.py
+
+      - name: Commit state
+        run: |
+          git config user.name "gtm-signal-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen.json ledger.md
+          git diff --quiet --cached || git commit -m "state: $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash || true
+          git push

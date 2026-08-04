@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# NOTE: seen.json and ledger.md are intentionally NOT ignored.
+# The workflow commits them after every run — that is how state persists.
