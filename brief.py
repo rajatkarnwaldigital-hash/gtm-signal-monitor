@@ -11,11 +11,9 @@ from __future__ import annotations
 
 import os
 import smtplib
+import textwrap
 from datetime import datetime, timezone
-from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-
-from render_html import build_html
 
 MODEL = "claude-opus-5"
 MAX_TOKENS = 8000
@@ -133,61 +131,109 @@ def add_context(leads: list) -> None:
         print(f"[!] Context generation failed ({e}) — sending digest without it")
 
 
+# Plain text, formatted the way yc-gtm-monitor-actions does it: aligned labels,
+# no indentation to strip, one blank line before the opener so it can be
+# selected and pasted cleanly.
+LABEL = 9  # "Posting:" / "Warning:" plus one space
+WIDTH = 78
+
+
+def _field(label: str, value: str) -> str:
+    """Wrap prose under a left-aligned label, continuation lines hanging to
+    match. Long hooks are paragraphs — unwrapped they render as one endless
+    line in most mail clients."""
+    return textwrap.fill(
+        value,
+        width=WIDTH,
+        initial_indent=f"{label + ':':<{LABEL}}",
+        subsequent_indent=" " * LABEL,
+        # Never split a hyphenated term ("long-cycle") or a long token. URLs
+        # must survive intact or they stop being clickable, which matters more
+        # than staying inside the margin.
+        break_on_hyphens=False,
+        break_long_words=False,
+    )
+
+
 def _company_line(lead) -> str:
-    bits = [lead.stage or "?"]
-    bits.append(f"{lead.verified_headcount or lead.headcount or '?'} employees")
+    bits = [lead.stage.replace("_", " ") if lead.stage else "?"]
+    bits.append(f"{lead.verified_headcount or lead.headcount or '?'} people")
     if lead.headcount_growth:
         bits.append(f"{lead.headcount_growth} YoY")
     if lead.total_funding:
-        rounds = f" / {lead.funding_rounds} rounds" if lead.funding_rounds else ""
+        rounds = f" ({lead.funding_rounds} rounds)" if lead.funding_rounds else ""
         bits.append(f"{lead.total_funding} raised{rounds}")
     bits.append(f"Techstars {lead.cohort_year or '?'}")
-    bits.append(lead.location or "location unknown")
+    if lead.location:
+        bits.append(lead.location)
     return " · ".join(bits)
 
 
 def _format(lead, rank: int) -> str:
-    lines = [
-        f"{rank}. {lead.company} — {lead.title}   [score {lead.score}]",
-        f"   Why now: {lead.hook}" if lead.hook else "",
-        f"   Signals: {' · '.join(lead.reasons)}",
-        f"   Company: {_company_line(lead)}",
-    ]
+    lines = [f"{rank}. {lead.company} — {lead.title}  [{lead.score}]", ""]
+
+    if lead.hook:
+        lines.append(_field("Why now", lead.hook))
+    lines.append(_field("Company", _company_line(lead)))
     if lead.verification_note:
-        lines.append(f"   ⚠ Check:  {lead.verification_note}")
-    for contact in lead.contacts:
-        lines.append(f"   Contact: {contact['name']} — {contact['role']}")
-        lines.append(f"            {contact['linkedin']}")
-    if not lead.contacts:
-        lines.append("   Contact: (none found)")
-    lines += [
-        f"   Product: {lead.description}" if lead.description else "",
-        f"   Site:    {lead.website}" if lead.website else "   Site:    (not resolved)",
-        f"   Posting: {lead.url}",
-        f"\n   Opener:\n   {lead.opener}" if lead.opener else "",
-    ]
-    return "\n".join(x for x in lines if x)
+        # The label does the shouting; uppercasing the sentence too reads as
+        # an alarm rather than a caveat.
+        lines.append(_field("Warning", lead.verification_note))
+    if lead.description:
+        lines.append(_field("Product", lead.description))
+
+    if lead.contacts:
+        for i, contact in enumerate(lead.contacts):
+            label = "Contact" if i == 0 else ""
+            lines.append(f"{label + ':' if label else '':<{LABEL}}{contact['name']} — {contact['role']}")
+            lines.append(f"{'':<{LABEL}}{contact['linkedin']}")
+    else:
+        lines.append(f"{'Contact:':<{LABEL}}(none found)")
+
+    if lead.website:
+        lines.append(f"{'Site:':<{LABEL}}{lead.website}")
+    lines.append(f"{'Posting:':<{LABEL}}{lead.url}")
+
+    if lead.opener:
+        # Flush left, no indent — so it copies into LinkedIn without dragging
+        # leading spaces along.
+        lines.append("")
+        lines.append("Opener:")
+        lines.append(textwrap.fill(lead.opener, width=WIDTH))
+
+    return "\n".join(lines)
 
 
 def build_body(top: list, rest: list) -> str:
+    date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    plural = "lead" if len(top) == 1 else "leads"
     parts = [
-        f"{len(top)} lead(s) worth acting on today.",
+        f"{len(top)} {plural} worth acting on — {date_str}",
         "Ranked. Work down the list and stop when you stop.",
         "",
-        "=" * 68,
-        "",
     ]
-    parts.extend(_format(l, i + 1) + "\n\n" + "-" * 68 + "\n" for i, l in enumerate(top))
-
-    if rest:
-        parts.append(f"\nPeripheral vision — nearest {len(rest)} that missed the bar:\n")
-        parts.extend(
-            f"  · {l.company} — {l.title} [score {l.score}] {l.website or ''}" for l in rest
-        )
+    for i, lead in enumerate(top):
+        parts.append("-" * WIDTH)
+        parts.append("")
+        parts.append(_format(lead, i + 1))
         parts.append("")
 
-    parts.append("\nEvery lead above is appended to ledger.md in the repo.")
-    parts.append("Grep the company name there when a connection gets accepted.")
+    if rest:
+        parts.append("-" * WIDTH)
+        parts.append("")
+        parts.append(f"Missed the bar ({len(rest)}) — no action expected:")
+        parts.append("")
+        for lead in rest:
+            parts.append(f"  [{lead.score:>2}]  {lead.company} — {lead.title}")
+            if lead.website:
+                parts.append(f"        {lead.website}")
+        parts.append("")
+
+    parts.append("-" * WIDTH)
+    parts.append("")
+    parts.append("Every lead above is appended to ledger.md in the repo, with its score,")
+    parts.append("signals and the opener sent. Grep the company or contact name there")
+    parts.append("when a connection gets accepted.")
     return "\n".join(parts)
 
 
@@ -201,15 +247,10 @@ def send(top: list, rest: list) -> bool:
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     subject = f"GTM signals — {len(top)} to act on ({len(rest)} below bar) — {date_str}"
 
-    # multipart/alternative: the HTML is what he'll see, but the plain-text part
-    # is a real fallback rather than a stub — it's the version that survives
-    # notification previews, watch faces and any client that refuses HTML.
-    msg = MIMEMultipart("alternative")
+    msg = MIMEText(build_body(top, rest), "plain", "utf-8")
     msg["Subject"] = subject
     msg["From"] = GMAIL_ADDRESS
     msg["To"] = RECIPIENT_EMAIL
-    msg.attach(MIMEText(build_body(top, rest), "plain", "utf-8"))
-    msg.attach(MIMEText(build_html(top, rest, date_str), "html", "utf-8"))
 
     print(f"[*] Sending: {subject}")
     try:

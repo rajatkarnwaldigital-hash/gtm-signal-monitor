@@ -88,7 +88,13 @@ class MySource(Source):
 7. **Re-rank** the shortlist on verified numbers, then cut to `DAILY_CAP`.
 8. **Context** (`brief.py`) — Claude (`claude-opus-5`) writes a one-line "why
    now" and a one-line opener, **only for leads that make the cut**.
-9. **Deliver** — Gmail SMTP digest, then append to `ledger.md`.
+9. **Deliver** — plain-text Gmail SMTP digest, then append to `ledger.md`.
+
+The digest is deliberately plain text, formatted like `yc-gtm-monitor-actions`:
+aligned labels, prose wrapped at 78 columns, URLs never broken, and the opener
+flush-left under its own heading so it copies into LinkedIn without dragging
+indentation along. An HTML version was built and rejected — it was more design
+than the job needed.
 
 ### Contacts and verification (`contacts.py`)
 
