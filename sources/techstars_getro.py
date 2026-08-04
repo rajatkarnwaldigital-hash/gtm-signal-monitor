@@ -84,6 +84,20 @@ HEADCOUNT_BUCKETS = {
 }
 
 
+# The board renders status badges adjacent to the title, and they arrive
+# concatenated onto it with no separator ("...(Vet Sales)NewOn-Site").
+_BADGE_RE = re.compile(r"(?:New|Hybrid|On-?Site|Remote|Urgent|Featured)+$")
+
+
+def _clean_title(title: str) -> str:
+    title = " ".join(title.split())
+    prev = None
+    while prev != title:
+        prev = title
+        title = _BADGE_RE.sub("", title).strip()
+    return title
+
+
 def _get(url: str) -> dict:
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
@@ -124,9 +138,9 @@ class TechstarsGetro(Source):
         return jobs.get("found", []), jobs.get("total", 0)
 
     def _to_lead(self, item: dict) -> Lead | None:
-        title = (item.get("title") or "").strip()
+        title = _clean_title(item.get("title") or "")
         org = item.get("organization") or {}
-        company = (org.get("name") or "").strip()
+        company = " ".join((org.get("name") or "").split())
         if not title or not company:
             return None
 

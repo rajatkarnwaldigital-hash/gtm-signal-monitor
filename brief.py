@@ -137,7 +137,7 @@ def build_body(top: list, rest: list) -> str:
     parts.extend(_format(l, i + 1) + "\n\n" + "-" * 68 + "\n" for i, l in enumerate(top))
 
     if rest:
-        parts.append(f"\nAlso new, below the bar ({len(rest)}) — no action expected:\n")
+        parts.append(f"\nPeripheral vision — nearest {len(rest)} that missed the bar:\n")
         parts.extend(
             f"  · {l.company} — {l.title} [score {l.score}] {l.website or ''}" for l in rest
         )

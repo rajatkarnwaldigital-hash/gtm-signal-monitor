@@ -67,7 +67,9 @@ class CompanyIndex:
             return False
         lead.website = row.get("website") or ""
         lead.domain = domain_of(lead.website)
-        lead.description = (row.get("description") or "").strip()
+        # Dataset descriptions carry embedded newlines, which break the digest's
+        # indented single-line layout.
+        lead.description = " ".join((row.get("description") or "").split())
         lead.program = row.get("program") or ""
         year = row.get("year")
         lead.cohort_year = int(year) if isinstance(year, int) else None

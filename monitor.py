@@ -31,14 +31,43 @@ DAILY_CAP = int(os.environ.get("DAILY_CAP", "5"))
 # ranked list. Tune against the first week of real output.
 SCORE_FLOOR = int(os.environ.get("SCORE_FLOOR", "8"))
 
+# The tail is a peripheral-vision aid, not a second list to work. Left uncapped
+# it grew to 50 lines and buried the 5 leads that mattered — which is the exact
+# failure this repo exists to prevent, so it gets its own hard limits.
+TAIL_CAP = int(os.environ.get("TAIL_CAP", "8"))
+TAIL_FLOOR = int(os.environ.get("TAIL_FLOOR", "5"))
+
+
+def dedupe(leads: list) -> list:
+    """Collapse the same role posted twice under different job IDs.
+
+    Companies re-post (ivee's BDR role, OneInbox's GTM Lead), and the board
+    issues a fresh id each time, so the seen-diff can't catch it. Keep the
+    first — the source returns newest-first.
+    """
+    out, seen_pairs = [], set()
+    for lead in leads:
+        pair = (lead.company.lower(), " ".join(lead.title.lower().split()))
+        if pair in seen_pairs:
+            continue
+        seen_pairs.add(pair)
+        out.append(lead)
+    return out
+
 
 def main() -> None:
+    # --send-now exists to prove the delivery path end to end without waiting a
+    # day for the baseline to age. It ignores the seen-diff, ranks whatever is
+    # on the board right now, and sends — but deliberately writes NO state, so a
+    # test run can't consume tomorrow's real leads or pollute the ledger.
+    send_now = "--send-now" in sys.argv
+
     print("=" * 68)
-    print("GTM SIGNAL MONITOR")
+    print("GTM SIGNAL MONITOR" + ("  [--send-now: test send, no state written]" if send_now else ""))
     print(f"Run: {datetime.now(timezone.utc).isoformat()}")
     print("=" * 68)
 
-    first_run = not state.SEEN_PATH.exists() or not state.load_seen()
+    first_run = (not state.SEEN_PATH.exists() or not state.load_seen()) and not send_now
     seen = state.load_seen()
 
     print("\n[1] Fetching sources")
@@ -55,10 +84,15 @@ def main() -> None:
 
     print(f"\n[2] Filtering {len(raw)} postings for real GTM roles")
     qualified = [l for l in raw if filters.qualifies(l)]
-    print(f"    {len(qualified)} qualified ({len(raw) - len(qualified)} dropped)")
+    deduped = dedupe(qualified)
+    print(
+        f"    {len(deduped)} qualified "
+        f"({len(raw) - len(qualified)} dropped, {len(qualified) - len(deduped)} duplicate postings)"
+    )
+    qualified = deduped
 
-    new = [l for l in qualified if l.key not in seen]
-    print(f"    {len(new)} not seen before")
+    new = qualified if send_now else [l for l in qualified if l.key not in seen]
+    print(f"    {len(new)} {'to rank (send-now ignores the diff)' if send_now else 'not seen before'}")
 
     if first_run:
         state.mark_seen(seen, qualified)
@@ -80,14 +114,17 @@ def main() -> None:
     ranked = rank(new)
     top = [l for l in ranked if l.score >= SCORE_FLOOR][:DAILY_CAP]
     top_keys = {l.key for l in top}
-    rest = [l for l in ranked if l.key not in top_keys]
-    print(f"    {len(top)} above the bar (cap {DAILY_CAP}), {len(rest)} below")
+    rest = [
+        l for l in ranked if l.key not in top_keys and l.score >= TAIL_FLOOR
+    ][:TAIL_CAP]
+    print(f"    {len(top)} above the bar (cap {DAILY_CAP}), {len(rest)} shown in the tail")
 
     if not top:
         print("\nNothing cleared the score floor today — no digest sent.")
-        print("New postings are still recorded so they won't resurface.")
-        state.mark_seen(seen, new)
-        state.save_seen(seen)
+        if not send_now:
+            print("New postings are still recorded so they won't resurface.")
+            state.mark_seen(seen, new)
+            state.save_seen(seen)
         return
 
     print("\n[5] Writing context")
@@ -97,6 +134,11 @@ def main() -> None:
     if not brief.send(top, rest):
         print("\nEmail did not send, so nothing was marked as seen.")
         print("These leads will be retried on the next run rather than lost.")
+        sys.exit(1)
+
+    if send_now:
+        print("\nTest send complete. No state written — seen.json and ledger.md are untouched,")
+        print("so the real first run still gets a clean baseline.")
         return
 
     state.append_ledger(top)
