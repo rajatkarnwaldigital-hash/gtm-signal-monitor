@@ -33,14 +33,20 @@ new hire to inherit.
 He is NOT job hunting. He is not applying to these roles. He is selling to the company \
 that posted them.
 
+Some entries include a "contacts" line and a "background" block containing profile text, \
+funding news and recent LinkedIn posts. Use them. A dated, specific detail the person \
+actually published beats anything you infer.
+
 For each company you are given, write:
-  - "hook": one sentence on why THIS company is worth approaching THIS week. Be concrete \
-about what the new hire will be walking into given the company's stage, size and product. \
-No generic filler.
-  - "opener": one LinkedIn message opener, max two sentences, that references the specific \
-role and what he could stand up in a week. Plain text, no em dashes, no ampersands, no \
-buzzwords (seamless, robust, leverage, streamline, innovative, comprehensive). It must \
-sound like a person typed it.
+  - "hook": one sentence on why THIS company is worth approaching THIS week. Prefer a \
+concrete, recent fact from the background (a raise, a growth number, a post about hiring \
+or about a GTM problem) over general reasoning about the stage. If the background \
+contradicts the stage or team size given, trust the background and say so.
+  - "opener": one LinkedIn message opener, max two sentences, addressed to the first \
+listed contact by first name if one is given. Reference the specific role and what he \
+could stand up in a week. Plain text, no em dashes, no ampersands, no buzzwords \
+(seamless, robust, leverage, streamline, innovative, comprehensive). It must sound like \
+a person typed it. Do not fabricate any detail that is not in the input.
 
 Return the same number of items, in the same order as the input."""
 
@@ -77,14 +83,27 @@ def add_context(leads: list) -> None:
 
     import anthropic
 
-    payload = "\n\n".join(
-        f"{i + 1}. {l.company} — hiring: {l.title}\n"
-        f"   stage: {l.stage or 'unknown'} | team: {l.headcount or 'unknown'} | "
-        f"Techstars {l.cohort_year or '?'} | {l.location or 'location unknown'}\n"
-        f"   product: {l.description or 'no description available'}\n"
-        f"   why it ranked: {'; '.join(l.reasons)}"
-        for i, l in enumerate(leads)
-    )
+    def block(i: int, l) -> str:
+        parts = [
+            f"{i + 1}. {l.company} — hiring: {l.title}",
+            f"   stage: {l.stage or 'unknown'} | team: "
+            f"{l.verified_headcount or l.headcount or 'unknown'}"
+            + (f" ({l.headcount_growth} YoY)" if l.headcount_growth else "")
+            + (f" | raised {l.total_funding}" if l.total_funding else "")
+            + f" | Techstars {l.cohort_year or '?'} | {l.location or 'location unknown'}",
+            f"   product: {l.description or 'no description available'}",
+            f"   why it ranked: {'; '.join(l.reasons)}",
+        ]
+        if l.contacts:
+            who = "; ".join(f"{c['name']} ({c['role']})" for c in l.contacts)
+            parts.append(f"   contacts: {who}")
+        if l.evidence:
+            # Recent posts and funding news live here — the raw material for a
+            # dated, specific hook rather than a generic one.
+            parts.append(f"   background: {l.evidence[:900]}")
+        return "\n".join(parts)
+
+    payload = "\n\n".join(block(i, l) for i, l in enumerate(leads))
 
     try:
         client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
@@ -111,13 +130,34 @@ def add_context(leads: list) -> None:
         print(f"[!] Context generation failed ({e}) — sending digest without it")
 
 
+def _company_line(lead) -> str:
+    bits = [lead.stage or "?"]
+    bits.append(f"{lead.verified_headcount or lead.headcount or '?'} employees")
+    if lead.headcount_growth:
+        bits.append(f"{lead.headcount_growth} YoY")
+    if lead.total_funding:
+        rounds = f" / {lead.funding_rounds} rounds" if lead.funding_rounds else ""
+        bits.append(f"{lead.total_funding} raised{rounds}")
+    bits.append(f"Techstars {lead.cohort_year or '?'}")
+    bits.append(lead.location or "location unknown")
+    return " · ".join(bits)
+
+
 def _format(lead, rank: int) -> str:
     lines = [
         f"{rank}. {lead.company} — {lead.title}   [score {lead.score}]",
         f"   Why now: {lead.hook}" if lead.hook else "",
         f"   Signals: {' · '.join(lead.reasons)}",
-        f"   Stage:   {lead.stage or '?'} · {lead.headcount or '?'} employees · "
-        f"Techstars {lead.cohort_year or '?'} · {lead.location or 'location unknown'}",
+        f"   Company: {_company_line(lead)}",
+    ]
+    if lead.verification_note:
+        lines.append(f"   ⚠ Check:  {lead.verification_note}")
+    for contact in lead.contacts:
+        lines.append(f"   Contact: {contact['name']} — {contact['role']}")
+        lines.append(f"            {contact['linkedin']}")
+    if not lead.contacts:
+        lines.append("   Contact: (none found)")
+    lines += [
         f"   Product: {lead.description}" if lead.description else "",
         f"   Site:    {lead.website}" if lead.website else "   Site:    (not resolved)",
         f"   Posting: {lead.url}",

@@ -19,6 +19,7 @@ import brief
 import filters
 import state
 from companies import CompanyIndex
+from contacts import ExaEnricher
 from score import rank
 from sources import SOURCES
 
@@ -36,6 +37,10 @@ SCORE_FLOOR = int(os.environ.get("SCORE_FLOOR", "8"))
 # failure this repo exists to prevent, so it gets its own hard limits.
 TAIL_CAP = int(os.environ.get("TAIL_CAP", "8"))
 TAIL_FLOOR = int(os.environ.get("TAIL_FLOOR", "5"))
+
+# How many top-ranked leads get an Exa call. Bounds spend: only the shortlist
+# is verified, not every qualified posting.
+SHORTLIST = int(os.environ.get("SHORTLIST", "10"))
 
 
 def dedupe(leads: list) -> list:
@@ -112,6 +117,29 @@ def main() -> None:
 
     print("\n[4] Ranking")
     ranked = rank(new)
+
+    # Two passes on purpose. Verification changes the score, so it has to run
+    # before the final cut — but enriching all ~50 qualified leads would be
+    # ~50 Exa calls a day for 5 slots. So: rank on board data, enrich only the
+    # shortlist, then re-rank that shortlist on verified data. Bounded cost,
+    # and the leads that actually get sent are the ones whose numbers were
+    # checked.
+    enricher = ExaEnricher()
+    if enricher.enabled:
+        shortlist = ranked[:SHORTLIST]
+        print(f"\n[4b] Verifying + finding contacts for the top {len(shortlist)} (Exa)")
+        found = 0
+        for lead in shortlist:
+            if enricher.enrich(lead):
+                found += 1
+            names = ", ".join(c["name"] for c in lead.contacts) or "no contact"
+            flag = f"  ⚠ {lead.verification_note}" if lead.verification_note else ""
+            print(f"    {lead.company:<28} {names}{flag}")
+        print(f"    contacts found for {found}/{len(shortlist)}")
+        ranked = rank(shortlist) + ranked[SHORTLIST:]
+    else:
+        print("\n[4b] EXA_API_KEY not set — skipping contacts and verification")
+
     top = [l for l in ranked if l.score >= SCORE_FLOOR][:DAILY_CAP]
     top_keys = {l.key for l in top}
     rest = [

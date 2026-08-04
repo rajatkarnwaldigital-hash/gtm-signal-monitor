@@ -83,9 +83,38 @@ class MySource(Source):
 4. **Enrich** (`companies.py`) — join to the Techstars dataset for domain,
    description, cohort year.
 5. **Rank** (`score.py`) — see below.
-6. **Context** (`brief.py`) — Claude (`claude-opus-5`) writes a one-line "why
+6. **Contacts + verification** (`contacts.py`) — Exa, on the top `SHORTLIST`
+   (10) only. See below.
+7. **Re-rank** the shortlist on verified numbers, then cut to `DAILY_CAP`.
+8. **Context** (`brief.py`) — Claude (`claude-opus-5`) writes a one-line "why
    now" and a one-line opener, **only for leads that make the cut**.
-7. **Deliver** — Gmail SMTP digest, then append to `ledger.md`.
+9. **Deliver** — Gmail SMTP digest, then append to `ledger.md`.
+
+### Contacts and verification (`contacts.py`)
+
+One Exa call per shortlisted lead, doing two jobs:
+
+**Who to talk to.** Returns a founder/exec and a GTM/BD person when both exist,
+each with title and LinkedIn URL — so the digest names a person instead of
+saying "your new sales lead". Hit rate on a live sample was 5/5 for a named
+founder. Results are disambiguated against the company's LinkedIn slug and
+domain, because a search for "Frictionless Technologies" also returns
+Frictionless Capital and DataWhisper, unrelated companies sharing a word.
+
+**Whether the board is telling the truth.** Getro's `stage` and `headCount` are
+softer than they look. On the first live digest, **heva ranked #3 on "pre-seed,
+1-10 employees" while actually being ~25 people with $6M raised across two
+rounds** — its CEO was publicly posting a $1M revenue run rate. Exa's company
+blurb carries headcount, YoY growth and total funding, so those numbers get
+re-checked and a conflict costs the lead 6 points. Re-running that case drops
+heva from 19 to 14 and out of the sent list.
+
+Two passes on purpose: verification changes the score, so it must run before the
+final cut — but enriching all ~50 qualified postings would be 50 Exa calls a day
+for 5 slots. Ranking on board data first and enriching only the top 10 bounds
+the cost while still fact-checking everything that gets sent.
+
+Without `EXA_API_KEY` the step is skipped and the digest sends as before.
 
 ### Scoring
 
@@ -102,11 +131,15 @@ Blunt on purpose — the ordering matters, the numbers don't.
 | Techstars cohort within 3 years | +3 (−2 if 8+ years old) |
 | Posted within 3 days | +2 |
 | No domain resolved | −4 — unreachable is unactionable |
+| Board headcount contradicted by Exa | **−6** — the data the score rests on is wrong |
+| Headcount shrinking YoY | −2 |
 
 ## Setup
 
 Repository secrets (Settings → Secrets and variables → Actions):
-`ANTHROPIC_API_KEY`, `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD`, `RECIPIENT_EMAIL`.
+`ANTHROPIC_API_KEY`, `EXA_API_KEY`, `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD`,
+`RECIPIENT_EMAIL`. Both `ANTHROPIC_API_KEY` and `EXA_API_KEY` are optional —
+without them the digest still sends, with less context.
 `GMAIL_APP_PASSWORD` is an [App Password](https://myaccount.google.com/apppasswords),
 not the account password.
 
@@ -124,8 +157,8 @@ the next run rather than silently lost.
 
 ## Tuning
 
-`DAILY_CAP` (default 5) and `SCORE_FLOOR` (default 8) are environment
-variables. If the digest feels thin or noisy after a week of real output, move
+`DAILY_CAP` (5), `SCORE_FLOOR` (8), `TAIL_CAP` (8), `TAIL_FLOOR` (5) and
+`SHORTLIST` (10, how many leads get an Exa call) are environment variables. If the digest feels thin or noisy after a week of real output, move
 `SCORE_FLOOR` before anything else.
 
 ## Verified / not verified
@@ -133,8 +166,14 @@ variables. If the digest feels thin or noisy after a week of real output, move
 Run end to end against live data on 2026-08-04: source fetch, filtering,
 company join, scoring, ranking and digest rendering all confirmed working.
 
-**The Claude context step has not been exercised against a live API key** — no
-credential was available in the build environment. The request shape was
-confirmed valid (the SDK accepted the parameters and the call was rejected only
-at authentication, HTTP 401, not 400). Hook/opener generation degrades to empty
-strings on any failure, and the digest still sends without them.
+The Claude context step was confirmed working by a live send on 2026-08-04.
+
+**The Exa step in `contacts.py` has not run against a live `EXA_API_KEY`** — no
+credential was available in the build environment. What *was* verified: the
+underlying searches (run through a separate Exa integration) returned a named
+founder with a LinkedIn URL for 5/5 sampled companies, and every parser in
+`contacts.py` — headcount, YoY growth, funding, rounds, role lines, conflict
+detection — was unit-tested against those real response strings. What is
+unverified is the HTTP call itself: endpoint, auth header and response envelope
+are written to Exa's published REST spec but have not been exercised. Any
+failure is caught and the lead falls back to its pre-enrichment digest entry.

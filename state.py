@@ -54,6 +54,10 @@ def append_ledger(leads: list) -> None:
         lines.append(f"### {lead.company} — {lead.title}")
         lines.append(f"- **Score** {lead.score} · {' · '.join(lead.reasons)}")
         lines.append(f"- **Site** {lead.website or 'unknown'} · **Posting** {lead.url}")
+        for contact in lead.contacts:
+            # The whole point of the ledger: when this person accepts a
+            # connection next week, their name is what you'll have to grep on.
+            lines.append(f"- **Contacted** {contact['name']}, {contact['role']} — {contact['linkedin']}")
         if lead.description:
             lines.append(f"- **What they do** {lead.description}")
         if lead.hook:

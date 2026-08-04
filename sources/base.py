@@ -32,12 +32,23 @@ class Lead:
     company_slug: str | None = None
     industry_tags: list[str] = field(default_factory=list)
 
-    # Filled in downstream by companies.py / score.py / brief.py
+    # Filled in downstream by companies.py / contacts.py / score.py / brief.py
     website: str = ""
     domain: str = ""
     description: str = ""
     program: str = ""
     cohort_year: int | None = None
+
+    # From contacts.py (Exa): who to talk to, and a second opinion on the
+    # company facts the score depends on.
+    contacts: list[dict] = field(default_factory=list)
+    evidence: str = ""
+    verified_headcount: str = ""
+    headcount_growth: str = ""
+    total_funding: str = ""
+    funding_rounds: int | None = None
+    verification_note: str = ""
+
     score: int = 0
     reasons: list[str] = field(default_factory=list)
     hook: str = ""
