@@ -8,3 +8,6 @@ venv/
 
 # NOTE: seen.json and ledger.md are intentionally NOT ignored.
 # The workflow commits them after every run — that is how state persists.
+
+# Local HTML preview scratch — not part of the pipeline
+.preview/

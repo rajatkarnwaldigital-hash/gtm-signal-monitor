@@ -12,7 +12,10 @@ from __future__ import annotations
 import os
 import smtplib
 from datetime import datetime, timezone
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+
+from render_html import build_html
 
 MODEL = "claude-opus-5"
 MAX_TOKENS = 8000
@@ -197,10 +200,16 @@ def send(top: list, rest: list) -> bool:
 
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     subject = f"GTM signals — {len(top)} to act on ({len(rest)} below bar) — {date_str}"
-    msg = MIMEText(build_body(top, rest), "plain", "utf-8")
+
+    # multipart/alternative: the HTML is what he'll see, but the plain-text part
+    # is a real fallback rather than a stub — it's the version that survives
+    # notification previews, watch faces and any client that refuses HTML.
+    msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = GMAIL_ADDRESS
     msg["To"] = RECIPIENT_EMAIL
+    msg.attach(MIMEText(build_body(top, rest), "plain", "utf-8"))
+    msg.attach(MIMEText(build_html(top, rest, date_str), "html", "utf-8"))
 
     print(f"[*] Sending: {subject}")
     try:
