@@ -136,7 +136,11 @@ def main() -> None:
             flag = f"  ⚠ {lead.verification_note}" if lead.verification_note else ""
             print(f"    {lead.company:<28} {names}{flag}")
         print(f"    contacts found for {found}/{len(shortlist)}")
-        ranked = rank(shortlist) + ranked[SHORTLIST:]
+        # Re-score the WHOLE list, not just the shortlist. Concatenating a
+        # re-ranked shortlist onto the untouched remainder left the tail out of
+        # order — a demoted lead (heva, 12) still printed above an untouched
+        # one with a higher score (Dfns, 13).
+        ranked = rank(shortlist + ranked[SHORTLIST:])
     else:
         print("\n[4b] EXA_API_KEY not set — skipping contacts and verification")
 

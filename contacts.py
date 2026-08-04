@@ -69,6 +69,26 @@ def _slug(text: str) -> str:
     return re.sub(r"[^a-z0-9]", "", (text or "").lower())
 
 
+_MULTIPLIER = {"K": 1_000, "M": 1_000_000, "B": 1_000_000_000}
+
+
+def _funding_is_plausible(amount: str, rounds: int | None) -> bool:
+    """Suppress obviously-wrong totals rather than print them.
+
+    A live digest showed "hexafarms · $11K raised / 4 rounds" for a 20-30
+    person company. Whether the source or the parse was at fault, a figure
+    that self-evidently can't be true costs more credibility in the inbox than
+    an omitted field does.
+    """
+    try:
+        value = float(amount.rstrip("KMB")) * _MULTIPLIER.get(amount[-1].upper(), 1)
+    except (ValueError, IndexError):
+        return False
+    if rounds and rounds >= 2 and value < 250_000:
+        return False
+    return value >= 10_000
+
+
 def _blob(result: dict) -> str:
     parts = [result.get("text") or "", result.get("summary") or ""]
     parts.extend(result.get("highlights") or [])
@@ -84,13 +104,7 @@ class ExaEnricher:
 
     enabled = bool(EXA_API_KEY)
 
-    def _search(self, lead) -> list[dict]:
-        query = (
-            f"category:people founder, CEO or head of sales/business development at "
-            f"{lead.company}"
-            + (f" ({lead.domain})" if lead.domain else "")
-            + (f", {lead.description[:120]}" if lead.description else "")
-        )
+    def _search(self, query: str) -> list[dict]:
         body = {
             "query": query,
             "numResults": NUM_RESULTS,
@@ -98,6 +112,26 @@ class ExaEnricher:
             "contents": {"highlights": True, "text": {"maxCharacters": 3000}},
         }
         return _post(body).get("results", [])
+
+    def _queries(self, lead) -> list[str]:
+        """Primary query by registered name; fallback by brand.
+
+        Registered names and trading names diverge often enough to matter:
+        "Frictionless Technologies Ltd" trades as FAM at joinfam.com, and
+        searching the legal name returns Frictionless Capital instead. The
+        brand in the domain is what LinkedIn profiles actually say.
+        """
+        role = "founder, CEO or head of sales/business development at"
+        desc = f", {lead.description[:120]}" if lead.description else ""
+        primary = f"category:people {role} {lead.company}"
+        if lead.domain:
+            primary += f" ({lead.domain})"
+        queries = [primary + desc]
+
+        brand = lead.domain.split(".")[0] if lead.domain else ""
+        if brand and _slug(brand) not in _slug(lead.company):
+            queries.append(f"category:people {role} {brand} ({lead.domain}){desc}")
+        return queries
 
     def _belongs(self, result: dict, lead) -> bool:
         """Guard against same-word companies (Frictionless Technologies vs
@@ -137,12 +171,12 @@ class ExaEnricher:
             raw = m.group(1).lstrip("+-")
             bound = raw.split("-")[-1]
             lead.headcount_growth = f"-{bound}%" if decline else f"+{bound}%"
-        m = _FUNDING_RE.search(blob)
-        if m:
-            lead.total_funding = f"${m.group(1)}"
         m = _ROUNDS_RE.search(blob)
         if m:
             lead.funding_rounds = int(m.group(1))
+        m = _FUNDING_RE.search(blob)
+        if m and _funding_is_plausible(m.group(1), lead.funding_rounds):
+            lead.total_funding = f"${m.group(1)}"
 
         # Flag the case that caused the mis-rank: board says tiny, reality isn't.
         claimed = (lead.headcount or "").split("-")[-1]
@@ -155,11 +189,17 @@ class ExaEnricher:
     def enrich(self, lead) -> bool:
         if not self.enabled:
             return False
-        try:
-            results = self._search(lead)
-        except Exception as e:
-            print(f"    ! Exa lookup failed for {lead.company}: {e}")
-            return False
+
+        results: list[dict] = []
+        for query in self._queries(lead):
+            try:
+                results = self._search(query)
+            except Exception as e:
+                print(f"    ! Exa lookup failed for {lead.company}: {e}")
+                return False
+            # Only pay for the brand fallback when the legal name found nobody.
+            if any(self._belongs(r, lead) for r in results):
+                break
 
         leader, gtm, evidence = None, None, ""
         for result in results:
