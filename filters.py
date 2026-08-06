@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 # their "newest 20" includes everything ever posted. Without this cutoff the
 # digest ranked a 475-day-old founding AE role at #2 and a 358-day-old Head of
 # Sales at #4 — both long dead, both scored as live signal.
-MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "30"))
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "14"))
 
 # Roles that indicate a company is standing up revenue motion.
 GTM_TITLE = re.compile(

@@ -79,7 +79,7 @@ class MySource(Source):
    is re-checked against a strict GTM regex locally. Disqualifies interns,
    "sales engineer", account managers (retention, not new revenue), etc.
 
-   **Also drops anything older than `MAX_AGE_DAYS` (30).** This is not
+   **Also drops anything older than `MAX_AGE_DAYS` (14).** This is not
    cosmetic. The board returns the newest 20 *per query*, which is not the same
    as recent: `founding account executive` matches only three jobs board-wide,
    so its "newest 20" includes everything ever posted under that title. Before
