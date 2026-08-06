@@ -77,8 +77,17 @@ class MySource(Source):
    pre-seed / seed / Series A.
 2. **Filter** (`filters.py`) — `q` search is fuzzy and ORs terms, so every title
    is re-checked against a strict GTM regex locally. Disqualifies interns,
-   "sales engineer", account managers (retention, not new revenue), etc. Last
-   run: 155 postings → 55 qualified.
+   "sales engineer", account managers (retention, not new revenue), etc.
+
+   **Also drops anything older than `MAX_AGE_DAYS` (30).** This is not
+   cosmetic. The board returns the newest 20 *per query*, which is not the same
+   as recent: `founding account executive` matches only three jobs board-wide,
+   so its "newest 20" includes everything ever posted under that title. Before
+   the cutoff, a live digest ranked a **475-day-old** founding AE role at #2 and
+   a **358-day-old** Head of Sales at #4 — five of the top ten were over a month
+   old. Scoring made it worse by rewarding freshness (+2) without ever
+   penalising age. Last run: 148 postings → 52 GTM-titled → 16 stale dropped →
+   35 qualified.
 3. **Diff** against `seen.json`.
 4. **Enrich** (`companies.py`) — join to the Techstars dataset for domain,
    description, cohort year.

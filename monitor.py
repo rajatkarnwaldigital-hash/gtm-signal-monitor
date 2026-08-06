@@ -88,11 +88,14 @@ def main() -> None:
         sys.exit(1)
 
     print(f"\n[2] Filtering {len(raw)} postings for real GTM roles")
+    gtm = [l for l in raw if filters.is_gtm_role(l.title)]
+    stale = [l for l in gtm if not filters.is_current(l)]
     qualified = [l for l in raw if filters.qualifies(l)]
     deduped = dedupe(qualified)
     print(
         f"    {len(deduped)} qualified "
-        f"({len(raw) - len(qualified)} dropped, {len(qualified) - len(deduped)} duplicate postings)"
+        f"({len(raw) - len(gtm)} not GTM, {len(stale)} older than "
+        f"{filters.MAX_AGE_DAYS}d, {len(qualified) - len(deduped)} duplicates)"
     )
     qualified = deduped
 

@@ -7,7 +7,17 @@ against GTM_TITLE locally before it can become a lead.
 
 from __future__ import annotations
 
+import os
 import re
+from datetime import datetime, timezone
+
+# A posting only carries the buying signal while it is actually open. The board
+# returns the newest 20 *per query*, which is not the same as recent: narrow
+# terms like "founding account executive" match only three jobs board-wide, so
+# their "newest 20" includes everything ever posted. Without this cutoff the
+# digest ranked a 475-day-old founding AE role at #2 and a 358-day-old Head of
+# Sales at #4 — both long dead, both scored as live signal.
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "30"))
 
 # Roles that indicate a company is standing up revenue motion.
 GTM_TITLE = re.compile(
@@ -61,5 +71,22 @@ def is_gtm_role(title: str) -> bool:
     return bool(GTM_TITLE.search(title)) and not DISQUALIFY.search(title)
 
 
+def age_days(lead) -> float | None:
+    """None when the posting carries no usable date — treated as too old to
+    trust rather than assumed fresh."""
+    try:
+        posted = datetime.fromisoformat(lead.posted_at)
+    except (TypeError, ValueError):
+        return None
+    if posted.tzinfo is None:
+        posted = posted.replace(tzinfo=timezone.utc)
+    return (datetime.now(timezone.utc) - posted).total_seconds() / 86400
+
+
+def is_current(lead) -> bool:
+    age = age_days(lead)
+    return age is not None and age <= MAX_AGE_DAYS
+
+
 def qualifies(lead) -> bool:
-    return is_gtm_role(lead.title) and (lead.stage in ALLOWED_STAGES)
+    return is_gtm_role(lead.title) and lead.stage in ALLOWED_STAGES and is_current(lead)
