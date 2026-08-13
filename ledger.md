@@ -65,3 +65,22 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators
 - **Why now** AmorSui posted its first Enterprise Account Executive today, and with a 1-10 person team that grew 20% in the past year plus $3.7M raised, there is almost certainly no pipeline system behind the reusable PPE story Will describes for healthcare buyers.
 - **Opener sent** Hi Will, I noticed AmorSui is hiring an Enterprise Account Executive, which usually means someone is about to inherit a blank pipeline. In roughly a week I could build the hospital and health system target list, enrich it down to the sustainability and supply chain contacts who actually sign, and set up sequences that lead with the reuse and recycling metrics from your tracking app, so the AE starts with meetings instead of research.
+
+## 2026-08-13
+
+### Cooklist — Product Marketing Lead
+- **Score** 15 · seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 0d ago
+- **Site** https://cooklist.co · **Posting** https://jobs.techstars.com/companies/cooklist/jobs/89674059-product-marketing-lead
+- **Contacted** Daniel Vitiello, Co-founder - CEO CTO — https://www.linkedin.com/in/dkvitiello
+- **What they do** Shows shoppers recipes they can cook with the groceries they buy, and allows them to choose recipes and automatically order the ingredients they need.
+- **Why now** Daniel has been running Cooklist since 2018 on $2.9M and is only now opening a Product Marketing Lead role, their sole GTM opening, so the new hire will arrive with no pipeline system to inherit and a retailer plus CPG audience that needs targeting from scratch.
+- **Opener sent** Hi Daniel, saw the Product Marketing Lead opening at Cooklist and it looks like the first dedicated GTM hire after eight years of building the app and the retailer side. I do one week builds of the outbound plumbing before someone like that starts, so lists, enrichment and sequences for CPG and grocery retail contacts are already running on day one.
+
+### OpenLoop — Senior Strategic Account Executive, Employer
+- **Score** 9 · series a stage · only GTM role open — likely their first · posted 0d ago
+- **Site** https://openloophealth.com · **Posting** https://jobs.techstars.com/companies/openloop/jobs/89644405-senior-strategic-account-executive-employer
+- **Contacted** Jon Lensing, Co-Founder, CEO — https://www.linkedin.com/in/jon-lensing
+- **Contacted** Bailey Hawn, Vice President of Business Development — https://linkedin.com/in/baileyhawn
+- **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
+- **Why now** The listing for a Senior Strategic Account Executive on the employer side is the signal, though the background contradicts the framing that this is their first GTM role since Bailey Hawn is already VP of Business Development and headcount reads 500-600 with clinician network included, so this is a new employer segment rather than a first sales hire.
+- **Opener sent** Hi Jon, noticed you are hiring a Senior Strategic Account Executive for the employer side, which reads like a new segment rather than a new team. I build the signal and enrichment side of that in about a week, so the AE walks into a working list of employers and benefits buyers with sequences already firing instead of building it themselves.
