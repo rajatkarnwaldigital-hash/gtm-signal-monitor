@@ -84,3 +84,19 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
 - **Why now** The listing for a Senior Strategic Account Executive on the employer side is the signal, though the background contradicts the framing that this is their first GTM role since Bailey Hawn is already VP of Business Development and headcount reads 500-600 with clinician network included, so this is a new employer segment rather than a first sales hire.
 - **Opener sent** Hi Jon, noticed you are hiring a Senior Strategic Account Executive for the employer side, which reads like a new segment rather than a new team. I build the signal and enrichment side of that in about a week, so the AE walks into a working list of employers and benefits buyers with sequences already firing instead of building it themselves.
+
+## 2026-08-14
+
+### Westcott Multimedia — Account Executive - Rise.ai
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/89845580-account-executive-rise-ai
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** A 1-10 person seed team out of Techstars 2021 posted an Account Executive role for Rise.ai today, so the first seller is arriving before there is any pipeline machinery for them to inherit.
+- **Opener sent** Shaun, saw the Account Executive opening for Rise.ai went up today. Since Westcott already runs on signals for ad uplift, I could spend a week wiring the same idea into outbound so whoever takes the seat starts with a live target list and sequences instead of a blank CRM.
+
+### Westcott Multimedia — Enterprise Account Executive
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/89845579-enterprise-account-executive
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** Westcott posted an Enterprise Account Executive role the same day as the Rise.ai AE role, which means two quota-carrying hires at a 1-10 person seed company and no shared prospecting setup behind either of them.
+- **Opener sent** Shaun, noticed Westcott has an Enterprise Account Executive role posted alongside the Rise.ai AE one. I build the outbound layer for teams at that exact moment, usually a one week engagement covering enrichment, account signals and the first automated sequences, so both hires land on something that already works.
