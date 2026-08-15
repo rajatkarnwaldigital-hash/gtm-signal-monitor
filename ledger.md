@@ -100,3 +100,13 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
 - **Why now** Westcott posted an Enterprise Account Executive role the same day as the Rise.ai AE role, which means two quota-carrying hires at a 1-10 person seed company and no shared prospecting setup behind either of them.
 - **Opener sent** Shaun, noticed Westcott has an Enterprise Account Executive role posted alongside the Rise.ai AE one. I build the outbound layer for teams at that exact moment, usually a one week engagement covering enrichment, account signals and the first automated sequences, so both hires land on something that already works.
+
+## 2026-08-15
+
+### Movopack — Head of Growth - UK
+- **Score** 14 · seed stage · 11-50 employees · stage data unreliable — board said 1-10, Exa says 20-30 employees · headcount shrinking (-3% YoY) · GTM leadership hire — owns the budget · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://movopack.com · **Posting** https://jobs.techstars.com/companies/movopack/jobs/90020559-head-of-growth-uk
+- **Contacted** Tomaso Torriani, CEO and founder — https://it.linkedin.com/in/tomaso-torriani
+- **What they do** Movo provides circular and reusable packaging solutions for e-commerce folks.
+- **Why now** They just posted a Head of Growth for the UK today, their only open GTM role, which reads as the first real GTM hire for a UK expansion off $2.5M and a Techstars 2023 cohort; note the background contradicts the ranking data, Tomaso's own company profile says 20-30 people growing 5-6% YoY, not shrinking, with staff already split across Italy, the UK and Denmark.
+- **Opener sent** Hi Tomaso, saw the Head of Growth UK opening go up. Before they start I could stand up the UK side of the pipeline in about a week: a list of UK e-commerce and retail brands scored on shipping volume and packaging signals, enriched contacts, and outbound sequences already running so your new hire walks into conversations instead of a blank CRM.
