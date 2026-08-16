@@ -110,3 +110,13 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Movo provides circular and reusable packaging solutions for e-commerce folks.
 - **Why now** They just posted a Head of Growth for the UK today, their only open GTM role, which reads as the first real GTM hire for a UK expansion off $2.5M and a Techstars 2023 cohort; note the background contradicts the ranking data, Tomaso's own company profile says 20-30 people growing 5-6% YoY, not shrinking, with staff already split across Italy, the UK and Denmark.
 - **Opener sent** Hi Tomaso, saw the Head of Growth UK opening go up. Before they start I could stand up the UK side of the pipeline in about a week: a list of UK e-commerce and retail brands scored on shipping volume and packaging signals, enriched contacts, and outbound sequences already running so your new hire walks into conversations instead of a blank CRM.
+
+## 2026-08-16
+
+### telnyx — Regional Sales Director, APAC (Hybrid)
+- **Score** 8 · seed stage · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/90091619-regional-sales-director-apac-hybrid
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** The stage label is wrong here: background shows Telnyx founded in 2009, 300-400 employees (+20% YoY) and $10M-$20M revenue, so this is not a seed first-sales-hire play but a new-territory one, and the Regional Sales Director, APAC role posted today means a Sydney-based rep is about to start with no local pipeline, list or sequencing built for that region.
+- **Opener sent** Hi David, saw the Regional Sales Director APAC role go up in Sydney. Before that person lands, I could spend a week building out the APAC side of your outbound: a target account list for the region, enrichment on developer and platform signals, and sequences ready to run on day one so they are not starting from a blank CRM.
