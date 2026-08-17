@@ -120,3 +120,12 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
 - **Why now** The stage label is wrong here: background shows Telnyx founded in 2009, 300-400 employees (+20% YoY) and $10M-$20M revenue, so this is not a seed first-sales-hire play but a new-territory one, and the Regional Sales Director, APAC role posted today means a Sydney-based rep is about to start with no local pipeline, list or sequencing built for that region.
 - **Opener sent** Hi David, saw the Regional Sales Director APAC role go up in Sydney. Before that person lands, I could spend a week building out the APAC side of your outbound: a target account list for the region, enrichment on developer and platform signals, and sequences ready to run on day one so they are not starting from a blank CRM.
+
+## 2026-08-17
+
+### Westcott Multimedia — Go-to-Market & Revenue Manager - Rise.ai
+- **Score** 17 · seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/90135306-go-to-market-revenue-manager-rise-ai
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** They posted their first GTM hire (Go-to-Market and Revenue Manager for Rise.ai) today at seed stage with under 10 people, and since the product itself is signals based advertising, the founding team already believes in signal driven GTM but has no outbound infrastructure for that new hire to walk into.
+- **Opener sent** Hi Shaun, saw Westcott just opened the Go-to-Market and Revenue Manager role for Rise.ai. Before that person starts I can spend a week building the outbound plumbing they would otherwise spend their first two months on, signal tracking on creators and catalogs, enrichment, and sequences already firing.
