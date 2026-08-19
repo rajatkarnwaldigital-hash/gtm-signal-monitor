@@ -9,7 +9,9 @@ same companies.
 """
 
 from .techstars_getro import TechstarsGetro
+from .regional_getro import RegionalGetro
 
 SOURCES = [
     TechstarsGetro(),
+    RegionalGetro(),
 ]
