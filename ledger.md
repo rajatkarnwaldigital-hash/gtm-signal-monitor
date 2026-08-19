@@ -129,3 +129,10 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
 - **Why now** They posted their first GTM hire (Go-to-Market and Revenue Manager for Rise.ai) today at seed stage with under 10 people, and since the product itself is signals based advertising, the founding team already believes in signal driven GTM but has no outbound infrastructure for that new hire to walk into.
 - **Opener sent** Hi Shaun, saw Westcott just opened the Go-to-Market and Revenue Manager role for Rise.ai. Before that person starts I can spend a week building the outbound plumbing they would otherwise spend their first two months on, signal tracking on creators and catalogs, enrichment, and sequences already firing.
+
+## 2026-08-19
+
+### Grips Intelligence — Sales Development Representative
+- **Score** 11 · series a stage · 11-50 employees · only GTM role open — likely their first · Techstars 2017 — old cohort · posted 0d ago
+- **Site** https://gripsintelligence.com · **Posting** https://jobs.techstars.com/companies/grips-intelligence/jobs/90336660-sales-development-representative
+- **What they do** Data science company that builds optimization and intelligence products for eCommerce
