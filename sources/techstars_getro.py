@@ -1,75 +1,77 @@
-"""Techstars portfolio jobs, via the board's own Next.js data endpoint.
+"""Techstars portfolio jobs, via Getro's paginated v2 search API.
 
-jobs.techstars.com is a Getro board (network 89, ~4,800 live jobs across ~2,900
-companies). No scraping and no API key: the board server-renders its result set
-into `__NEXT_DATA__`, and the same payload is served as JSON at
-`/_next/data/<buildId>/jobs.json`, which honours the board's own `q` and
-`filter` query params.
+jobs.techstars.com is a Getro board (network 89, ~4,700 live jobs across ~2,900
+companies). No scraping and no API key.
 
-Two things about that endpoint shape the design here:
+This module previously read the board's `/_next/data/<buildId>/jobs.json`
+endpoint, because api.getro.com/v2 appeared to return 401. It does not: it
+returns **406 unless you send `Accept: application/json`**. With that header the
+paginated endpoint works fine, which removes the constraint the old design was
+built around — we no longer need one narrow query per GTM archetype, and there
+is no newest-20 ceiling to work under. We now walk the full result set.
 
-  * It returns only the first 20 results per query, and there is no pagination
-    (`page`/`offset` are ignored; the paginated api.getro.com/v2 endpoint is
-    401). So we cannot walk the whole board.
-  * Results are sorted strictly newest-first.
+Two things about this endpoint still shape the design:
 
-Rather than fight that, we lean on it: we issue one narrow query per GTM role
-archetype and take each slice's newest 20. Since we only care about roles posted
-since the last run, 20-per-slice-per-day is ample headroom for narrow terms —
-and it keeps the whole run to ~15 requests. `SATURATION_WARN` flags any slice
-that came back full, which is the signal to split that term in two.
+  * `hitsPerPage` is capped at 20 server-side. Larger values are silently
+    clamped, so pagination is mandatory rather than optional.
+  * **The `stage` filter is silently ignored.** Passing it returns the
+    unfiltered count (4,689 either way) and happily includes series_b+
+    companies. Only `job_functions` actually filters server-side. Stage is
+    therefore applied locally, off `organization.stage`, which is present on
+    every row. Do not re-add it to the request payload believing it works.
 
-`q` is fuzzy (it ORs terms), so it is a recall net only. Precision comes from
-GTM_TITLE in filters.py, applied to titles locally.
+Net effect vs. the old slice approach: ~473 early-stage GTM postings across
+~213 companies in ~41 requests, instead of at most 20 per archetype with heavy
+overlap between slices.
+
+`job_functions` uses an exact vocabulary — "Sales" matches nothing,
+"Sales & Business Development" is the real value — so the constants below are
+pinned and checked at runtime by `_validate()`.
 """
 
 from __future__ import annotations
 
-import base64
 import json
 import re
 import time
-import urllib.parse
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 
 from .base import Lead, Source
 
 BOARD = "https://jobs.techstars.com"
-BUILD_ID_RE = re.compile(r'"buildId"\s*:\s*"([^"]+)"')
+NETWORK = 89
+API = f"https://api.getro.com/api/v2/collections/{NETWORK}/search/jobs"
 
-# Stage filter applied server-side. Series B+ companies have GTM leadership and
-# usually an ops team already, which is the opposite of the buying signal.
-EARLY_STAGE = ["pre_seed", "seed", "series_a", "series_unknown"]
-
-# One narrow slice per GTM archetype. Narrow beats broad here: "head of sales"
-# returns 21 total matches, so its newest-20 covers essentially all of it,
-# whereas "sales" alone returns 1,547 and its newest-20 is mostly noise.
-GTM_QUERIES = [
-    "head of sales",
-    "founding account executive",
-    "account executive",
-    "head of growth",
-    "growth marketing",
-    "demand generation",
-    "revenue operations",
-    "sales development",
-    "business development",
-    "gtm",
-    "go to market",
-    "marketing lead",
+# Pinned Getro job_functions vocabulary. Getro files RevOps, partnerships and
+# growth-engineering roles under Operations, so it is pulled too; filters.py
+# GTM_TITLE does the precision pass on titles locally.
+GTM_FUNCTIONS = [
+    "Sales & Business Development",
+    "Marketing & Communications",
+    "Operations",
 ]
 
-PAGE_SIZE = 20
-SATURATION_WARN = 20
-REQUEST_PAUSE = 0.3
+# Applied locally — see the module docstring on why this cannot be a filter.
+# Series B+ companies have GTM leadership and usually an ops team already,
+# which is the opposite of the buying signal.
+EARLY_STAGE = {"pre_seed", "seed", "series_a", "series_unknown"}
+
+PAGE_SIZE = 20  # server-side cap; larger values are silently clamped
+MAX_PAGES = 200  # safety rail against an unbounded loop if `count` misbehaves
+REQUEST_PAUSE = 0.25
 TIMEOUT = 30
 HEADERS = {
+    "Content-Type": "application/json",
+    # Without this the API returns 406, which is what previously read as "401".
+    "Accept": "application/json",
+    "Origin": BOARD,
+    "Referer": f"{BOARD}/",
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     ),
-    "Accept": "application/json",
 }
 
 # Getro encodes headcount as a bucket ordinal, not a real employee count.
@@ -82,7 +84,6 @@ HEADCOUNT_BUCKETS = {
     6: "1001-5000",
     7: "5000+",
 }
-
 
 # The board renders status badges adjacent to the title, and they arrive
 # concatenated onto it with no separator ("...(Vet Sales)NewOn-Site").
@@ -98,44 +99,76 @@ def _clean_title(title: str) -> str:
     return title
 
 
-def _get(url: str) -> dict:
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-        return json.loads(resp.read().decode())
+def _post(payload: dict, attempts: int = 4) -> dict:
+    last = None
+    for i in range(attempts):
+        try:
+            req = urllib.request.Request(
+                API, data=json.dumps(payload).encode(), headers=HEADERS
+            )
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                return json.loads(resp.read().decode())
+        except urllib.error.HTTPError as e:
+            last = e
+            if e.code < 500 and e.code != 429:
+                raise
+        except Exception as e:  # noqa: BLE001 - retry any transport fault
+            last = e
+        if i < attempts - 1:
+            time.sleep(2 ** i)
+    raise RuntimeError(f"Getro request failed after {attempts} attempts: {last}")
+
+
+def _results(body: dict) -> tuple[list[dict], int]:
+    """Unwrap the response and fail loudly if its shape moved."""
+    res = (body or {}).get("results")
+    if not isinstance(res, dict) or "jobs" not in res or "count" not in res:
+        raise RuntimeError(
+            "Getro response shape changed — expected results.jobs and results.count, "
+            f"got {list(res) if isinstance(res, dict) else type(res).__name__}"
+        )
+    return res["jobs"], res["count"]
 
 
 class TechstarsGetro(Source):
     name = "techstars"
 
-    def __init__(self, queries: list[str] | None = None):
-        self.queries = queries or GTM_QUERIES
-        self._build_id: str | None = None
+    def _validate(self) -> None:
+        """Catch silent breakage before it looks like a quiet day of no postings.
 
-    def _build(self) -> str:
-        """The buildId rotates whenever Getro redeploys, so resolve it per run."""
-        if self._build_id:
-            return self._build_id
-        req = urllib.request.Request(f"{BOARD}/jobs", headers={"User-Agent": HEADERS["User-Agent"]})
-        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-            html = resp.read().decode()
-        m = BUILD_ID_RE.search(html)
-        if not m:
-            raise RuntimeError(
-                "Could not resolve the Techstars board buildId — the board's page "
-                "structure changed and this source needs revisiting."
-            )
-        self._build_id = m.group(1)
-        return self._build_id
-
-    def _slice(self, term: str) -> tuple[list[dict], int]:
-        filt = base64.b64encode(json.dumps({"stage": EARLY_STAGE}).encode()).decode()
-        url = (
-            f"{BOARD}/_next/data/{self._build()}/jobs.json"
-            f"?q={urllib.parse.quote(term)}&filter={urllib.parse.quote(filt)}"
+        A renamed job_functions value would match nothing and emit zero leads
+        without erroring, which is indistinguishable from a genuinely quiet run.
+        """
+        _, unfiltered = _results(_post({"hitsPerPage": 0, "page": 0}))
+        _, filtered = _results(
+            _post({"hitsPerPage": 0, "page": 0, "filters": {"job_functions": GTM_FUNCTIONS}})
         )
-        data = _get(url)
-        jobs = data["pageProps"]["initialState"]["jobs"]
-        return jobs.get("found", []), jobs.get("total", 0)
+        if unfiltered and filtered == 0:
+            raise RuntimeError(
+                f"job_functions {GTM_FUNCTIONS} matched 0 of {unfiltered} jobs — "
+                "Getro's vocabulary likely changed; re-derive it before trusting output."
+            )
+        if unfiltered and filtered == unfiltered:
+            raise RuntimeError(
+                "job_functions returned the unfiltered count — server-side filtering "
+                "is no longer being applied."
+            )
+
+    def _walk(self) -> list[dict]:
+        """Page through every GTM-function posting on the board."""
+        jobs: list[dict] = []
+        for page in range(MAX_PAGES):
+            body = _post({
+                "hitsPerPage": PAGE_SIZE,
+                "page": page,
+                "filters": {"job_functions": GTM_FUNCTIONS},
+            })
+            batch, total = _results(body)
+            jobs.extend(batch)
+            if len(batch) < PAGE_SIZE or len(jobs) >= total:
+                break
+            time.sleep(REQUEST_PAUSE)
+        return jobs
 
     def _to_lead(self, item: dict) -> Lead | None:
         title = _clean_title(item.get("title") or "")
@@ -144,7 +177,7 @@ class TechstarsGetro(Source):
         if not title or not company:
             return None
 
-        created = item.get("createdAt")
+        created = item.get("created_at")
         posted = (
             datetime.fromtimestamp(created, timezone.utc).isoformat()
             if isinstance(created, (int, float))
@@ -155,9 +188,12 @@ class TechstarsGetro(Source):
         job_slug = item.get("slug") or str(item.get("id") or "")
         # Prefer the board's own permalink: the raw `url` is the company's ATS
         # link, which rots as soon as the role closes.
-        board_url = f"{BOARD}/companies/{slug}/jobs/{job_slug}" if slug and job_slug else item.get("url", "")
+        board_url = (
+            f"{BOARD}/companies/{slug}/jobs/{job_slug}"
+            if slug and job_slug else item.get("url", "")
+        )
 
-        locations = item.get("locations") or []
+        locations = item.get("locations") or item.get("searchable_locations") or []
         location = " / ".join(str(x) for x in locations[:2]) if locations else ""
 
         return Lead(
@@ -168,33 +204,30 @@ class TechstarsGetro(Source):
             url=board_url,
             posted_at=posted,
             stage=org.get("stage"),
-            headcount=HEADCOUNT_BUCKETS.get(org.get("headCount")),
+            headcount=HEADCOUNT_BUCKETS.get(org.get("head_count")),
             location=location,
             company_slug=slug,
-            industry_tags=list(org.get("industryTags") or [])[:4],
+            industry_tags=list(org.get("industry_tags") or [])[:4],
         )
 
     def fetch(self) -> list[Lead]:
+        self._validate()
+        raw = self._walk()
+
         leads: dict[str, Lead] = {}
-        for term in self.queries:
-            try:
-                found, total = self._slice(term)
-            except Exception as e:
-                print(f"  ! slice '{term}' failed: {e}")
+        skipped_stage = 0
+        for item in raw:
+            stage = ((item.get("organization") or {}).get("stage") or "").lower()
+            if stage not in EARLY_STAGE:
+                skipped_stage += 1
                 continue
+            lead = self._to_lead(item)
+            if lead and lead.key not in leads:
+                leads[lead.key] = lead
 
-            new_here = 0
-            for item in found:
-                lead = self._to_lead(item)
-                if lead and lead.key not in leads:
-                    leads[lead.key] = lead
-                    new_here += 1
-
-            note = ""
-            if len(found) >= SATURATION_WARN:
-                note = f"  [saturated — {total} total match; consider splitting this term]"
-            print(f"  {term:<28} {len(found):>2} returned, {new_here:>2} new{note}")
-            time.sleep(REQUEST_PAUSE)
-
-        print(f"  {len(leads)} unique postings across {len(self.queries)} slices")
+        print(
+            f"  {len(raw)} GTM postings walked, "
+            f"{skipped_stage} dropped as later-stage, {len(leads)} early-stage leads "
+            f"across {len({l.company_slug for l in leads.values()})} companies"
+        )
         return list(leads.values())

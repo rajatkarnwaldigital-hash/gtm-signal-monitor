@@ -11,12 +11,12 @@ import os
 import re
 from datetime import datetime, timezone
 
-# A posting only carries the buying signal while it is actually open. The board
-# returns the newest 20 *per query*, which is not the same as recent: narrow
-# terms like "founding account executive" match only three jobs board-wide, so
-# their "newest 20" includes everything ever posted. Without this cutoff the
-# digest ranked a 475-day-old founding AE role at #2 and a 358-day-old Head of
-# Sales at #4 — both long dead, both scored as live signal.
+# A posting only carries the buying signal while it is actually open. The source
+# now walks the board's full result set rather than a newest-20 slice per query,
+# so it returns every matching posting regardless of age — making this cutoff
+# more load-bearing, not less. Without it the digest ranked a 475-day-old
+# founding AE role at #2 and a 358-day-old Head of Sales at #4 — both long dead,
+# both scored as live signal.
 MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "14"))
 
 # Roles that indicate a company is standing up revenue motion.
@@ -63,7 +63,7 @@ DISQUALIFY = re.compile(
 
 # Stages where the buying signal doesn't hold: too early to have budget, or late
 # enough to already own GTM infrastructure. Kept as a backstop — the source
-# already filters server-side.
+# applies this locally, since Getro's `stage` filter is silently ignored.
 ALLOWED_STAGES = {"pre_seed", "seed", "series_a", "series_unknown", None, ""}
 
 
