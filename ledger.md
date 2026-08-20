@@ -136,3 +136,17 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Score** 11 · series a stage · 11-50 employees · only GTM role open — likely their first · Techstars 2017 — old cohort · posted 0d ago
 - **Site** https://gripsintelligence.com · **Posting** https://jobs.techstars.com/companies/grips-intelligence/jobs/90336660-sales-development-representative
 - **What they do** Data science company that builds optimization and intelligence products for eCommerce
+
+## 2026-08-20
+
+### Granter.ai — Sales Account Executive
+- **Score** 15 · pre seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2025 — recent cohort · posted 0d ago
+- **Site** https://granter.ai · **Posting** https://jobs.techstars.com/companies/granter-ai/jobs/90428442-sales-account-executive
+- **Contacted** Bernardo Seixas, CEO — https://linkedin.com/in/bernardo-seixas-
+- **What they do** World's first AI agent for grants
+
+### Rivalia Chemical Co. — Business Development Manager
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/90489312-business-development-manager
+- **Contacted** Laura Stoy, CEO Founder — https://www.linkedin.com/in/lauramstoy
+- **What they do** American-made rare earths, produced from wastes
