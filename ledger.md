@@ -150,3 +150,11 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/90489312-business-development-manager
 - **Contacted** Laura Stoy, CEO Founder — https://www.linkedin.com/in/lauramstoy
 - **What they do** American-made rare earths, produced from wastes
+
+## 2026-08-21
+
+### Bold Metrics — Business Development Manager, Europe
+- **Score** 11 · series a stage · 11-50 employees · headcount shrinking (-4% YoY) · mid-level GTM hire · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://boldmetrics.com · **Posting** https://jobs.techstars.com/companies/bold-metrics/jobs/90626909-business-development-manager-europe
+- **Contacted** Morgan Linton, Co-founder & CTO — https://linkedin.com/in/morganlinton
+- **What they do** Unlocking human body data to fundamentally change commerce
