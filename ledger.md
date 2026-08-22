@@ -158,3 +158,18 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://boldmetrics.com · **Posting** https://jobs.techstars.com/companies/bold-metrics/jobs/90626909-business-development-manager-europe
 - **Contacted** Morgan Linton, Co-founder & CTO — https://linkedin.com/in/morganlinton
 - **What they do** Unlocking human body data to fundamentally change commerce
+
+## 2026-08-22
+
+### Orbit Fab — Business Development Manager
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://orbitfab.com · **Posting** https://jobs.techstars.com/companies/orbit-fab-2-4375b029-69ac-48c8-a92b-980ad3df9d26/jobs/90686579-business-development-manager
+- **Contacted** Peter Shaper, Chief Executive Officer — https://www.linkedin.com/in/peter-shaper-6489a33
+- **Contacted** Tejaswi T., Business Development Manager — https://linkedin.com/in/tejaswi-tiruvuru
+- **What they do** Gas Stations in Space(tm) - A multi-orbit refueling service provider, enabling novel mission flexibility for a bustling in-space economy.
+
+### Wunderite — Senior Account Executive
+- **Score** 10 · series unknown stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://wunderite.com · **Posting** https://jobs.techstars.com/companies/wunderite/jobs/90731554-senior-account-executive
+- **Contacted** Peter MacDonald, Co-founder & CEO — https://www.linkedin.com/in/petemacdonald
+- **What they do** Next-generation software for insurance agents #InsurTech #B2B #SaaS
