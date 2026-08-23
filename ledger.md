@@ -173,3 +173,19 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://wunderite.com · **Posting** https://jobs.techstars.com/companies/wunderite/jobs/90731554-senior-account-executive
 - **Contacted** Peter MacDonald, Co-founder & CEO — https://www.linkedin.com/in/petemacdonald
 - **What they do** Next-generation software for insurance agents #InsurTech #B2B #SaaS
+
+## 2026-08-23
+
+### LawnStarter — Senior Lifecycle Marketing Manager
+- **Score** 11 · series unknown stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://lawnstarter.com · **Posting** https://jobs.techstars.com/companies/lawnstarter/jobs/90837309-senior-lifecycle-marketing-manager
+- **Contacted** Steven Corcoran, Co-Founder — https://www.linkedin.com/in/steven-corcoran-8a10b64a
+- **Contacted** Shawn Jones, VP of Sales & Customer Operations at LawnStarter ... As a senior executive with  — https://www.linkedin.com/in/shawnclarksuccess
+- **What they do** The easiest way to order and manage lawn care service
+
+### Kadence — Sales Development Representative | SLC, UT
+- **Score** 8 · series a stage · 51-200 employees · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://kadence.co · **Posting** https://jobs.techstars.com/companies/kadence-2-b800fc25-1ef6-4860-944c-26db4679dfa3/jobs/90869612-sales-development-representative-slc-ut
+- **Contacted** Dan Bladen, Co-Founder & CEO — https://www.linkedin.com/in/danbladen
+- **Contacted** Bryce Brinkman, VP Revenue — https://www.linkedin.com/in/brycebrinkman
+- **What they do** SaaS, B2B SaaS, Future of Work
