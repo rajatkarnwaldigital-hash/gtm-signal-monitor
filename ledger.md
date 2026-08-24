@@ -189,3 +189,11 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Contacted** Dan Bladen, Co-Founder & CEO — https://www.linkedin.com/in/danbladen
 - **Contacted** Bryce Brinkman, VP Revenue — https://www.linkedin.com/in/brycebrinkman
 - **What they do** SaaS, B2B SaaS, Future of Work
+
+## 2026-08-24
+
+### Skopenow — Sales Development Representative
+- **Score** 12 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2016 — old cohort · posted 0d ago
+- **Site** https://skopenow.com · **Posting** https://jobs.techstars.com/companies/skopenow/jobs/90939525-sales-development-representative
+- **Contacted** Rob Douglas, CEO and Co-Founder — https://www.linkedin.com/in/robdouglas
+- **What they do** Skopenow is a people search engine for discovering fraud and evaluating risk.
