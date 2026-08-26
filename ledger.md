@@ -197,3 +197,12 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://skopenow.com · **Posting** https://jobs.techstars.com/companies/skopenow/jobs/90939525-sales-development-representative
 - **Contacted** Rob Douglas, CEO and Co-Founder — https://www.linkedin.com/in/robdouglas
 - **What they do** Skopenow is a people search engine for discovering fraud and evaluating risk.
+
+## 2026-08-26
+
+### Wagmo — Strategic Account Executive
+- **Score** 10 · series unknown stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://wagmo.io · **Posting** https://jobs.techstars.com/companies/wagmo/jobs/91098496-strategic-account-executive
+- **Contacted** Christie Horvath, Founder CEO — https://linkedin.com/in/christie-horvath
+- **Contacted** Sam Ward, VP of Marketing — https://www.linkedin.com/in/samanthalouiseward
+- **What they do** Wagmo is a doggy wellness plan.
