@@ -206,3 +206,12 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Contacted** Christie Horvath, Founder CEO — https://linkedin.com/in/christie-horvath
 - **Contacted** Sam Ward, VP of Marketing — https://www.linkedin.com/in/samanthalouiseward
 - **What they do** Wagmo is a doggy wellness plan.
+
+## 2026-08-27
+
+### telnyx — Business Development Representative - Singapore (Remote)
+- **Score** 8 · seed stage · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 1d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/91202400-business-development-representative-singapore-remote
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **Contacted** Joe Rawling, ### [Telnyx](https://www.linkedin.com/company/telnyx) ... #### VP of Sales - NOR — https://www.linkedin.com/in/joe-rawling-6a975b2b
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
