@@ -215,3 +215,23 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
 - **Contacted** Joe Rawling, ### [Telnyx](https://www.linkedin.com/company/telnyx) ... #### VP of Sales - NOR — https://www.linkedin.com/in/joe-rawling-6a975b2b
 - **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+
+## 2026-08-28
+
+### Ankra AB — Founding Account Executive
+- **Score** 21 · seed stage · 1-10 employees · founding hire — no GTM function exists yet · only GTM role open — likely their first · posted 0d ago
+- **Site** https://ankra.io · **Posting** https://jobs.techstars.com/companies/ankra-ab-2/jobs/91445849-founding-account-executive
+- **Contacted** Mattias Åsell, Chief Executive Officer — https://www.linkedin.com/in/mattiasasell
+- **What they do** End-to-end developer platform
+
+### BOxES 4.0 Devices — Sales Manager, Traditional Channel
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://boxesdevices.com · **Posting** https://jobs.techstars.com/companies/boxes-4-0-devices-2/jobs/91457824-sales-manager-traditional-channel
+- **Contacted** Fernando Machin Gojdycz, CEO — https://www.linkedin.com/in/fernando-machin-gojdycz-
+- **What they do** We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!
+
+### ConverSight.ai — Sales Development Representative (AI-Native, Mid-Market)
+- **Score** 10 · series a stage · 51-200 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://conversight.ai · **Posting** https://jobs.techstars.com/companies/conversight-ai-2/jobs/91399834-sales-development-representative-ai-native-mid-market
+- **Contacted** Gopinath Jaganmohan, Co-Founder and CTO — https://www.linkedin.com/in/gopinathjaganmohan
+- **What they do** ConverSight's natural language voice platform, ConverSight.ai, delivers actionable business insights in real time.
