@@ -235,3 +235,17 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://conversight.ai · **Posting** https://jobs.techstars.com/companies/conversight-ai-2/jobs/91399834-sales-development-representative-ai-native-mid-market
 - **Contacted** Gopinath Jaganmohan, Co-Founder and CTO — https://www.linkedin.com/in/gopinathjaganmohan
 - **What they do** ConverSight's natural language voice platform, ConverSight.ai, delivers actionable business insights in real time.
+
+## 2026-08-29
+
+### heva — Sales Development Representative
+- **Score** 16 · pre seed stage · 1-10 employees · only GTM role open — likely their first · Techstars 2024 — recent cohort · posted 0d ago
+- **Site** https://heva.co · **Posting** https://jobs.techstars.com/companies/heva-2/jobs/91538219-sales-development-representative
+- **Contacted** Fazal Mustafa, Founder & CEO — https://www.linkedin.com/in/md-fazal-mustafa
+- **What they do** AI powered platform and marketplace for medical tourism.
+
+### Pack — Business Development Representative (IT)
+- **Score** 10 · series a stage · headcount shrinking (-5% YoY) · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://thepack.tech · **Posting** https://jobs.techstars.com/companies/pack-2-c634742f-d87d-4114-8745-7752e86dd610/jobs/91528707-business-development-representative-it
+- **Contacted** Giacomo Gentili, Co-Founder & CPO — https://www.linkedin.com/in/giacomo-gentili
+- **What they do** HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.
