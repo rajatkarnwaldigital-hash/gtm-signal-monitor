@@ -249,3 +249,11 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://thepack.tech · **Posting** https://jobs.techstars.com/companies/pack-2-c634742f-d87d-4114-8745-7752e86dd610/jobs/91528707-business-development-representative-it
 - **Contacted** Giacomo Gentili, Co-Founder & CPO — https://www.linkedin.com/in/giacomo-gentili
 - **What they do** HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.
+
+## 2026-08-30
+
+### Ripl — Executive Director of Marketing & Communications (26-27 SY)- Marketing & Communications
+- **Score** 14 · series unknown stage · 1-10 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · Techstars 2012 — old cohort · posted 0d ago
+- **Site** https://ripl.com · **Posting** https://jobs.techstars.com/companies/ripl/jobs/91621377-executive-director-of-marketing-communications-26-27-sy-marketing-communications
+- **Contacted** Rodney Olsen, Vice President of Operations — https://www.linkedin.com/in/rodney-olsen-b6b5249
+- **What they do** Ripl is a mobile app that helps small business owners easily create eye-catching animated posts to share on their social media pages
