@@ -257,3 +257,21 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://ripl.com · **Posting** https://jobs.techstars.com/companies/ripl/jobs/91621377-executive-director-of-marketing-communications-26-27-sy-marketing-communications
 - **Contacted** Rodney Olsen, Vice President of Operations — https://www.linkedin.com/in/rodney-olsen-b6b5249
 - **What they do** Ripl is a mobile app that helps small business owners easily create eye-catching animated posts to share on their social media pages
+
+## 2026-09-02
+
+### BOxES 4.0 Devices — Sales Manager, Traditional Channel
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://boxesdevices.com · **Posting** https://jobs.techstars.com/companies/boxes-4-0-devices-2/jobs/91759613-sales-manager-traditional-channel
+- **Contacted** Fernando Machin Gojdycz, CEO — https://www.linkedin.com/in/fernando-machin-gojdycz-
+- **What they do** We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!
+- **Why now** They posted their first real GTM role today, a Sales Manager for the traditional channel, and Fernando's own positioning has shifted to selling smart sampling, product sales and first-party data to CPG brands and retailers, which means a brand-side pipeline has to be built from scratch rather than handed over; note the profile puts him in the US with operations described in Montevideo, not just Santiago, so the target market is likely wider than the listing suggests.
+- **Opener sent** Fernando, saw the Sales Manager role for the traditional channel go up today. Before that person starts, I could spend a week building the CPG and retailer target list, enrichment, and a working outbound sequence so they walk into live conversations instead of an empty pipeline.
+
+### OpenLoop — Senior Strategic Account Executive, Enterprise Health Partnerships
+- **Score** 9 · series a stage · only GTM role open — likely their first · posted 0d ago
+- **Site** https://openloophealth.com · **Posting** https://jobs.techstars.com/companies/openloop/jobs/91802582-senior-strategic-account-executive-enterprise-health-partnerships
+- **Contacted** Jon Lensing MD, Co-Founder, CEO — https://www.linkedin.com/in/jon-lensing
+- **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
+- **Why now** The Senior Strategic AE for Enterprise Health Partnerships went live today and, contrary to the first-GTM-hire read, the background shows a 500 to 600 person Series A company with TIME Top HealthTech 2025 recognition, so this is a new enterprise motion being layered on top of an existing business and it needs its own signal and pipeline system, not a first CRM.
+- **Opener sent** Jon, congrats on the TIME HealthTech recognition. I noticed the Senior Strategic Account Executive opening for enterprise health partnerships, and in about a week I can stand up the account targeting, enrichment, and outbound sequences for that specific enterprise segment so the new AE is working named accounts from day one.
