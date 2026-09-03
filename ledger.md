@@ -275,3 +275,31 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
 - **Why now** The Senior Strategic AE for Enterprise Health Partnerships went live today and, contrary to the first-GTM-hire read, the background shows a 500 to 600 person Series A company with TIME Top HealthTech 2025 recognition, so this is a new enterprise motion being layered on top of an existing business and it needs its own signal and pipeline system, not a first CRM.
 - **Opener sent** Jon, congrats on the TIME HealthTech recognition. I noticed the Senior Strategic Account Executive opening for enterprise health partnerships, and in about a week I can stand up the account targeting, enrichment, and outbound sequences for that specific enterprise segment so the new AE is working named accounts from day one.
+
+## 2026-09-03
+
+### Mineral Forecast — Business Development Representative (BDR)
+- **Score** 17 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://en.mineralforecast.com · **Posting** https://jobs.techstars.com/companies/mineral-forecast-2/jobs/92005724-business-development-representative-bdr
+- **Contacted** Javier Muñoz González, CEO & Co-founder — https://www.linkedin.com/in/jimunoz88
+- **Contacted** Arturo Rochefort Rojas, Business Development Cofounder COO — https://www.linkedin.com/in/arturo-rochefort-rojas-a3846420
+- **What they do** Using machine learning to improve drillhole targeting to find the critical metals a greener economy needs.
+- **Why now** They posted a BDR opening today and it is the only GTM role at the company, so Javier is about to hand a first seller a territory of mining exploration managers with no pipeline system behind it, and after Techstars Boston '23 the team has grown to 20-30 without an outbound function.
+- **Opener sent** Javier, saw the BDR role go up at Mineral Forecast today. Before that person starts, I can spend a week building the list of exploration managers worth targeting, the enrichment behind it and a working outbound sequence, so they walk into pipeline instead of a blank CRM.
+
+### Mentor Collective — Account Executive - Higher Education Sales |
+- **Score** 12 · series a stage · 1-10 employees · only GTM role open — likely their first · Techstars 2015 — old cohort · posted 0d ago
+- **Site** https://mentorcollective.org · **Posting** https://jobs.techstars.com/companies/mentor-collective/jobs/92015465-account-executive-higher-education-sales-remote
+- **Contacted** Jackson Boyar, Co-Founder & CEO — https://www.linkedin.com/in/jacksonboyar
+- **What they do** Shearwater keeps students enrolled and engaged.
+- **Why now** Worth approaching but with the right person: Jackson's profile says he moved to Chairman in 2024 and now runs RallyBoard, so the Mentor Collective AE hire is likely being run by whoever holds the CEO seat now, and the listed 1-10 headcount contradicts a company he describes as working with hundreds of colleges and hitting the Inc 5000 four times.
+- **Opener sent** Jackson, I noticed Mentor Collective is hiring an Account Executive for higher education sales, and also saw you stepped into the Chairman role in 2024 while building RallyBoard. If outbound to colleges is still something either team is figuring out, I build the signal and sequencing setup in about a week, happy to point it at whichever one is the better fit.
+
+### telnyx — Account Executive, APAC (ANZ)
+- **Score** 8 · seed stage · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/91956463-account-executive-apac-anz
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **Contacted** Andreas Moorman, Business Development Representative — https://www.linkedin.com/in/andreasmmoorman
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** The seed label is wrong here: Telnyx has 300-400 people and revenue in the 10 to 20 million range per the background, so the ANZ Account Executive posted today is a first seller in a new region rather than a first sales hire, which is exactly when territory data and local outbound need to exist on day one.
+- **Opener sent** David, saw the Account Executive role for APAC out of Sydney go live today. For a first rep in a new region the gap is usually ANZ account data and a working outbound motion, and that is roughly a one week build for me before they start dialing.
