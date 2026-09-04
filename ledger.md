@@ -303,3 +303,11 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
 - **Why now** The seed label is wrong here: Telnyx has 300-400 people and revenue in the 10 to 20 million range per the background, so the ANZ Account Executive posted today is a first seller in a new region rather than a first sales hire, which is exactly when territory data and local outbound need to exist on day one.
 - **Opener sent** David, saw the Account Executive role for APAC out of Sydney go live today. For a first rep in a new region the gap is usually ANZ account data and a working outbound motion, and that is roughly a one week build for me before they start dialing.
+
+## 2026-09-04
+
+### theCut — Business Development Manager
+- **Score** 14 · seed stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 0d ago
+- **Site** https://thecut.co · **Posting** https://jobs.techstars.com/companies/thecut/jobs/92058081-business-development-manager
+- **Contacted** Obi Omile, CEO & Co-Founder — https://www.linkedin.com/in/obiomile
+- **What they do** A mobile platform connecting mens groomers and clients
