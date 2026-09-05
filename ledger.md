@@ -311,3 +311,20 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **Site** https://thecut.co · **Posting** https://jobs.techstars.com/companies/thecut/jobs/92058081-business-development-manager
 - **Contacted** Obi Omile, CEO & Co-Founder — https://www.linkedin.com/in/obiomile
 - **What they do** A mobile platform connecting mens groomers and clients
+
+## 2026-09-05
+
+### Rivalia Chemical Co. — Business Development Manager, Mexico & Colombia
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/92274197-business-development-manager-mexico-colombia
+- **What they do** American-made rare earths, produced from wastes
+- **Why now** Rivalia just posted a Business Development Manager for Mexico and Colombia, their only open GTM role at pre-seed with a team under 10, which means a new rep would land with no pipeline, no target list of smelters or processors, and no outbound system to work from.
+- **Opener sent** Hi John, saw Rivalia is hiring a Business Development Manager for Mexico and Colombia. I build outbound infrastructure for first GTM hires in about a week, so whoever starts has a scored account list and sequences running on day one instead of building it themselves.
+
+### hampr — Field Sales Manager in Los Angeles, CA
+- **Score** 12 · series unknown stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://tryhampr.com · **Posting** https://jobs.techstars.com/companies/hampr-2/jobs/92186575-field-sales-manager-in-los-angeles-ca
+- **Contacted** Laurel Hess, Co-Founder — https://www.linkedin.com/in/laurel-hess
+- **What they do** hampr is an on-demand, peer-to-peer laundry service that will pick up your laundry and return it fresh, folded, and back to your door the very next day.
+- **Why now** hampr has raised $12.3M and, per Laurel's own profile, scaled to 19 states and 33 metro areas with over 600,000 pounds of laundry processed, and is now opening a Field Sales Manager role in LA that looks like their first dedicated sales seat.
+- **Opener sent** Hi Laurel, congrats on getting hampr to 33 metros and 600k pounds of laundry. Saw the Field Sales Manager posting for LA, and I typically spend a week building the signal and outreach setup for a first field hire so they walk into a live commercial target list rather than a blank CRM.
