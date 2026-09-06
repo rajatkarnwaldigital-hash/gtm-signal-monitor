@@ -328,3 +328,36 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** hampr is an on-demand, peer-to-peer laundry service that will pick up your laundry and return it fresh, folded, and back to your door the very next day.
 - **Why now** hampr has raised $12.3M and, per Laurel's own profile, scaled to 19 states and 33 metro areas with over 600,000 pounds of laundry processed, and is now opening a Field Sales Manager role in LA that looks like their first dedicated sales seat.
 - **Opener sent** Hi Laurel, congrats on getting hampr to 33 metros and 600k pounds of laundry. Saw the Field Sales Manager posting for LA, and I typically spend a week building the signal and outreach setup for a first field hire so they walk into a live commercial target list rather than a blank CRM.
+
+## 2026-09-06
+
+### Westcott Multimedia — Inbound Product Marketing Manager
+- **Score** 17 · seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 1d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/92272183-inbound-product-marketing-manager
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** Seed stage, under ten people, and they just posted an Inbound Product Marketing Manager role one day ago as their only GTM opening, so the new hire will arrive to a blank slate on pipeline and outbound plumbing.
+- **Opener sent** Saw the Inbound Product Marketing Manager role went up yesterday and it looks like the first GTM hire at Westcott. Since your product is already signals based, I could spend a week wiring up the same idea internally, a signal to enrichment to outreach pipeline, so whoever you hire starts with something running instead of a blank CRM.
+
+### Quashed — Growth Marketing Manager (Full-time | Auckland, North Shore)
+- **Score** 15 · seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first
+- **Site** http://quashed.co.nz · **Posting** https://quashed.co.nz/careers/?job=35
+- **Contacted** Justin Lim, Co-founder & CEO — https://www.linkedin.com/in/justinmwlim
+- **What they do** Quashed provides agencies, brokerages, and other insurance-related activities in the industry.
+- **Why now** Justin says over 70,000 consumers have signed up on the consumer side, but the Growth Marketing Manager is their only open GTM role, meaning the insurer and brokerage side of the marketplace still has no outbound system behind it.
+- **Opener sent** Justin, saw you are hiring a Growth Marketing Manager in Auckland and that it is the only GTM role open right now. With 70,000 plus consumers signed up already, I could spend a week building the insurer and brokerage side outbound, enrichment on target agencies plus triggered sequences, so your new hire inherits a working pipeline on day one.
+
+### heva — Head of Marketing
+- **Score** 12 · pre seed stage · 11-50 employees · stage data unreliable — board said 1-10, Exa says 20-30 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · Techstars 2024 — recent cohort
+- **Site** https://heva.co · **Posting** https://jobs.techstars.com/companies/heva-2/jobs/91538216-head-of-marketing
+- **Contacted** Fazal Mustafa, Founder & CEO — https://www.linkedin.com/in/md-fazal-mustafa
+- **What they do** AI powered platform and marketplace for medical tourism.
+- **Why now** They raised $6M, came out of Techstars 2024, and grew headcount 170 percent to roughly 20 to 30 people, yet the Head of Marketing is their first GTM leadership hire and there is already a Senior Sales Manager on the ground in Mexico City with nothing built around him.
+- **Opener sent** Fazal, noticed heva is hiring a Head of Marketing after a 6M raise and some very fast headcount growth. Before that person lands, I can build the outbound layer in about a week, clinic and partner enrichment plus automated sequences, so they walk into a running system rather than starting from scratch.
+
+### hampr — Field Sales Manager
+- **Score** 10 · series unknown stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first
+- **Site** https://tryhampr.com · **Posting** https://jobs.techstars.com/companies/hampr-2/jobs/91598645-field-sales-manager
+- **Contacted** Brandon B., Chief Executive Officer — https://www.linkedin.com/in/brandon-b-65974bb
+- **What they do** hampr is an on-demand, peer-to-peer laundry service that will pick up your laundry and return it fresh, folded, and back to your door the very next day.
+- **Why now** $12.3M raised and 30 percent headcount growth with revenue in the $1M to $10M range, and Brandon is openly asking to connect with people in laundry, operations and real estate, which is exactly the B2B motion the new Field Sales Manager will have to build from nothing.
+- **Opener sent** Brandon, saw the Field Sales Manager opening and your note about wanting to connect with people in laundry, operations and real estate. That B2B side is very buildable, and in about a week I can stand up a property and facility target list with enrichment and automated follow up so your field hire spends their time in meetings rather than list building.
