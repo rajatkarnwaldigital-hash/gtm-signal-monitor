@@ -361,3 +361,13 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** hampr is an on-demand, peer-to-peer laundry service that will pick up your laundry and return it fresh, folded, and back to your door the very next day.
 - **Why now** $12.3M raised and 30 percent headcount growth with revenue in the $1M to $10M range, and Brandon is openly asking to connect with people in laundry, operations and real estate, which is exactly the B2B motion the new Field Sales Manager will have to build from nothing.
 - **Opener sent** Brandon, saw the Field Sales Manager opening and your note about wanting to connect with people in laundry, operations and real estate. That B2B side is very buildable, and in about a week I can stand up a property and facility target list with enrichment and automated follow up so your field hire spends their time in meetings rather than list building.
+
+## 2026-09-07
+
+### Activated Scale — Account Executive
+- **Score** 13 · pre seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://activatedscale.com · **Posting** https://jobs.techstars.com/companies/activated-scale/jobs/92419607-account-executive
+- **Contacted** Prateek Mathur, Founder — https://www.linkedin.com/in/prateekmathur
+- **What they do** Marketplace connecting startups and small businesses with vetted and experienced freelance sales talent
+- **Why now** They just posted an Account Executive role today, their only open GTM seat, and it is telling that a marketplace built around placing vetted SDRs and AEs is now hiring its own first closer, with Prateek publicly leaning on proof points like 68% of reps converting and 1000s of meetings booked that a new AE will need pipeline systems to keep feeding.
+- **Opener sent** Prateek, saw the Account Executive opening go up at Activated Scale today. Before that person starts, I could spend a week building the signal and enrichment side of their pipeline so they walk into booked conversations instead of a blank CRM.
