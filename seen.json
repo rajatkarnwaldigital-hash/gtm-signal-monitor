@@ -563,5 +563,20 @@
     "company": "Activated Scale",
     "first_seen": "2026-09-07T10:41:34.532759+00:00",
     "title": "Account Executive"
+  },
+  "techstars:92434053": {
+    "company": "Chainalysis",
+    "first_seen": "2026-09-08T10:02:41.882349+00:00",
+    "title": "Sr Product Marketing Manager"
+  },
+  "techstars:92485569": {
+    "company": "Wibo",
+    "first_seen": "2026-09-08T10:02:41.882349+00:00",
+    "title": "Senior Account Executive (Mid-market / Enterprise)"
+  },
+  "techstars:92485570": {
+    "company": "Wibo",
+    "first_seen": "2026-09-08T10:02:41.882349+00:00",
+    "title": "Account Executive AI (Generative AI)"
   }
 }

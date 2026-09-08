@@ -371,3 +371,21 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Marketplace connecting startups and small businesses with vetted and experienced freelance sales talent
 - **Why now** They just posted an Account Executive role today, their only open GTM seat, and it is telling that a marketplace built around placing vetted SDRs and AEs is now hiring its own first closer, with Prateek publicly leaning on proof points like 68% of reps converting and 1000s of meetings booked that a new AE will need pipeline systems to keep feeding.
 - **Opener sent** Prateek, saw the Account Executive opening go up at Activated Scale today. Before that person starts, I could spend a week building the signal and enrichment side of their pipeline so they walk into booked conversations instead of a blank CRM.
+
+## 2026-09-08
+
+### Wibo — Senior Account Executive (Mid-market / Enterprise)
+- **Score** 14 · seed stage · 11-50 employees · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://wibo.app · **Posting** https://jobs.techstars.com/companies/wibo/jobs/92485569-senior-account-executive-mid-market-enterprise
+- **Contacted** Peter Obdrzalek, Founder — https://www.linkedin.com/in/peter-obdrzalek-a715475
+- **What they do** Wibo helps corporates retain talents using a community based, mobile first learning platform.
+- **Why now** Wibo posted a Senior AE role for mid-market and enterprise today, and the background shows Nicholas Baccarini just moved into Head of New Business Development in January 2026, so the sales motion is being built from scratch right now rather than handed over.
+- **Opener sent** Hi Peter, saw the Senior Account Executive role for mid-market and enterprise go up today, and that Nicholas recently stepped into new business development. Before that AE starts, I can build the pipeline side in about a week: target account list, enriched contacts, and outbound sequences tied to hiring and L and D signals so they walk into live conversations instead of a blank CRM.
+
+### Wibo — Account Executive AI (Generative AI)
+- **Score** 14 · seed stage · 11-50 employees · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://wibo.app · **Posting** https://jobs.techstars.com/companies/wibo/jobs/92485570-account-executive-ai-generative-ai
+- **Contacted** Peter Obdrzalek, Founder — https://www.linkedin.com/in/peter-obdrzalek-a715475
+- **What they do** Wibo helps corporates retain talents using a community based, mobile first learning platform.
+- **Why now** Wibo is hiring two sales roles at once, including an AE focused on generative AI, while headcount is up 50 percent year over year on under a million raised, which means the outbound engine has to work without a big team behind it.
+- **Opener sent** Hi Peter, noticed the Account Executive AI opening alongside the mid-market AE role at Wibo. I do one week builds for teams at this point: signal tracking, enrichment, and automated sequences so a new AE has real pipeline on day one rather than spending their first month on list building.
