@@ -389,3 +389,13 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Wibo helps corporates retain talents using a community based, mobile first learning platform.
 - **Why now** Wibo is hiring two sales roles at once, including an AE focused on generative AI, while headcount is up 50 percent year over year on under a million raised, which means the outbound engine has to work without a big team behind it.
 - **Opener sent** Hi Peter, noticed the Account Executive AI opening alongside the mid-market AE role at Wibo. I do one week builds for teams at this point: signal tracking, enrichment, and automated sequences so a new AE has real pipeline on day one rather than spending their first month on list building.
+
+## 2026-09-09
+
+### Taizen — Sales Development Representative (SDR) - Outbound
+- **Score** 16 · pre seed stage · 1-10 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://usetaizen.com · **Posting** https://jobs.techstars.com/companies/taizen-2-addab908-4b81-4f30-bec5-315db9d0ef85/jobs/92507977-sales-development-representative-sdr-outbound
+- **Contacted** Victor Chima, Co-Founder & CEO — https://www.linkedin.com/in/vchima
+- **What they do** LogSpend is a software company that provides End-to-end LLMOps platform for performance evaluation.
+- **Why now** Victor is hiring his first outbound SDR today (posted 0d ago) at a 1-10 person pre-seed company that itself builds AI agents for GTM teams, so there is real urgency and no existing outbound stack for the new rep to inherit.
+- **Opener sent** Hi Victor, saw the outbound SDR role went up at Taizen today. Since it looks like the first outbound hire, I do one week builds of the plumbing a rep needs on day one, signal tracking, enrichment and sequences wired together, so they are booking meetings instead of assembling tools. Happy to share what that looks like if useful.
