@@ -399,3 +399,29 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** LogSpend is a software company that provides End-to-end LLMOps platform for performance evaluation.
 - **Why now** Victor is hiring his first outbound SDR today (posted 0d ago) at a 1-10 person pre-seed company that itself builds AI agents for GTM teams, so there is real urgency and no existing outbound stack for the new rep to inherit.
 - **Opener sent** Hi Victor, saw the outbound SDR role went up at Taizen today. Since it looks like the first outbound hire, I do one week builds of the plumbing a rep needs on day one, signal tracking, enrichment and sequences wired together, so they are booking meetings instead of assembling tools. Happy to share what that looks like if useful.
+
+## 2026-09-10
+
+### Quashed — Growth Marketing Manager
+- **Score** 15 · seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first
+- **Site** http://quashed.co.nz · **Posting** https://nz.linkedin.com/jobs/view/growth-marketing-manager-at-quashed-4457727633
+- **Contacted** Justin Lim, Co-founder & CEO — https://www.linkedin.com/in/justinmwlim
+- **What they do** Quashed provides agencies, brokerages, and other insurance-related activities in the industry.
+- **Why now** Justin says 70,000+ consumers have signed up to track and compare insurance on Quashed, so there is real first-party data sitting there, and the Growth Marketing Manager is the only GTM role open at a 1-10 person seed company, meaning whoever starts inherits no pipeline system.
+- **Opener sent** Hi Justin, saw Quashed is hiring a Growth Marketing Manager and that you have 70,000+ consumers signed up on the platform. I build outbound and enrichment setups in about a week, so I could have insurer and brokerage side signal tracking plus sequences running before that hire's first day.
+
+### Rivalia Chemical Co. — Sr. Business Development Manager, LATAM Ingredients
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/92682627-sr-business-development-manager-latam-ingredients
+- **Contacted** Laura Stoy, CEO Founder — https://www.linkedin.com/in/lauramstoy
+- **What they do** American-made rare earths, produced from wastes
+- **Why now** The Sr. BD Manager, LATAM Ingredients role went up today at a pre-seed team of 1-10 that grew 50% in a year, and Laura is opening a whole new region with no outbound infrastructure behind it.
+- **Opener sent** Hi Laura, I noticed the Sr. Business Development Manager posting for LATAM ingredients went live today. Before that person lands I can spend a week building the account list, enrichment and outreach sequences for LATAM buyers of rare earth ingredients so they start with a working pipeline instead of a blank CRM.
+
+### telnyx — Account Executive, GCC
+- **Score** 8 · seed stage · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/92596159-account-executive-gcc
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** The seed label is wrong here: the background shows 300-400 employees, 20% YoY growth and $10M-$20M revenue, so the real opening is the Account Executive, GCC role posted today, which is a Riyadh market entry with no local pipeline behind it rather than a first GTM hire.
+- **Opener sent** Hi David, saw the Account Executive posting for GCC go up today. For a new region like Riyadh I can put together the target account data, enrichment and outbound sequences in about a week so the AE walks into a built pipeline rather than starting from scratch.

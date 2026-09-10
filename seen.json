@@ -1,4 +1,9 @@
 {
+  "getro:91529173": {
+    "company": "Quashed",
+    "first_seen": "2026-09-10T10:01:15.468471+00:00",
+    "title": "Growth Marketing Manager"
+  },
   "getro:91538089": {
     "company": "Quashed",
     "first_seen": "2026-09-06T09:38:22.914763+00:00",
@@ -583,5 +588,15 @@
     "company": "Taizen",
     "first_seen": "2026-09-09T10:04:17.403695+00:00",
     "title": "Sales Development Representative (SDR) - Outbound"
+  },
+  "techstars:92596159": {
+    "company": "telnyx",
+    "first_seen": "2026-09-10T10:01:15.468471+00:00",
+    "title": "Account Executive, GCC"
+  },
+  "techstars:92682627": {
+    "company": "Rivalia Chemical Co.",
+    "first_seen": "2026-09-10T10:01:15.468471+00:00",
+    "title": "Sr. Business Development Manager, LATAM Ingredients"
   }
 }
