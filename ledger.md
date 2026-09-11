@@ -425,3 +425,20 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
 - **Why now** The seed label is wrong here: the background shows 300-400 employees, 20% YoY growth and $10M-$20M revenue, so the real opening is the Account Executive, GCC role posted today, which is a Riyadh market entry with no local pipeline behind it rather than a first GTM hire.
 - **Opener sent** Hi David, saw the Account Executive posting for GCC go up today. For a new region like Riyadh I can put together the target account data, enrichment and outbound sequences in about a week so the AE walks into a built pipeline rather than starting from scratch.
+
+## 2026-09-11
+
+### Westcott Multimedia — Enterprise Account Executive
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/92806860-enterprise-account-executive
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** Techstars-backed seed team of under ten people just posted an Enterprise Account Executive req today, their only GTM opening, so the rep will land with no pipeline, no enrichment and no sequences to inherit.
+- **Opener sent** Saw the Enterprise Account Executive role went up today. Since it looks like the first sales hire on the team, I could spend a week before they start building the outbound side of it: a target list of creators and the brands supporting them, enrichment, and sequences wired to the signals your platform already tracks, so day one is calls instead of setup.
+
+### Cledara — Revenue Operations Manager
+- **Score** 12 · series a stage · 51-200 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://cledara.com · **Posting** https://jobs.techstars.com/companies/cledara/jobs/92745639-revenue-operations-manager
+- **Contacted** Luke Steggle, Business Development Manager — https://www.linkedin.com/in/luke-steggle-1799a4107
+- **What they do** Purchasing and analytics platform for startups
+- **Why now** Cledara is further along than a first GTM hire suggests at 51-200 people and Series A, plus a fresh joint campaign with Visa posted on 1 Sep, so the new RevOps Manager is walking into real volume and demand that needs routing and measurement, not a blank slate.
+- **Opener sent** Hi Luke, noticed Cledara is hiring a Revenue Operations Manager right after the joint campaign with Visa went live. In about a week I can hand whoever takes that seat working plumbing: signal tracking on new software spend accounts, an enrichment pipeline into your CRM, and automated sequences tied to it, so they start on reporting and process instead of building the pipes.
