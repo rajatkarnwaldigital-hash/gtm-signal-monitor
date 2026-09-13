@@ -442,3 +442,46 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Purchasing and analytics platform for startups
 - **Why now** Cledara is further along than a first GTM hire suggests at 51-200 people and Series A, plus a fresh joint campaign with Visa posted on 1 Sep, so the new RevOps Manager is walking into real volume and demand that needs routing and measurement, not a blank slate.
 - **Opener sent** Hi Luke, noticed Cledara is hiring a Revenue Operations Manager right after the joint campaign with Visa went live. In about a week I can hand whoever takes that seat working plumbing: signal tracking on new software spend accounts, an enrichment pipeline into your CRM, and automated sequences tied to it, so they start on reporting and process instead of building the pipes.
+
+## 2026-09-13
+
+### AdsGency AI — Founding Business Development Representative
+- **Score** 20 · seed stage · 11-50 employees · founding hire — no GTM function exists yet · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://adsgency.ai · **Posting** https://jobs.techstars.com/companies/adsgency-ai-2/jobs/93061466-founding-business-development-representative
+- **Contacted** Bolbi L., Chief Executive Officer — https://www.linkedin.com/in/bolbi-liu
+- **What they do** Marketing agencies save time & money with our one-stop ads AI platform.
+- **Why now** They just posted a Founding BDR role today with $14.8M raised and a team that nearly doubled in the last year, so there is budget and headcount growth but no outbound system for that first rep to inherit.
+- **Opener sent** Hi Bolbi, saw the Founding BDR opening at AdsGency AI today. Before that person starts, I could spend a week building the pipeline they would otherwise spend their first quarter assembling: agency lead sourcing, enrichment on ad spend signals, and sequences ready to run on day one.
+
+### AdsGency AI — Director of Sales
+- **Score** 19 · seed stage · 11-50 employees · GTM leadership hire — owns the budget · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://adsgency.ai · **Posting** https://jobs.techstars.com/companies/adsgency-ai-2/jobs/93061460-director-of-sales
+- **Contacted** Bolbi L., Chief Executive Officer — https://www.linkedin.com/in/bolbi-liu
+- **What they do** Marketing agencies save time & money with our one-stop ads AI platform.
+- **Why now** The Director of Sales post went up the same day as the founding BDR role, which means Bolbi is standing up a sales function from zero and the leader will arrive without any data or sequencing layer underneath them.
+- **Opener sent** Hi Bolbi, noticed you are hiring both a Director of Sales and a founding BDR at AdsGency AI. I build the outbound layer that a new sales leader usually spends months piecing together, and I can have the agency list, enrichment, and sequences running inside a week so they walk into something live.
+
+### ATOM — Account Executive (Brasil)
+- **Score** 11 · seed stage · 51-200 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://atomchat.io · **Posting** https://jobs.techstars.com/companies/atom-2-1ce1fe2a-0966-4f29-ad73-ecd5e66fb53f/jobs/93052882-account-executive-brasil
+- **Contacted** René Mouynes, Co-Founder — https://www.linkedin.com/in/renemouynes
+- **What they do** Atom helps companies increase their sales teams' productivity by engaging customers via the messaging apps they use. Think Hubspot Lead Scoring for WhatsApp.
+- **Why now** Atom has grown to 150 plus people on $3.8M raised and the Brazil AE is their only open GTM role, so a new market is being opened by one person with no local pipeline system behind them.
+- **Opener sent** Hi Rene, I saw Atom is hiring an Account Executive for Brazil. I do one week builds of outbound infrastructure, so that AE could start with a scored list of Brazilian companies already using WhatsApp for sales plus sequences ready to send, instead of building it themselves.
+
+### OpenLoop — Revenue Operations Manager
+- **Score** 11 · series a stage · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://openloophealth.com · **Posting** https://jobs.techstars.com/companies/openloop/jobs/93025374-revenue-operations-manager
+- **Contacted** Jon Lensing MD, Co-Founder, CEO — https://www.linkedin.com/in/jon-lensing
+- **Contacted** Bailey Hawn, Vice President of Business Development — https://www.linkedin.com/in/baileyhawn
+- **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
+- **Why now** OpenLoop grew to 500 plus people after a $26.7M raise and is now hiring its first Revenue Operations Manager, which usually means revenue data and outbound motions are scattered across tools right before someone is hired to own them.
+- **Opener sent** Hi Jon, saw the Revenue Operations Manager role at OpenLoop. I do short builds for teams at exactly that moment, and in a week I could have the enrichment and signal pipeline for healthcare orgs wired up so your new RevOps hire starts with clean inputs rather than a cleanup project.
+
+### telnyx — Founding Account Executive, Japan
+- **Score** 8 · seed stage · founding hire — no GTM function exists yet · 16 GTM roles open — team already exists · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/93052088-founding-account-executive-japan
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** Telnyx is opening Japan with a Founding Account Executive posted today, and unlike the 15 other GTM roles this one has no existing playbook or local list to inherit.
+- **Opener sent** Hi David, I noticed the Founding Account Executive role for Japan. Opening a new market usually stalls on data rather than selling, so I could spend a week building the Japan target list, enrichment on developer and platform signals, and sequences so that first AE lands with pipeline already moving.
