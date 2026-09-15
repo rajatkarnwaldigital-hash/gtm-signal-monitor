@@ -485,3 +485,13 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
 - **Why now** Telnyx is opening Japan with a Founding Account Executive posted today, and unlike the 15 other GTM roles this one has no existing playbook or local list to inherit.
 - **Opener sent** Hi David, I noticed the Founding Account Executive role for Japan. Opening a new market usually stalls on data rather than selling, so I could spend a week building the Japan target list, enrichment on developer and platform signals, and sequences so that first AE lands with pipeline already moving.
+
+## 2026-09-15
+
+### ConverSight.ai — Sales Development Representative (AI-Native, Mid-Market)
+- **Score** 10 · series a stage · 51-200 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://conversight.ai · **Posting** https://jobs.techstars.com/companies/conversight-ai-2/jobs/93149783-sales-development-representative-ai-native-mid-market
+- **Contacted** Gopinath Jaganmohan, Co-Founder and CTO — https://www.linkedin.com/in/gopinathjaganmohan
+- **What they do** ConverSight's natural language voice platform, ConverSight.ai, delivers actionable business insights in real time.
+- **Why now** They posted an AI-native mid-market SDR role today and it is the only GTM seat open at an 85-person Series A company, so the rep will land with no signal, enrichment or sequencing layer under them.
+- **Opener sent** Hi Gopinath, saw the AI-native mid-market SDR role go up at ConverSight today. Since it looks like the first dedicated outbound seat, I build the plumbing behind it in about a week, target lists, enrichment and sequences, so the new rep starts on live pipeline instead of building tooling.
