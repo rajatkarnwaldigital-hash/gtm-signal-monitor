@@ -495,3 +495,30 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** ConverSight's natural language voice platform, ConverSight.ai, delivers actionable business insights in real time.
 - **Why now** They posted an AI-native mid-market SDR role today and it is the only GTM seat open at an 85-person Series A company, so the rep will land with no signal, enrichment or sequencing layer under them.
 - **Opener sent** Hi Gopinath, saw the AI-native mid-market SDR role go up at ConverSight today. Since it looks like the first dedicated outbound seat, I build the plumbing behind it in about a week, target lists, enrichment and sequences, so the new rep starts on live pipeline instead of building tooling.
+
+## 2026-09-16
+
+### Taizen — Sales Development Representative (SDR) - Outbound
+- **Score** 14 · pre seed stage · 1-10 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort
+- **Site** https://usetaizen.com · **Posting** https://jobs.techstars.com/companies/taizen-2-addab908-4b81-4f30-bec5-315db9d0ef85/jobs/92507976-sales-development-representative-sdr-outbound
+- **Contacted** Victor Chima, Co-Founder & CEO — https://www.linkedin.com/in/vchima
+- **What they do** LogSpend is a software company that provides End-to-end LLMOps platform for performance evaluation.
+- **Why now** Pre-seed Techstars 2023 company with under 10 people posting its first outbound SDR role, and since Victor describes Taizen as building AI agents that turn live deal signals into action for revenue teams, the signal plumbing behind their own outbound has to match what they sell.
+- **Opener sent** Victor, saw you are hiring your first outbound SDR at Taizen. Before they start I could stand up the signal capture and enrichment pipeline behind their sequences in about a week, so day one is calls and not list building.
+
+### telnyx — Founding Account Executive, ANZ
+- **Score** 14 · seed stage · founding hire — no GTM function exists yet · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/93162425-founding-account-executive-anz
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **Contacted** Louis Fenoglio, Director of Business Development — https://www.linkedin.com/in/loufenoglio
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** They posted a Founding AE for ANZ today, which is a brand new territory with no local pipeline, and the background shows Telnyx is not really seed stage but a 300-400 person company at $10M-$20M revenue founded in 2009, so the budget is there and only the region is greenfield.
+- **Opener sent** David, noticed the Founding AE role for ANZ went up today. For a first rep in a new region I can build the ANZ account list, enrichment and outbound sequences in about a week so they land with pipeline instead of a blank CRM.
+
+### DeepHow — Account Executive - Manufacturing (SaaS)
+- **Score** 8 · series a stage · 51-200 employees · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 0d ago
+- **Site** https://deephow.com · **Posting** https://jobs.techstars.com/companies/deephow/jobs/93271938-account-executive-manufacturing-saas
+- **Contacted** Sam Zheng, ### CEO and Co-Founder - DeepHow (Current) ... Jul 2018 - Present (8 years and 1 — https://www.linkedin.com/in/sam-zheng-5859032
+- **What they do** First interactive How-to video platform powered by AI for skills training.
+- **Why now** Series A with 51-200 people but only one GTM role open, an AE for manufacturing posted today, which suggests sales is still founder led and there is no outbound system for the new rep to pick up.
+- **Opener sent** Sam, saw the Manufacturing AE opening at DeepHow went live today. I do one week builds of outbound infrastructure for teams making their first sales hire, things like a targeted manufacturing account list, enrichment and ready to run sequences, so the AE is selling in week one.

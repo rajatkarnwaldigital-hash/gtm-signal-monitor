@@ -584,6 +584,11 @@
     "first_seen": "2026-09-08T10:02:41.882349+00:00",
     "title": "Account Executive AI (Generative AI)"
   },
+  "techstars:92507976": {
+    "company": "Taizen",
+    "first_seen": "2026-09-16T10:16:00.477139+00:00",
+    "title": "Sales Development Representative (SDR) - Outbound"
+  },
   "techstars:92507977": {
     "company": "Taizen",
     "first_seen": "2026-09-09T10:04:17.403695+00:00",
@@ -718,5 +723,20 @@
     "company": "ConverSight.ai",
     "first_seen": "2026-09-15T10:23:10.910181+00:00",
     "title": "Sales Development Representative (AI-Native, Mid-Market)"
+  },
+  "techstars:93162425": {
+    "company": "telnyx",
+    "first_seen": "2026-09-16T10:16:00.477139+00:00",
+    "title": "Founding Account Executive, ANZ"
+  },
+  "techstars:93221200": {
+    "company": "Rallyware",
+    "first_seen": "2026-09-16T10:16:00.477139+00:00",
+    "title": "Sales Development Representative"
+  },
+  "techstars:93271938": {
+    "company": "DeepHow",
+    "first_seen": "2026-09-16T10:16:00.477139+00:00",
+    "title": "Account Executive - Manufacturing (SaaS)"
   }
 }
