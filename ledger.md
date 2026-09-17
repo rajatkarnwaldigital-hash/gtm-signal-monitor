@@ -522,3 +522,21 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** First interactive How-to video platform powered by AI for skills training.
 - **Why now** Series A with 51-200 people but only one GTM role open, an AE for manufacturing posted today, which suggests sales is still founder led and there is no outbound system for the new rep to pick up.
 - **Opener sent** Sam, saw the Manufacturing AE opening at DeepHow went live today. I do one week builds of outbound infrastructure for teams making their first sales hire, things like a targeted manufacturing account list, enrichment and ready to run sequences, so the AE is selling in week one.
+
+## 2026-09-17
+
+### Wibo — SDR (Sales Development Representative)
+- **Score** 16 · seed stage · 1-10 employees · headcount shrinking (-8% YoY) · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://wibo.app · **Posting** https://jobs.techstars.com/companies/wibo/jobs/93414936-sdr-sales-development-representative
+- **Contacted** Michal Slabej, Founder — https://www.linkedin.com/in/michal-slabej
+- **What they do** Wibo helps corporates retain talents using a community based, mobile first learning platform.
+- **Why now** They posted an SDR role today while the team has actually shrunk about 8% YoY and still sits at 1-10 people, so there is no GTM function for that rep to plug into, and the background also suggests the product has moved toward job matching rather than the corporate retention pitch on file, which is worth clarifying live.
+- **Opener sent** Michal, saw the SDR opening at wibo go up today. With a team your size, a new rep usually spends week one hunting for a list instead of selling, so I build the target list, enrichment and first sequences in about a week before they start.
+
+### telnyx — Founding Account Executive, Nordics
+- **Score** 14 · seed stage · founding hire — no GTM function exists yet · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/93418944-founding-account-executive-nordics
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** The Founding Account Executive, Nordics role is a new-market entry rather than a first sales hire, since the background shows Telnyx at 300-400 people with 20% YoY growth and $10M-$20M revenue, so the gap is Nordics-specific signal and outbound plumbing, not a GTM function from scratch.
+- **Opener sent** David, noticed the Founding AE role for the Nordics out of Stockholm. For a first person in a new region I can stand up the Nordics target account list, enrichment and outbound sequences in about a week so they are calling developers on day one instead of building lists.
