@@ -540,3 +540,28 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
 - **Why now** The Founding Account Executive, Nordics role is a new-market entry rather than a first sales hire, since the background shows Telnyx at 300-400 people with 20% YoY growth and $10M-$20M revenue, so the gap is Nordics-specific signal and outbound plumbing, not a GTM function from scratch.
 - **Opener sent** David, noticed the Founding AE role for the Nordics out of Stockholm. For a first person in a new region I can stand up the Nordics target account list, enrichment and outbound sequences in about a week so they are calling developers on day one instead of building lists.
+
+## 2026-09-18
+
+### BOxES 4.0 Devices — Sales Manager
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://boxesdevices.com · **Posting** https://jobs.techstars.com/companies/boxes-4-0-devices-2/jobs/93490094-sales-manager
+- **Contacted** Fernando Machin Gojdycz, CEO — https://www.linkedin.com/in/fernando-machin-gojdycz-
+- **What they do** We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!
+- **Why now** They posted a Sales Manager role today as the only GTM opening at a 1-10 person pre-seed team, and Fernando's own profile says the pitch has moved to smart sampling, product sales and first-party data for CPG brands and retailers, which means the new hire needs a brand and retailer target list and outreach system that does not exist yet.
+- **Opener sent** Fernando, saw the Sales Manager role go up at Boxes today, and it looks like the first dedicated sales seat as you push the CPG sampling and first-party data side. I build outbound setups for founders in that exact spot, usually in about a week: a CPG and retailer target list, enriched contacts, and sequences running so whoever you hire starts with pipeline instead of a blank CRM.
+
+### Resultid — Account Executive, Enterprise
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://resultid.com · **Posting** https://jobs.techstars.com/companies/resultid/jobs/93533042-account-executive-enterprise
+- **Contacted** Aditya Badve, CEO, Founder — https://www.linkedin.com/in/adityabadve
+- **What they do** Market intelligence AI engine extracting and connecting signals among vast data streams to enable better decision-making and power innovation.
+- **Why now** Fresh off a $3.5M seed, they just posted an Enterprise AE as their first GTM role with a 1-10 person team, so the person joining will be asked to sell into banks and large enterprises with no account list, enrichment, or sequencing in place.
+- **Opener sent** Aditya, saw the Enterprise AE opening at Resultid, which reads like the first dedicated sales hire after the seed round. Given how much of your own product is about connecting signals, it seems fitting to have your outbound run on the same idea, and in about a week I can stand up the target account list, enrichment, and sequences so your AE walks into live conversations.
+
+### BOOMROOM Fitness — Senior Account Executive - Outbound
+- **Score** 13 · pre seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://boomroom.fit · **Posting** https://jobs.techstars.com/companies/boomroom-fitness-2/jobs/93547357-senior-account-executive-outbound
+- **What they do** BOOMROOM gives users personalized business coaching and backend technology to help them build their brand and streamline operations
+- **Why now** The role posted today is explicitly a Senior Account Executive for Outbound at a pre-seed team of under ten, which means they are buying an outbound motion before any of the list building, enrichment, or sequencing behind it exists.
+- **Opener sent** Saw the Senior Account Executive Outbound role at BOOMROOM go live today, which suggests outbound is about to become a real priority there. I spend about a week building the layer underneath that kind of hire, target lists, contact enrichment, and running sequences, so the AE spends day one talking to coaches and operators rather than assembling a spreadsheet.
