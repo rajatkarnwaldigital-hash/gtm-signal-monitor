@@ -565,3 +565,21 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** BOOMROOM gives users personalized business coaching and backend technology to help them build their brand and streamline operations
 - **Why now** The role posted today is explicitly a Senior Account Executive for Outbound at a pre-seed team of under ten, which means they are buying an outbound motion before any of the list building, enrichment, or sequencing behind it exists.
 - **Opener sent** Saw the Senior Account Executive Outbound role at BOOMROOM go live today, which suggests outbound is about to become a real priority there. I spend about a week building the layer underneath that kind of hire, target lists, contact enrichment, and running sequences, so the AE spends day one talking to coaches and operators rather than assembling a spreadsheet.
+
+## 2026-09-19
+
+### AmorSui — Enterprise Account Executive
+- **Score** 13 · pre seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://amorsui.com · **Posting** https://jobs.techstars.com/companies/amorsui-2/jobs/93665333-enterprise-account-executive
+- **Contacted** Beau Wangtrakuldee, PhD, Founder & CEO — https://www.linkedin.com/in/beauwangtrakuldee
+- **What they do** AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators
+- **Why now** Pre-seed with $3.7M raised and a team under 10, and they just posted an Enterprise Account Executive role today, which means an enterprise hire is walking into healthcare procurement accounts with no pipeline system built yet.
+- **Opener sent** Hi Beau, saw AmorSui just opened the Enterprise Account Executive role. Before that person starts, I could spend a week building the target list of hospital and lab buyers plus the enrichment and outbound sequences so they walk into live conversations instead of a blank CRM.
+
+### Tradeverifyd — Sales Manager
+- **Score** 13 · series a stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 0d ago
+- **Site** https://tradeverifyd.com · **Posting** https://jobs.techstars.com/companies/tradeverifyd-2/jobs/93631891-sales-managernewon-site
+- **Contacted** Mike Prorock, Founder and CEO at Tradeverifyd ... Founder and CEO at Tradeverifyd ... ### Foun — https://www.linkedin.com/in/mprorock
+- **What they do** Tradeverifyd(r) transforms compliance from a regulatory burden into a strategic asset by providing real-time risk evaluation, AI-powered insights, and end-to-end supply chain visibility--helping the enterprise manage their supply chains with confidence.
+- **Why now** Series A, 30 to 40 people, and the Sales Manager posting went up today as the only GTM role open, so there is budget and urgency but likely no repeatable sourcing motion for a manager to run.
+- **Opener sent** Hi Mike, noticed Tradeverifyd is hiring a Sales Manager. In about a week I can set up the signal side for that seat, tracking supply chain and compliance triggers at target enterprises and turning them into enriched, sequenced outbound so the new manager has something to manage on day one.
