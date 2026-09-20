@@ -583,3 +583,37 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Tradeverifyd(r) transforms compliance from a regulatory burden into a strategic asset by providing real-time risk evaluation, AI-powered insights, and end-to-end supply chain visibility--helping the enterprise manage their supply chains with confidence.
 - **Why now** Series A, 30 to 40 people, and the Sales Manager posting went up today as the only GTM role open, so there is budget and urgency but likely no repeatable sourcing motion for a manager to run.
 - **Opener sent** Hi Mike, noticed Tradeverifyd is hiring a Sales Manager. In about a week I can set up the signal side for that seat, tracking supply chain and compliance triggers at target enterprises and turning them into enriched, sequenced outbound so the new manager has something to manage on day one.
+
+## 2026-09-20
+
+### Pear Suite — Community Partnership Manager (Account Executive)
+- **Score** 12 · series a stage · 11-50 employees · mid-level GTM hire · posted 0d ago
+- **Site** https://pearsuite.com · **Posting** https://jobs.techstars.com/companies/pear-suite/jobs/93704803-community-partnership-manager-account-executive
+- **Contacted** Colby R. Takeda, Co-Founder & CEO — https://www.linkedin.com/in/colbytakeda
+- **What they do** Enabling anyone to collect, understand, & act on social drivers of health data.
+- **Why now** They posted a Community Partnership Manager (AE) role today while growing headcount about 30% YoY on an $11.1M Series A, so there is budget and an incoming quota carrier who will have no pipeline system waiting for them.
+- **Opener sent** Hi Colby, saw Pear Suite just posted the Community Partnership Manager role today. Before that person starts I could build out the outbound side in about a week, so a list of CHW programs and health plans, enrichment, and sequences they can run from day one instead of building from scratch.
+
+### Pear Suite — Senior Account Executive (Community Partnership Manager)
+- **Score** 12 · series a stage · 11-50 employees · mid-level GTM hire · posted 0d ago
+- **Site** https://pearsuite.com · **Posting** https://jobs.techstars.com/companies/pear-suite/jobs/93704807-senior-account-executive-community-partnership-manager
+- **Contacted** Colby R. Takeda, Co-Founder & CEO — https://www.linkedin.com/in/colbytakeda
+- **What they do** Enabling anyone to collect, understand, & act on social drivers of health data.
+- **Why now** Pear Suite posted a second commercial seat today, a Senior Account Existing Partnership Manager alongside the mid-level one, which means they are building a small sales team at once and every new rep will need the same sourcing and routing setup.
+- **Opener sent** Hi Colby, noticed you are hiring both a senior and a mid-level Community Partnership Manager at the same time. When two reps land together the usual bottleneck is who works which accounts, so I could stand up the account list, enrichment and routing in a week so they are not splitting the same spreadsheet.
+
+### Rezilient Health — Business Development Representative
+- **Score** 10 · series a stage · 51-200 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://rezilienthealth.com · **Posting** https://jobs.techstars.com/companies/rezilient-health/jobs/93700670-business-development-representative
+- **Contacted** Danish Nagda, Founder and CEO — https://www.linkedin.com/in/nagda
+- **What they do** Rezilient Health bridges the convenience of telehealth with the broad scope of in-person care by offering neighborhood CloudClinics where families can get virtual access to their doctor as well as physical exams, labs, and imaging.
+- **Why now** Rezilient posted a BDR role today and it is their only open GTM seat, which for an employer-benefits sale means one person is about to be asked to find HR and benefits buyers with no target list or signal system in place.
+- **Opener sent** Hi Danish, saw the BDR opening at Rezilient posted today. Since the CloudClinic sale runs through employers and benefits leaders, I could put together the target employer list, contact enrichment and a first outbound sequence in about a week so your BDR starts with real accounts rather than research.
+
+### AfterShoot — Lifecycle Marketing Associate
+- **Score** 9 · pre seed stage · 51-200 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://aftershoot.co · **Posting** https://jobs.techstars.com/companies/aftershoot/jobs/93796741-lifecycle-marketing-associate
+- **Contacted** Justin Benson, Co-Founder — https://www.linkedin.com/in/justin-benson-a753b242
+- **What they do** The fastest tool to automatically select the best photos by detecting unwanted blinks, camera shake, duplicate photos and much more.
+- **Why now** The pre-seed and $120.1K funding tags do not match the background, which shows 150 to 200 people growing 50% YoY and 50k+ professional photographers using the product, and today they posted a Lifecycle Marketing Associate, their only GTM role.
+- **Opener sent** Hi Justin, saw Aftershoot is hiring a Lifecycle Marketing Associate. With 50k+ photographers already using the product there is usually a lot of trial and usage signal sitting unused, and I could wire that into working lifecycle sequences in about a week so the new hire inherits something running.
