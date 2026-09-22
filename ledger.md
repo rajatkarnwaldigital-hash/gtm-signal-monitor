@@ -617,3 +617,13 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** The fastest tool to automatically select the best photos by detecting unwanted blinks, camera shake, duplicate photos and much more.
 - **Why now** The pre-seed and $120.1K funding tags do not match the background, which shows 150 to 200 people growing 50% YoY and 50k+ professional photographers using the product, and today they posted a Lifecycle Marketing Associate, their only GTM role.
 - **Opener sent** Hi Justin, saw Aftershoot is hiring a Lifecycle Marketing Associate. With 50k+ photographers already using the product there is usually a lot of trial and usage signal sitting unused, and I could wire that into working lifecycle sequences in about a week so the new hire inherits something running.
+
+## 2026-09-22
+
+### Inspektlabs — Product Marketing Lead
+- **Score** 14 · seed stage · 11-50 employees · headcount shrinking (-4% YoY) · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://inspektlabs.com · **Posting** https://jobs.techstars.com/companies/inspektlabs/jobs/93890232-product-marketing-lead
+- **Contacted** Devesh Trivedi, CEO & Cofounder — https://uk.linkedin.com/in/devesh-trivedi-9a59399
+- **What they do** Inspektlabs automates inspections of physical items with photos and videos
+- **Why now** They posted a Product Marketing Lead role today and it is the only GTM seat open after seven years of building, so the new hire will land with no outbound or signal infrastructure to inherit; note the background lists headcount at 40-50 and growing +10% YoY, which contradicts the -4% figure in the summary.
+- **Opener sent** Hi Devesh, saw the Product Marketing Lead opening at Inspektlabs go up today and it looks like the first dedicated GTM hire in a while. I build outbound and enrichment setups in about a week, so insurers, fleets and rental accounts are already flowing into sequences before that person starts, happy to share what that looks like.
