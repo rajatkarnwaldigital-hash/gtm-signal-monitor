@@ -627,3 +627,26 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** Inspektlabs automates inspections of physical items with photos and videos
 - **Why now** They posted a Product Marketing Lead role today and it is the only GTM seat open after seven years of building, so the new hire will land with no outbound or signal infrastructure to inherit; note the background lists headcount at 40-50 and growing +10% YoY, which contradicts the -4% figure in the summary.
 - **Opener sent** Hi Devesh, saw the Product Marketing Lead opening at Inspektlabs go up today and it looks like the first dedicated GTM hire in a while. I build outbound and enrichment setups in about a week, so insurers, fleets and rental accounts are already flowing into sequences before that person starts, happy to share what that looks like.
+
+## 2026-09-24
+
+### VOIDS — Sales Development Representative (f/m/d) - German Speaking
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://voids.ai · **Posting** https://jobs.techstars.com/companies/voids/jobs/94469847-sales-development-representative-f-m-d-german-speaking
+- **What they do** Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.
+- **Why now** They posted their first German-speaking SDR role today, and Tobias is publicly saying VOIDS is now live in the US with 60+ brands including 6PM, creamy and HYROX, so the rep is walking into two markets with no outbound system behind either.
+- **Opener sent** Hi Tobias, saw the German-speaking SDR opening go up today, and with VOIDS now live in the US on top of the 60+ brands you already serve, that rep is going to need a pipeline waiting on day one. I build outbound infrastructure in about a week, signal tracking on DTC brands, enrichment and sequences, so they start with a list and a system instead of a blank CRM.
+
+### Westcott Multimedia — Outbound Sales Development Representative - POS
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/94508485-outbound-sales-development-representative-pos
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** A 1-10 person seed team posting an outbound SDR role today means the first outbound hire is coming into a company with no lists, no enrichment and no sequences built yet.
+- **Opener sent** Saw the Outbound SDR role for POS went live today. At 1-10 people that hire usually spends their first month building lists by hand, so I put together the signal tracking, enrichment and sequences in about a week beforehand so they can start actually selling.
+
+### Westcott Multimedia — Outbound Account Executive - POS
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/94508487-outbound-account-executive-pos
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** They are hiring an outbound AE in New York on the same day as the SDR role, which means two outbound seats landing at once on a team of under ten with nothing built for either to inherit.
+- **Opener sent** Noticed you posted both an outbound AE in New York and an SDR for POS today. Two outbound seats at once is a lot of ramp, so I would set up the targeting, enrichment and sequences in a week so both of them have a working pipeline the day they start.
