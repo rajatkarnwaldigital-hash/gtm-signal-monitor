@@ -650,3 +650,21 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
 - **Why now** They are hiring an outbound AE in New York on the same day as the SDR role, which means two outbound seats landing at once on a team of under ten with nothing built for either to inherit.
 - **Opener sent** Noticed you posted both an outbound AE in New York and an SDR for POS today. Two outbound seats at once is a lot of ramp, so I would set up the targeting, enrichment and sequences in a week so both of them have a working pipeline the day they start.
+
+## 2026-09-25
+
+### Rivalia Chemical Co. — Business Development Manager, China Branded
+- **Score** 12 · pre seed stage · 1-10 employees · mid-level GTM hire · posted 0d ago
+- **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/94645588-business-development-manager-china-branded
+- **Contacted** Laura Stoy, PhD, CEO Founder — https://www.linkedin.com/in/lauramstoy
+- **What they do** American-made rare earths, produced from wastes
+- **Why now** Two business development roles posted today at a 1-10 person pre-seed team that is still up 50% YoY, and Laura has been running Rivalia solo on the commercial side since July 2022, so a first BD hire would land with no pipeline, no target list and no outbound system in place; note the background puts Laura in the Greater Chicago Area on rare earths from waste, which does not match the Shanghai and consumer-sounding job titles, so worth confirming which entity is actually hiring.
+- **Opener sent** Laura, saw the Business Development Manager opening go up today and it reads like the first dedicated commercial hire at Rivalia since you started in 2022. I build the outbound groundwork before a BD hire starts, usually in about a week: a mapped account list of rare earth buyers and waste site partners, enriched contacts, and a sequence they can run day one instead of building from scratch.
+
+### Rivalia Chemical Co. — Business Development Manager, Beverage
+- **Score** 12 · pre seed stage · 1-10 employees · mid-level GTM hire · posted 0d ago
+- **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/94645584-business-development-manager-beverage
+- **Contacted** Laura Stoy, PhD, CEO Founder — https://www.linkedin.com/in/lauramstoy
+- **What they do** American-made rare earths, produced from wastes
+- **Why now** This is the second BD listing from the same 1-10 person Techstars company posted the same day, which means Laura is staffing more than one commercial segment at once and will need a repeatable targeting and outreach setup rather than two people improvising separately.
+- **Opener sent** Laura, I noticed Rivalia has two Business Development Manager roles up at once, which is a lot of commercial surface area for a team your size. If it helps, I do one week builds that give new BD hires a ready target list, enrichment and an outbound sequence per segment so they are not each inventing their own process.
