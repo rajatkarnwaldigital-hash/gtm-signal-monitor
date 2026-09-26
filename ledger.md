@@ -668,3 +668,48 @@ accepted a week later, grep the company name here for the reason it was sent.
 - **What they do** American-made rare earths, produced from wastes
 - **Why now** This is the second BD listing from the same 1-10 person Techstars company posted the same day, which means Laura is staffing more than one commercial segment at once and will need a repeatable targeting and outreach setup rather than two people improvising separately.
 - **Opener sent** Laura, I noticed Rivalia has two Business Development Manager roles up at once, which is a lot of commercial surface area for a team your size. If it helps, I do one week builds that give new BD hires a ready target list, enrichment and an outbound sequence per segment so they are not each inventing their own process.
+
+## 2026-09-26
+
+### Rivalia Chemical Co. — Business Development Manager
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/94788755-business-development-manager
+- **Contacted** Laura Stoy, PhD, CEO Founder — https://www.linkedin.com/in/lauramstoy
+- **What they do** American-made rare earths, produced from wastes
+- **Why now** Laura has been running Rivalia solo-founder style since July 2022 with a team still under 10, and the Business Development Manager posted today is the only GTM role open, so whoever takes it will arrive to zero pipeline infrastructure and a very specific buyer list (recyclers, magnet makers, defense and auto supply chains) that has to be built by hand.
+- **Opener sent** Hi Laura, saw the Business Development Manager role went up at Rivalia today. Before that person starts, I could spend a week building the target account list for rare earth offtakers and waste site partners plus the enrichment and outreach setup behind it, so they walk into live conversations instead of a blank CRM.
+
+### Pemo — Business Development Representative
+- **Score** 11 · seed stage · 51-200 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** http://pemo.io · **Posting** https://careers.pemo.io/jobs/8453667-business-development-representative
+- **Contacted** Valerie Konde, Co-Founder — https://www.linkedin.com/in/valeriekonde
+- **Contacted** Alexey Lankin, Chief Revenue Officer — https://ae.linkedin.com/in/alexlankin
+- **What they do** Pemo is an all-in-one spend management solution that empowers your business by packing every company invoice, expense, approval, and spending decision into one powerful platform.
+
+Our offering includes smart corporate cards, invoice payment systems, and expense tracking functions. These are supported by automated approval flows, direct accounting integration, and real-time reporting—features that allow business owners to save time, save money, automate admin, and every expense so you can get on with what you do best—building great businesses.
+- **Why now** Pemo has raised $19M and grown to 70-80 people across 11 countries while posting only one GTM role, a BDR, which suggests outbound is about to be tried properly for the first time rather than scaled.
+- **Opener sent** Hi Valerie, noticed Pemo just posted a BDR role and it is the only GTM opening right now. I build outbound infrastructure in about a week, so a new BDR could start with an enriched list of UAE companies showing spend management pain signals and sequences already running rather than building all of it from scratch.
+
+### telnyx — Founding Account Executive, UAE
+- **Score** 11 · seed stage · founding hire — no GTM function exists yet · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/94701173-founding-account-executive-uae
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** Telnyx posted a Founding Account Executive for the UAE today, meaning a brand new region with no local pipeline, no territory data and no outbound motion behind it.
+- **Opener sent** Hi David, saw the Founding AE role for the UAE go live today. For a new region like that I usually spend a week building the account list, enrichment and outbound sequences so the first AE lands with a working pipeline instead of starting from a blank territory.
+
+### telnyx — Founding Account Executive, Mexico
+- **Score** 11 · seed stage · founding hire — no GTM function exists yet · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/94701166-founding-account-executive-mexico
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** The Mexico Founding AE posting, opened the same day as the UAE and Brazil ones, points to a multi region expansion push where three new hires will each need territory data and outbound systems built from nothing.
+- **Opener sent** Hi David, I noticed Telnyx is hiring a Founding AE for Mexico alongside other new regions. I could stand up the Mexico target list, enrichment and outbound sequences in about a week so the first rep there has real conversations from day one rather than spending a month on list building.
+
+### telnyx — Founding Account Executive, Brazil
+- **Score** 11 · seed stage · founding hire — no GTM function exists yet · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://telnyx.com · **Posting** https://jobs.techstars.com/companies/telnyx/jobs/94701157-founding-account-executive-brazil
+- **Contacted** David Casem, Co-founder & CEO — https://www.linkedin.com/in/dcasem
+- **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
+- **Why now** Brazil is the third Founding AE posting from Telnyx today, and a developer-first voice and SMS product in that market needs a signal system around API usage and hiring intent that no new rep can build alone in their first month.
+- **Opener sent** Hi David, saw the Founding AE opening for Brazil. In about a week I can build the Brazil account list with signals around companies adding voice or SMS to their products, plus the enrichment and sequences behind it, so your first rep there starts on warm ground.
