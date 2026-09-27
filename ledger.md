@@ -713,3 +713,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Telnyx provides developers access to real-time voice and SMS capabilities via communication API.
 - **Why now** Brazil is the third Founding AE posting from Telnyx today, and a developer-first voice and SMS product in that market needs a signal system around API usage and hiring intent that no new rep can build alone in their first month.
 - **Opener sent** Hi David, saw the Founding AE opening for Brazil. In about a week I can build the Brazil account list with signals around companies adding voice or SMS to their products, plus the enrichment and sequences behind it, so your first rep there starts on warm ground.
+
+## 2026-09-27
+
+### OpenLoop — Account Executive, Care Management
+- **Score** 9 · series a stage · only GTM role open — likely their first · posted 0d ago
+- **Site** https://openloophealth.com · **Posting** https://jobs.techstars.com/companies/openloop/jobs/94882531-account-executive-care-management
+- **Contacted** Jon Lensing MD, Co-Founder, CEO — https://www.linkedin.com/in/jon-lensing
+- **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
+- **Why now** They posted an Account Executive for Care Management today and it is the only GTM role open, which is odd for a 500+ person company growing 70% year over year on $26.7M raised, so whoever takes it will likely be building pipeline from scratch rather than inheriting a system.
+- **Opener sent** Jon, saw OpenLoop just opened the Account Executive role for Care Management. Before that person starts, I can spend a week wiring up the outbound side for them, things like a target list of healthcare orgs built from real signals, enrichment, and sequences that are already running on day one.
