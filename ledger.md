@@ -723,3 +723,16 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
 - **Why now** They posted an Account Executive for Care Management today and it is the only GTM role open, which is odd for a 500+ person company growing 70% year over year on $26.7M raised, so whoever takes it will likely be building pipeline from scratch rather than inheriting a system.
 - **Opener sent** Jon, saw OpenLoop just opened the Account Executive role for Care Management. Before that person starts, I can spend a week wiring up the outbound side for them, things like a target list of healthcare orgs built from real signals, enrichment, and sequences that are already running on day one.
+
+## 2026-09-29
+
+### Westcott Multimedia — Outbound Account Executive - POS
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/95055536-outbound-account-executive-pos
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+
+### Skopenow — Sales Development Representative
+- **Score** 12 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2016 — old cohort · posted 0d ago
+- **Site** https://skopenow.com · **Posting** https://jobs.techstars.com/companies/skopenow/jobs/95051417-sales-development-representative
+- **Contacted** Anthony Winslow, VP of Marketing — https://www.linkedin.com/in/anthonywinslow
+- **What they do** Skopenow is a people search engine for discovering fraud and evaluating risk.
