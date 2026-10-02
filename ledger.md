@@ -736,3 +736,29 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **Site** https://skopenow.com · **Posting** https://jobs.techstars.com/companies/skopenow/jobs/95051417-sales-development-representative
 - **Contacted** Anthony Winslow, VP of Marketing — https://www.linkedin.com/in/anthonywinslow
 - **What they do** Skopenow is a people search engine for discovering fraud and evaluating risk.
+
+## 2026-10-02
+
+### AdsGency AI — Senior Business Development Representative
+- **Score** 14 · seed stage · 11-50 employees · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://adsgency.ai · **Posting** https://jobs.techstars.com/companies/adsgency-ai-2/jobs/95468563-senior-business-development-representative
+- **Contacted** Bolbi L., Chief Executive Officer — https://www.linkedin.com/in/bolbi-liu
+- **What they do** Marketing agencies save time & money with our one-stop ads AI platform.
+- **Why now** They posted a Senior BDR opening today while sitting on $14.8M and nearly doubling headcount year over year, and Bolbi's own background is data science and ad platforms rather than outbound, so a senior rep would be walking into a blank slate on pipeline tooling.
+- **Opener sent** Hi Bolbi, saw the Senior BDR opening at AdsGency go up today. Before that person starts I could spend a week building the list sourcing, enrichment and sequencing side so they are booking meetings in week one instead of setting up tools, happy to share what that looks like.
+
+### AdsGency AI — Business Development Representative
+- **Score** 14 · seed stage · 11-50 employees · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://adsgency.ai · **Posting** https://jobs.techstars.com/companies/adsgency-ai-2/jobs/95468566-business-development-representative
+- **Contacted** Bolbi L., Chief Executive Officer — https://www.linkedin.com/in/bolbi-liu
+- **What they do** Marketing agencies save time & money with our one-stop ads AI platform.
+- **Why now** The second, more junior BDR req posted the same day signals they are building a team rather than making one hire, which means whatever outbound process exists now has to work for multiple reps at once.
+- **Opener sent** Hi Bolbi, noticed you have both a BDR and a Senior BDR role open at AdsGency right now. Two reps ramping at once usually means the shared pipeline needs to exist before day one, and that is roughly a one week build for me, worth a quick chat?
+
+### AZmed — Sales Development Representative (SDR)
+- **Score** 11 · series a stage · 11-50 employees · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 0d ago
+- **Site** https://azmed.co · **Posting** https://jobs.techstars.com/companies/azmed/jobs/95446089-sales-development-representative-sdr
+- **Contacted** Ghassen GHALI, Business Development Manager — https://fr.linkedin.com/in/ghassen-ghali/en
+- **What they do** AZmed automatically detects fractures in X-rays, for doctors to spend more time on life-threatening exams.
+- **Why now** Worth noting the background text is actually CEO Julien Vidal's profile, not the listed contact's, but the signal still holds: AZmed raised $21.2M, works across five countries, and just posted what looks like its only GTM role, an SDR, today.
+- **Opener sent** Hi Ghassen, saw AZmed is hiring an SDR. Selling fracture detection into radiology departments across five countries is a targeting problem before it is a calling problem, and I build the account signal and enrichment side of that in about a week if that is useful ahead of the hire.
