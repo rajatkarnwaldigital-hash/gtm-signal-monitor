@@ -762,3 +762,20 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** AZmed automatically detects fractures in X-rays, for doctors to spend more time on life-threatening exams.
 - **Why now** Worth noting the background text is actually CEO Julien Vidal's profile, not the listed contact's, but the signal still holds: AZmed raised $21.2M, works across five countries, and just posted what looks like its only GTM role, an SDR, today.
 - **Opener sent** Hi Ghassen, saw AZmed is hiring an SDR. Selling fracture detection into radiology departments across five countries is a targeting problem before it is a calling problem, and I build the account signal and enrichment side of that in about a week if that is useful ahead of the hire.
+
+## 2026-10-03
+
+### Plexis AI — Sales Manager
+- **Score** 18 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2025 — recent cohort · posted 0d ago
+- **Site** https://plexis.ai · **Posting** https://jobs.techstars.com/companies/plexis-ai-2-351bf5f6-dcba-42c2-af7a-fc36833beaee/jobs/95587850-sales-manager
+- **Contacted** Ahmed Shochin, Co-Founder & CEO — https://www.linkedin.com/in/ahmed-shochin
+- **What they do** Adaptive AI agents as clinical infrastructure -- automating 40% of admin waste with human-level reasoning in real-time.
+- **Why now** Ahmed posted the Sales Manager role today and it is the only GTM seat open at a 1-10 person Techstars '25 company that raised $220K, so whoever takes it will arrive to zero pipeline infrastructure in a long-cycle hospital market.
+- **Opener sent** Ahmed, saw the Sales Manager opening at Plexis go up today. Before that person starts, I can build the outbound layer they would otherwise spend their first month assembling: a hospital and health system target list with enrichment, signal triggers like new CIO or interoperability vendor changes, and sequences wired to your inbox, usually inside a week.
+
+### Westcott Multimedia — Performance Marketing Analyst
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/95648231-performance-marketing-analyst
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** They just posted a Performance Marketing Analyst, their only GTM role, at a 1-10 person seed team in Tel Aviv, which means demand generation is being handed to a first hire with no acquisition system behind it.
+- **Opener sent** Hi, I noticed the Performance Marketing Analyst role you posted for Westcott Multimedia. Given it looks like the first dedicated GTM seat, I build the infrastructure that hire needs on day one: creator and brand lists with enrichment, signal based triggers off catalog and ad activity, and automated outreach sequences, typically stood up in about a week.
