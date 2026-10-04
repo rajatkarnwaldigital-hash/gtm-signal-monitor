@@ -779,3 +779,14 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
 - **Why now** They just posted a Performance Marketing Analyst, their only GTM role, at a 1-10 person seed team in Tel Aviv, which means demand generation is being handed to a first hire with no acquisition system behind it.
 - **Opener sent** Hi, I noticed the Performance Marketing Analyst role you posted for Westcott Multimedia. Given it looks like the first dedicated GTM seat, I build the infrastructure that hire needs on day one: creator and brand lists with enrichment, signal based triggers off catalog and ad activity, and automated outreach sequences, typically stood up in about a week.
+
+## 2026-10-04
+
+### Ground — Performance Marketing Manager, Google & YouTube
+- **Score** 11 · seed stage · 51-200 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2016 — old cohort · posted 0d ago
+- **Site** https://ground.news · **Posting** https://jobs.techstars.com/companies/ground-2/jobs/95756884-performance-marketing-manager-google-youtube
+- **Contacted** Harleen K., CEO and Founder — https://www.linkedin.com/in/harleenkaurjolly
+- **Contacted** Matt Brassard, Head of Growth — https://www.linkedin.com/in/matthewbrassard
+- **What they do** News from the source
+- **Why now** Ground News just posted a Performance Marketing Manager role for Google and YouTube, their only open GTM seat, which means paid acquisition is about to get owned by one person with no measurement or enrichment layer behind them, and Harleen has been running the company since 2017 with a growth lead already in place to partner on it.
+- **Opener sent** Hi Harleen, saw the Performance Marketing Manager role for Google and YouTube is up at Ground News. Before that person starts I could stand up the tracking and signal plumbing behind paid in about a week so they walk into working attribution and lists instead of building it themselves, happy to show you what that looks like.
