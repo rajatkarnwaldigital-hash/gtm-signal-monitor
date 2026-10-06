@@ -790,3 +790,44 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** News from the source
 - **Why now** Ground News just posted a Performance Marketing Manager role for Google and YouTube, their only open GTM seat, which means paid acquisition is about to get owned by one person with no measurement or enrichment layer behind them, and Harleen has been running the company since 2017 with a growth lead already in place to partner on it.
 - **Opener sent** Hi Harleen, saw the Performance Marketing Manager role for Google and YouTube is up at Ground News. Before that person starts I could stand up the tracking and signal plumbing behind paid in about a week so they walk into working attribution and lists instead of building it themselves, happy to show you what that looks like.
+
+## 2026-10-06
+
+### Kredete — Head of Marketing, Brand and Product Growth
+- **Score** 21 · series a stage · 11-50 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://kredete.io · **Posting** https://jobs.techstars.com/companies/kredete-2/jobs/95882551-head-of-marketing-brand-and-product-growth
+- **What they do** Streamlining the process of obtaining credit, financial management and future planning for your benefits.
+- **Why now** Kredete just posted its only GTM role, a Head of Marketing, Brand and Product Growth, days after sitting on $25.3M raised and growing headcount 50% YoY, so the first marketing leader will walk into a fintech with engineering depth but no outbound or lifecycle plumbing built yet.
+- **Opener sent** Hi Hakeem, saw Kredete just opened the Head of Marketing, Brand and Product Growth role, which looks like the first real GTM hire on the team. I build outbound and enrichment infrastructure in about a week, so whoever you hire starts with pipeline systems running instead of a blank slate.
+
+### Trellis Health — Senior Manager, Head of Sales Data Science & Analytics
+- **Score** 15 · pre seed stage · 1-10 employees · GTM leadership hire — owns the budget · 9 GTM roles open — team already exists · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://jointrellsihealth.com · **Posting** https://jobs.techstars.com/companies/trellis-health/jobs/95901732-senior-manager-head-of-sales-data-science-analytics
+- **Contacted** Estelle Giraud, CEO and Cofounder — https://linkedin.com/in/estelle-giraud
+- **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
+- **Why now** Trellis is pre-seed on $4M but has nine GTM roles open at once, including a Head of Sales Data Science and Analytics posted today, which means they are buying analytics leadership before the underlying data and enrichment pipelines exist.
+- **Opener sent** Estelle, I noticed Trellis is hiring a Senior Manager for Sales Data Science and Analytics while running nine other GTM openings. Before that person starts, I can stand up the enrichment and signal pipeline they would otherwise spend their first quarter building, usually inside a week.
+
+### Trellis Health — Head of Marketing - Symmetry
+- **Score** 15 · pre seed stage · 1-10 employees · GTM leadership hire — owns the budget · 9 GTM roles open — team already exists · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://jointrellsihealth.com · **Posting** https://jobs.techstars.com/companies/trellis-health/jobs/95901701-head-of-marketing-symmetry
+- **Contacted** Estelle Giraud, CEO and Cofounder — https://www.linkedin.com/in/estelle-giraud
+- **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
+- **Why now** The Head of Marketing hire for Symmetry went up today alongside eight other GTM roles at a 1-10 person pre-seed company, so the hiring plan is far ahead of the GTM systems that would support it.
+- **Opener sent** Estelle, saw the Head of Marketing posting for Symmetry go live today. I do one week builds of outbound and lifecycle infrastructure for teams at your stage, so your marketing lead can spend week one on positioning rather than wiring tools together.
+
+### Shoppermotion — Head of Marketing
+- **Score** 14 · series unknown stage · 1-10 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://shoppermotion.com · **Posting** https://jobs.techstars.com/companies/shoppermotion/jobs/95885653-head-of-marketing
+- **Contacted** Jorge García Bueno, CEO & Co-Founder — https://linkedin.com/in/jorge-bueno
+- **What they do** Creating the future analytics for retailers
+- **Why now** Shoppermotion is a ten person team selling in-store analytics across 20+ countries and just posted its first Head of Marketing, so there is real international footprint but almost certainly no repeatable outbound motion behind it.
+- **Opener sent** Jorge, I saw Shoppermotion is hiring a Head of Marketing, your only open GTM role right now. With clients in 20+ countries already, I could build the retailer targeting and outbound sequencing layer in about a week so your new hire inherits a working pipeline.
+
+### TPS Engage — Junior Account Executive
+- **Score** 12 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 1d ago
+- **Site** https://seeblindspot.com · **Posting** https://jobs.techstars.com/companies/tps-engage-2-13ef8716-e0ef-4fd2-a779-c4354873960b/jobs/95818930-junior-account-executive
+- **Contacted** Bogdan Savonea, Chief Executive Officer — https://linkedin.com/in/bogdan-savonea-2328949
+- **What they do** Engage is building a global interconnected network of digital indoor and outdoor screens that anybody from any corner of the world can use to book media.
+- **Why now** TPS Engage posted a Junior Account Executive role yesterday, their only GTM opening on a 10-20 person seed team growing 30% YoY, and a junior rep with no sourcing system in place is the clearest case for prebuilt outbound.
+- **Opener sent** Bogdan, saw the Junior Account Executive opening at TPS Engage. A junior rep ramps a lot faster with a list and sequence engine already running, and that is the kind of thing I build in a week before the hire even starts.
