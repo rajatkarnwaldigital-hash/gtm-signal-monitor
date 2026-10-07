@@ -831,3 +831,20 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Engage is building a global interconnected network of digital indoor and outdoor screens that anybody from any corner of the world can use to book media.
 - **Why now** TPS Engage posted a Junior Account Executive role yesterday, their only GTM opening on a 10-20 person seed team growing 30% YoY, and a junior rep with no sourcing system in place is the clearest case for prebuilt outbound.
 - **Opener sent** Bogdan, saw the Junior Account Executive opening at TPS Engage. A junior rep ramps a lot faster with a list and sequence engine already running, and that is the kind of thing I build in a week before the hire even starts.
+
+## 2026-10-07
+
+### Rivalia Chemical Co. — Business Development Manager
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://rivaliachemical.com · **Posting** https://jobs.techstars.com/companies/rivalia-chemical-co/jobs/96035203-business-development-manager
+- **What they do** American-made rare earths, produced from wastes
+- **Why now** They posted a Business Development Manager role today, their only GTM opening, which means a pre-seed Techstars team of under ten is about to hand a first commercial hire a blank slate in a buyer market (rare earth and critical minerals offtake) where the target list is small, nameable and highly researchable.
+- **Opener sent** Saw the Business Development Manager posting go up today, and it looks like the first commercial hire at Rivalia. Before they start I could spend a week building the target account list of rare earth buyers and processors, enriched with the right contacts, plus the outreach sequences behind it, so day one is conversations instead of spreadsheet building.
+
+### VOIDS — Account Executive (f/m/d) German Speaking - AI SaaS Start-up
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://voids.ai · **Posting** https://jobs.techstars.com/companies/voids/jobs/96025119-account-executive-f-m-d-german-speaking-ai-saas-start-up
+- **Contacted** Jannik Semmelhaack, Co-Founder CEO — https://linkedin.com/in/jannik-semmelhaack
+- **What they do** Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.
+- **Why now** Jannik is posting that VOIDS is now live in the US and forecasting $2B in net revenue annually for brands like 6PM, Creamy and HYROX, and today they opened a German speaking AE role, so there is a new market and a new seller landing at the same time with no outbound engine underneath either.
+- **Opener sent** Jannik, congrats on going live in the US, and I noticed the German speaking AE role went up today. In about a week I could set up the signal and enrichment side for that AE, things like tracking consumer brands showing stockout or overstock signals and pushing them into ready sequences, so the new hire inherits a working pipeline instead of starting cold.
