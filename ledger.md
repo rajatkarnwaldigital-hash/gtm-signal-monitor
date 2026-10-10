@@ -848,3 +848,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.
 - **Why now** Jannik is posting that VOIDS is now live in the US and forecasting $2B in net revenue annually for brands like 6PM, Creamy and HYROX, and today they opened a German speaking AE role, so there is a new market and a new seller landing at the same time with no outbound engine underneath either.
 - **Opener sent** Jannik, congrats on going live in the US, and I noticed the German speaking AE role went up today. In about a week I could set up the signal and enrichment side for that AE, things like tracking consumer brands showing stockout or overstock signals and pushing them into ready sequences, so the new hire inherits a working pipeline instead of starting cold.
+
+## 2026-10-10
+
+### Trellis Health — Senior Lifecycle Marketing Manager
+- **Score** 18 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://jointrellsihealth.com · **Posting** https://jobs.techstars.com/companies/trellis-health/jobs/96467811-senior-lifecycle-marketing-manager
+- **Contacted** Estelle Giraud, PhD, CEO and Cofounder — https://www.linkedin.com/in/estelle-giraud
+- **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
+- **Why now** They posted the Senior Lifecycle Marketing Manager role today and it is their only open GTM seat, so with $4M raised post-Techstars 2023 and under 10 people, the hire will land with no lifecycle or enrichment plumbing to inherit.
+- **Opener sent** Estelle, saw Trellis just opened the Senior Lifecycle Marketing Manager role. I build GTM infrastructure in about a week, so before that person starts I could have the lifecycle sequences, data enrichment and signal tracking already running instead of them spending month one wiring tools together.
