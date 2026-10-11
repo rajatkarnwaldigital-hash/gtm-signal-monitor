@@ -858,3 +858,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
 - **Why now** They posted the Senior Lifecycle Marketing Manager role today and it is their only open GTM seat, so with $4M raised post-Techstars 2023 and under 10 people, the hire will land with no lifecycle or enrichment plumbing to inherit.
 - **Opener sent** Estelle, saw Trellis just opened the Senior Lifecycle Marketing Manager role. I build GTM infrastructure in about a week, so before that person starts I could have the lifecycle sequences, data enrichment and signal tracking already running instead of them spending month one wiring tools together.
+
+## 2026-10-11
+
+### CERPRO — Full Cycle Sales Manager (m/w/d)
+- **Score** 17 · pre seed stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://cerpro.io · **Posting** https://jobs.techstars.com/companies/cerpro/jobs/96575210-full-cycle-sales-manager-m-w-d
+- **Contacted** Andreu Cuevas Serra, CEO — https://linkedin.com/in/andreu-cuevas-serra-93225b86
+- **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
+- **Why now** The Full Cycle Sales Manager posting went live today and looks like CERPRO's first dedicated GTM hire, which means whoever takes it will land with no pipeline system in place while the team is already up 150% year over year since the Techstars 2023 cohort; worth noting the background provided is Henrik Pitz's COO profile rather than the listed CEO contact, so Henrik may be the faster route in.
+- **Opener sent** Hi Andreu, saw CERPRO just posted the Full Cycle Sales Manager role. Before that person starts, I can spend a week building out the outbound side for them, so a list of manufacturers and suppliers that match your inspection plan use case, enrichment on who owns quality there, and sequences already running on day one.
