@@ -878,3 +878,36 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
 - **Why now** They posted a Manager, Account Executive Platform Sales today and it is their only GTM role, so a $4M pre-seed team of under ten is about to hand platform sales to someone with no pipeline system waiting for them; Estelle has built and led commercial teams at a major genomics company, so she will recognize what that hire needs on day one.
 - **Opener sent** Hi Estelle, saw Trellis just opened the Manager, Account Executive Platform Sales role. Before that person starts, I can spend a week building the pipeline side they would otherwise build themselves: a target list of health systems and payers, enrichment on the right contacts, and outbound sequences already running so they walk into live conversations instead of a blank CRM.
+
+## 2026-10-14
+
+### Westcott Multimedia — Performance Marketing Analyst
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/96851044-performance-marketing-analyst
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** Seed stage, under 10 people, and the Performance Marketing Analyst posted today is their only open GTM role, which means the hire will land with no pipeline or signal tooling to inherit, and their product is already signals based so the founders will understand the pitch immediately.
+- **Opener sent** Saw Westcott just opened the Performance Marketing Analyst role. Before that person starts I could spend a week building the outbound side of it, signal tracking on creators and the brands around them, enrichment, and sequences that fire off those signals, so they walk into something running instead of a blank slate.
+
+### AltScore — Senior Account Executive
+- **Score** 8 · series a stage · 11-50 employees · headcount shrinking (-10% YoY) · posted 0d ago
+- **Site** https://altscore.ai · **Posting** https://jobs.techstars.com/companies/altscore-2/jobs/96867119-senior-account-executive
+- **Contacted** Andres Perez Romo Leroux, Chief Executive Officer - Co-Founder — https://linkedin.com/in/andresprl
+- **What they do** AltScore increases the access to loans for small and medium business in Latin America
+- **Why now** They are hiring a Senior Account Executive out of Buenos Aires today while headcount is down 10% year over year, so the pressure is on a smaller team to produce pipeline rather than hire their way to it.
+- **Opener sent** Hi Andres, noticed AltScore is hiring a Senior Account Executive right now. You describe AltScore as helping customers launch credit programs in weeks, and I do something similar on the GTM side, in about a week I can set up signal tracking on lenders and fintechs in LatAm, enrichment, and the sequences so the new AE has pipeline on day one.
+
+### AltScore — Senior Account Executive (Ecuador)
+- **Score** 8 · series a stage · 11-50 employees · headcount shrinking (-10% YoY) · posted 0d ago
+- **Site** https://altscore.ai · **Posting** https://jobs.techstars.com/companies/altscore-2/jobs/96867117-senior-account-executive-ecuador
+- **Contacted** Andres Perez Romo Leroux, Chief Executive Officer - Co-Founder — https://linkedin.com/in/andresprl
+- **What they do** AltScore increases the access to loans for small and medium business in Latin America
+- **Why now** A second AE opening, this one in Ecuador where Andres is based, signals a deliberate push into a new market, and new territory coverage is exactly where there is no existing list or sequence to hand over.
+- **Opener sent** Hi Andres, saw the Senior Account Executive opening for Ecuador. If that is a new patch, I can build the target account list, enrichment and outbound sequences for it inside a week so the AE starts with a working territory rather than building one from scratch.
+
+### AltScore — Sales Development Representative
+- **Score** 8 · series a stage · 11-50 employees · headcount shrinking (-10% YoY) · posted 0d ago
+- **Site** https://altscore.ai · **Posting** https://jobs.techstars.com/companies/altscore-2/jobs/96867115-sales-development-representative
+- **Contacted** Andres Perez Romo Leroux, Chief Executive Officer - Co-Founder — https://linkedin.com/in/andresprl
+- **What they do** AltScore increases the access to loans for small and medium business in Latin America
+- **Why now** An SDR role posted the same day as two AE roles means they are standing up a full outbound motion at once, and with headcount down 10% YoY there is unlikely to be a RevOps person to build the plumbing underneath it.
+- **Opener sent** Hi Andres, you are hiring an SDR alongside two AE roles at AltScore, which usually means building an outbound motion from zero. I do one week engagements setting up the signal and enrichment pipeline plus the sequences behind it, so the SDR spends their time in conversations instead of assembling lists.
