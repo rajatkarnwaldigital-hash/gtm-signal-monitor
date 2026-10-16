@@ -911,3 +911,40 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** AltScore increases the access to loans for small and medium business in Latin America
 - **Why now** An SDR role posted the same day as two AE roles means they are standing up a full outbound motion at once, and with headcount down 10% YoY there is unlikely to be a RevOps person to build the plumbing underneath it.
 - **Opener sent** Hi Andres, you are hiring an SDR alongside two AE roles at AltScore, which usually means building an outbound motion from zero. I do one week engagements setting up the signal and enrichment pipeline plus the sequences behind it, so the SDR spends their time in conversations instead of assembling lists.
+
+## 2026-10-16
+
+### Aware Health — Account Executive
+- **Score** 14 · seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://awarehealth.io · **Posting** https://jobs.techstars.com/companies/aware-health/jobs/97075543-account-executive
+- **Contacted** Heidi A. Ojha, Chief Executive Officer — https://linkedin.com/in/heidi-ojha
+- **Contacted** Nathan Rhodes, Business Development — https://linkedin.com/in/nathan-rhodes-b2a948228
+- **What they do** Aware Health diagnoses/treats joint pain without imaging or surgery.
+- **Why now** They posted an Account Executive role today, their only open GTM seat, while the team has grown 150% year over year on $6.7M, so the new AE will land with employer-benefits selling to do and no pipeline system behind them.
+- **Opener sent** Hi Heidi, saw Aware Health just opened an Account Executive role, which looks like the first dedicated sales seat alongside Nathan. I build outbound infrastructure in about a week, so the AE walks into a working list of employer targets, enrichment and sequences on day one instead of building it themselves.
+
+### Vitrue Health — Sales Development Representative
+- **Score** 14 · seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://vitruehealth.com · **Posting** https://jobs.techstars.com/companies/vitrue-health/jobs/97134251-sales-development-representative
+- **Contacted** Shane Lowe, Cofounder & CEO — https://linkedin.com/in/shanealowe
+- **What they do** Computer vision technology to empower physiotherapists to more accurately assess their patients
+- **Why now** Vitrue posted its first SDR role today, which means someone will be asked to generate workplace MSK pipeline from scratch at a 10 to 20 person company with no outbound system in place yet.
+- **Opener sent** Hi Shane, I noticed Vitrue is hiring an SDR, which reads like the first dedicated outbound hire for VIDA. I spend about a week setting up the signal tracking, enrichment and sequences so the SDR starts with a working pipeline engine rather than a blank CRM.
+
+### Beam Health — Business Development Representative - Sales
+- **Score** 11 · series unknown stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://beam.health · **Posting** https://jobs.techstars.com/companies/beam-health-2/jobs/97132810-business-development-representative-sales
+- **Contacted** Sas Ponnapalli, CEO/Founder — https://linkedin.com/in/sponnapa
+- **Contacted** John Sneddon, Head of Business Development — https://linkedin.com/in/john-sneddon-b13686119
+- **What they do** Beam Health is the first digital operations platform for private practices, helping clinics improve the patient experience via a mobile optimized website, customer service system, telehealth platform and automated copay collection.
+- **Why now** Beam posted a BDR role today at under ten people, and Sas is publicly repositioning the product around AI agents for clinic operations, so the messaging and target list for private practices need to be built and tested fast.
+- **Opener sent** Hi Sas, saw the BDR opening at Beam and the shift you describe toward AI agents for clinical and revenue workflows. In roughly a week I can stand up the private practice target list, enrichment and outbound sequences so your BDR and John are testing messaging instead of building infrastructure.
+
+### OpenLoop — Senior Strategic Account Executive, Private Equity Partnerships
+- **Score** 9 · series a stage · only GTM role open — likely their first · posted 0d ago
+- **Site** https://openloophealth.com · **Posting** https://jobs.techstars.com/companies/openloop/jobs/97069461-senior-strategic-account-executive-private-equity-partnerships
+- **Contacted** Jon Lensing MD, Co-Founder, CEO — https://linkedin.com/in/jon-lensing
+- **Contacted** Bailey Hawn, MBA, Vice President of Business Development — https://linkedin.com/in/baileyhawn
+- **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
+- **Why now** The listed stage undersells them: background shows 500 to 600 people, 70% growth, $26.7M raised and TIME Top HealthTech 2025, so this Senior Strategic AE for private equity partnerships is a new motion inside a scaled company rather than a first sales hire, and PE portfolio sourcing is a very buildable signal system.
+- **Opener sent** Hi Jon, I saw the Senior Strategic Account Executive role for private equity partnerships, which looks like a new motion rather than a new team. I can build the PE and portfolio company sourcing and enrichment pipeline in about a week so that AE has mapped accounts and triggers ready when they start.
