@@ -24,6 +24,11 @@
     "first_seen": "2026-10-10T11:21:10.645708+00:00",
     "title": "Regional Sales Director - Government Solutions"
   },
+  "getro:97231891": {
+    "company": "Carepatron",
+    "first_seen": "2026-10-17T09:38:24.967280+00:00",
+    "title": "Sales Development Representative - USA Software (Remote)"
+  },
   "techstars:28967670": {
     "company": "Docsumo",
     "first_seen": "2026-08-04T19:36:33.262370+00:00",
@@ -1114,6 +1119,11 @@
     "first_seen": "2026-10-15T10:15:45.977490+00:00",
     "title": "Senior Account Executive"
   },
+  "techstars:97008879": {
+    "company": "FinKraft",
+    "first_seen": "2026-10-17T09:38:24.967280+00:00",
+    "title": "Account executive, GCC"
+  },
   "techstars:97069461": {
     "company": "OpenLoop",
     "first_seen": "2026-10-16T10:04:58.896098+00:00",
@@ -1133,5 +1143,15 @@
     "company": "Vitrue Health",
     "first_seen": "2026-10-16T10:04:58.896098+00:00",
     "title": "Sales Development Representative"
+  },
+  "techstars:97238248": {
+    "company": "Westcott Multimedia",
+    "first_seen": "2026-10-17T09:38:24.967280+00:00",
+    "title": "Outbound Account Executive - POS"
+  },
+  "techstars:97238250": {
+    "company": "Westcott Multimedia",
+    "first_seen": "2026-10-17T09:38:24.967280+00:00",
+    "title": "Outbound Sales Development Representative - POS"
   }
 }

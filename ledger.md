@@ -948,3 +948,36 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
 - **Why now** The listed stage undersells them: background shows 500 to 600 people, 70% growth, $26.7M raised and TIME Top HealthTech 2025, so this Senior Strategic AE for private equity partnerships is a new motion inside a scaled company rather than a first sales hire, and PE portfolio sourcing is a very buildable signal system.
 - **Opener sent** Hi Jon, I saw the Senior Strategic Account Executive role for private equity partnerships, which looks like a new motion rather than a new team. I can build the PE and portfolio company sourcing and enrichment pipeline in about a week so that AE has mapped accounts and triggers ready when they start.
+
+## 2026-10-17
+
+### Carepatron — Sales Development Representative - USA Software (Remote)
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** http://carepatron.com · **Posting** https://nz.linkedin.com/jobs/view/sales-development-representative-usa-software-remote-at-carepatron-4479099525
+- **Contacted** Jamie Frew, Founder & CEO — https://linkedin.com/in/jamie-frew-b843618
+- **Contacted** Glen Jones, Head of Sales — https://linkedin.com/in/glen-jones-7bb03333
+- **What they do** Carepatron is a healthcare management software. The company's services include billing, coding, clinical notes, documentation, healthcare compliance, health records, medical dictation, online payments, practice management, a patient portal, and scheduling.
+- **Why now** Carepatron raised $5.1M, grew headcount about 50% in a year to 40-50 people, and just posted a US SDR role today, their only open GTM seat, so the first US outbound motion is being built from scratch right now.
+- **Opener sent** Hi Jamie, saw Carepatron just opened the US Software SDR role. Before that person starts, I can spend a week wiring up the outbound side for them: a list of practices matched to your ICP, enrichment on who actually buys, and sequences triggered off real signals so they land in a working system instead of an empty inbox.
+
+### Westcott Multimedia — Outbound Sales Development Representative - POS
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/97238250-outbound-sales-development-representative-pos
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** A 1-10 person Techstars seed company posting an outbound SDR role today means they are starting outbound with no pipeline infrastructure and no ops person to build it.
+- **Opener sent** Hi, noticed Westcott Multimedia is hiring an Outbound SDR for POS. With a team your size there is usually nothing for that rep to plug into yet, so I build the piece in about a week: target list, contact enrichment, and automated sequences that fire on signals like new catalog or creator activity.
+
+### Westcott Multimedia — Outbound Account Executive - POS
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/97238248-outbound-account-executive-pos
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** They posted both an outbound AE and an outbound SDR on the same day at 1-10 headcount, which means a two person outbound team is landing with zero pipeline system behind it.
+- **Opener sent** Hi, saw the Outbound Account Executive post alongside the SDR one at Westcott. Two outbound hires at once usually means someone has to build the pipeline plumbing fast, and that is the kind of thing I set up in a week: sourcing, enrichment, and sequences both reps can work on day one.
+
+### FinKraft — Account executive, GCC
+- **Score** 10 · pre seed stage · 11-50 employees · headcount shrinking (-10% YoY) · only GTM role open — likely their first · posted 2d ago
+- **Site** https://finkraft.ai · **Posting** https://jobs.techstars.com/companies/finkraft/jobs/97008879-account-executive-gcc
+- **Contacted** Rohit Anand, Founder — https://linkedin.com/in/rohitganand
+- **What they do** An invoice and data reconciliation service which helps Indian companies obtain GST credits quickly and easily.
+- **Why now** FinKraft is opening a GCC Account Executive seat in Dubai, its only GTM role, while headcount is down about 10% year over year, so the new rep has to produce pipeline in a new region without a team to lean on.
+- **Opener sent** Hi Rohit, saw Finkraft is hiring an Account Executive for the GCC. Given it is a new region and one rep, I can spend a week building the outbound base for them: a mapped list of GCC enterprises with high travel and invoice volume, decision maker enrichment, and sequences that run automatically so they start with conversations rather than a blank CRM.
