@@ -981,3 +981,12 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** An invoice and data reconciliation service which helps Indian companies obtain GST credits quickly and easily.
 - **Why now** FinKraft is opening a GCC Account Executive seat in Dubai, its only GTM role, while headcount is down about 10% year over year, so the new rep has to produce pipeline in a new region without a team to lean on.
 - **Opener sent** Hi Rohit, saw Finkraft is hiring an Account Executive for the GCC. Given it is a new region and one rep, I can spend a week building the outbound base for them: a mapped list of GCC enterprises with high travel and invoice volume, decision maker enrichment, and sequences that run automatically so they start with conversations rather than a blank CRM.
+
+## 2026-10-18
+
+### Satellites On Fire — Account Executive, semi senior
+- **Score** 17 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://satellitesonfire.com · **Posting** https://jobs.techstars.com/companies/satellites-on-fire/jobs/97352916-account-executive-semi-senior
+- **What they do** Satellites on Fire is a wildfire early detection system that uses satellites, ground cameras & AI.
+- **Why now** They posted their first Account Executive opening today, and as a Techstars 2023 seed company selling wildfire detection into utilities and public agencies, there is almost certainly no outbound system in place for that hire to pick up on day one.
+- **Opener sent** Saw the semi senior Account Executive role go up today, which usually means the first real sales hire is about to walk into an empty pipeline. I build the outbound setup before the AE starts, things like a target list of utilities and fire agencies, enrichment, and a working sequence, usually in about a week.
