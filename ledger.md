@@ -990,3 +990,22 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Satellites on Fire is a wildfire early detection system that uses satellites, ground cameras & AI.
 - **Why now** They posted their first Account Executive opening today, and as a Techstars 2023 seed company selling wildfire detection into utilities and public agencies, there is almost certainly no outbound system in place for that hire to pick up on day one.
 - **Opener sent** Saw the semi senior Account Executive role go up today, which usually means the first real sales hire is about to walk into an empty pipeline. I build the outbound setup before the AE starts, things like a target list of utilities and fire agencies, enrichment, and a working sequence, usually in about a week.
+
+## 2026-10-19
+
+### ServeScape — Business Development & Sales Manager
+- **Score** 16 · seed stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · posted 1d ago
+- **Site** https://servescape.net · **Posting** https://jobs.techstars.com/companies/servescape/jobs/97359453-business-development-sales-manager
+- **Contacted** Mario Cambardella, Founder, CEO — https://linkedin.com/in/mariocambardella
+- **What they do** Georgia Grown Plants Delivered.
+- **Why now** They posted their first Business Development and Sales Manager role yesterday, and with $2.6M raised, a Techstars background and 20% headcount growth, Mario is adding a seller into a marketplace that has been founder-sold for six years with no outbound system behind it.
+- **Opener sent** Hi Mario, saw ServeScape just posted the Business Development and Sales Manager role. Before that person starts, I can build the outbound side in about a week so they inherit a working pipeline of landscape pros and homeowners instead of a blank CRM.
+
+### Sketchdeck.ai — Business Development Representative
+- **Score** 10 · series unknown stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://sketchdeck.ai · **Posting** https://jobs.techstars.com/companies/sketchdeck-ai/jobs/97385121-business-development-representative
+- **Contacted** Daniel Kamau P.Eng, MBA M.Eng, Founder & CEO — https://linkedin.com/in/dwkamau
+- **Contacted** Evan Bone, Head of Sales — https://linkedin.com/in/evanbone
+- **What they do** Accelerating software automation in Construction
+- **Why now** The BDR req went up today and Evan is already in as Head of Sales, so there is an owner on the buying side and a new rep about to land with no lead sourcing or sequencing built for construction accounts yet.
+- **Opener sent** Hi Daniel, noticed SketchDeck just opened a BDR role with Evan heading up sales. In about a week I can stand up the list building, enrichment and sequencing for construction accounts so the new BDR starts on day one with targets and messaging rather than building it themselves.
