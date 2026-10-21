@@ -1009,3 +1009,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Accelerating software automation in Construction
 - **Why now** The BDR req went up today and Evan is already in as Head of Sales, so there is an owner on the buying side and a new rep about to land with no lead sourcing or sequencing built for construction accounts yet.
 - **Opener sent** Hi Daniel, noticed SketchDeck just opened a BDR role with Evan heading up sales. In about a week I can stand up the list building, enrichment and sequencing for construction accounts so the new BDR starts on day one with targets and messaging rather than building it themselves.
+
+## 2026-10-21
+
+### Max Retail — Director of Sales
+- **Score** 18 · series a stage · 11-50 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · posted 0d ago
+- **Site** https://maxretail.com · **Posting** https://jobs.techstars.com/companies/max-retail-2/jobs/97497084-director-of-sales
+- **Contacted** Melodie van der Baan, Co-Founder & CEO — https://linkedin.com/in/melodie-van-der-baan
+- **What they do** Max Retail connects supply with demand to sell unsold inventory.
+- **Why now** They posted a Director of Sales today, their only open GTM role, at Series A with $20.9M raised, which means the first sales leader will arrive with no pipeline system in place to inherit.
+- **Opener sent** Hi Melodie, saw the Director of Sales role went up at Max Retail today. Before that person starts, I can build the outbound side in about a week so they walk into working lists of brands and retailers plus sequences already running, instead of spending month one building it themselves.
