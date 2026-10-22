@@ -1019,3 +1019,44 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Max Retail connects supply with demand to sell unsold inventory.
 - **Why now** They posted a Director of Sales today, their only open GTM role, at Series A with $20.9M raised, which means the first sales leader will arrive with no pipeline system in place to inherit.
 - **Opener sent** Hi Melodie, saw the Director of Sales role went up at Max Retail today. Before that person starts, I can build the outbound side in about a week so they walk into working lists of brands and retailers plus sequences already running, instead of spending month one building it themselves.
+
+## 2026-10-22
+
+### STACKEASE — Sales Manager
+- **Score** 18 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://eolrobotics.fr · **Posting** https://jobs.techstars.com/companies/stackease/jobs/97703500-sales-manager
+- **Contacted** Paul AUBIN, Co-Founder - CTO — https://linkedin.com/in/paubin
+- **What they do** StackEase specializes in the development of cutting-edge optimization and trading technologies for large-scale battery storage systems.
+- **Why now** Paul and his co-founder have run StackEase as a 1-10 person team since Jan 2023 with $120K raised and a Techstars 2023 badge, and the Sales Manager posted today is their only open GTM role, so whoever takes it will arrive to zero pipeline infrastructure for selling BESS optimization software to asset owners.
+- **Opener sent** Hi Paul, saw StackEase just opened the Sales Manager role, which looks like the first dedicated sales hire since you started in 2023. I build outbound setups in about a week, so the person who joins walks into a working list of grid-scale battery owners and operators plus sequences already running, rather than a blank CRM.
+
+### Westcott Multimedia — Outbound Account Executive - POS
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/97704154-outbound-account-executive-pos
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** Seed stage, still 1-10 people after a 2021 Techstars cohort, and today's Outbound Account Executive post is their only GTM role, meaning the first outbound hire has nothing to inherit; note the background profile provided is Kristin Grant, who is listed at Pipeline in New York rather than at Westcott, so the contact needs verifying before outreach.
+- **Opener sent** Hi, I noticed the Outbound Account Executive posting for the POS side and that it looks like the first outbound seat on the team. I spend about a week setting up the signal tracking, contact enrichment and sequences for creators and their partner companies so a new AE starts with live conversations instead of a list to build.
+
+### AmorSui — Enterprise Account Executive
+- **Score** 13 · pre seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://amorsui.com · **Posting** https://jobs.techstars.com/companies/amorsui-2/jobs/97698503-enterprise-account-executive
+- **Contacted** Beau Wangtrakuldee, PhD, Founder & CEO — https://linkedin.com/in/beauwangtrakuldee
+- **What they do** AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators
+- **Why now** Beau has raised $3.7M and runs AmorSui with under 10 people, and the Enterprise Account Executive posted today is the only GTM role, so an enterprise hire selling connected safety products into hospital systems will need account targeting and outreach built from scratch.
+- **Opener sent** Hi Beau, congrats on opening the Enterprise Account Executive role at AmorSui. Before that person starts I could spend a week building the target account list of healthcare systems and labs, the enrichment behind it and the first outbound sequences, so they begin with meetings rather than research.
+
+### VOIDS — Sales Development Representative (f/m/d) - German Speaking
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://voids.ai · **Posting** https://jobs.techstars.com/companies/voids/jobs/97698397-sales-development-representative-f-m-d-german-speaking
+- **Contacted** Jannik Semmelhaack, Co-Founder / CEO — https://linkedin.com/in/jannik-semmelhaack
+- **What they do** Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.
+- **Why now** Jannik is publicly forecasting $3 billion in net revenue planned through VOIDS for brands like 6PM, Creamy and HYROX, and today's German-speaking SDR post is the only GTM role, so there is a strong proof point and no outbound machine behind it yet.
+- **Opener sent** Hi Jannik, saw the German speaking SDR role go up and the numbers you quote on forecasting for brands like HYROX and 6PM. I build outbound infrastructure in roughly a week, so your first SDR can start with a scored list of 7 to 10 figure consumer brands and sequences already sending instead of building lists in Excel.
+
+### LinqAlpha — Senior Account Executive, Sales & BD (London, UK)
+- **Score** 9 · seed stage · 11-50 employees · headcount shrinking (-2% YoY) · 4 GTM roles open — team already exists · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://linqalpha.com · **Posting** https://jobs.techstars.com/companies/linqalpha/jobs/97608307-senior-account-executive-sales-bd-london-uk
+- **Contacted** Hojun Choi, Co-founder & Co-CEO — https://linkedin.com/in/hojunchoi1214
+- **What they do** Build Digital CS Team for Your Business.
+- **Why now** The listed product line about digital CS teams does not match the background, which describes LinqAlpha as a multi-agent AI research system for hedge funds and banks with $6.6M raised; with four GTM roles open and headcount slightly down, this is less a first-hire play and more a case of a London AE needing pipeline infrastructure on day one.
+- **Opener sent** Hi Hojun, saw you are hiring a Senior Account Executive for London alongside a few other GTM roles. For a market like hedge funds and asset managers I can stand up the account mapping, enrichment and outbound sequences in about a week so the London hire is not starting from a blank list in a new region.

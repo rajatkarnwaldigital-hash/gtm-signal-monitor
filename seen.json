@@ -1178,5 +1178,60 @@
     "company": "Max Retail",
     "first_seen": "2026-10-21T10:31:24.519405+00:00",
     "title": "Director of Sales"
+  },
+  "techstars:97600652": {
+    "company": "telnyx",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Director of Product Marketing"
+  },
+  "techstars:97608265": {
+    "company": "LinqAlpha",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Senior Account Executive, Sales & BD (Hong Kong)"
+  },
+  "techstars:97608284": {
+    "company": "LinqAlpha",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Senior Account Executive, Sales & BD (New York, US)"
+  },
+  "techstars:97608297": {
+    "company": "LinqAlpha",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Senior Account Executive, Sales & BD (Singapore)"
+  },
+  "techstars:97608307": {
+    "company": "LinqAlpha",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Senior Account Executive, Sales & BD (London, UK)"
+  },
+  "techstars:97698397": {
+    "company": "VOIDS",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Sales Development Representative (f/m/d) - German Speaking"
+  },
+  "techstars:97698503": {
+    "company": "AmorSui",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Enterprise Account Executive"
+  },
+  "techstars:97703500": {
+    "company": "STACKEASE",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Sales Manager"
+  },
+  "techstars:97704154": {
+    "company": "Westcott Multimedia",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Outbound Account Executive - POS"
+  },
+  "techstars:97712552": {
+    "company": "Sketchdeck.ai",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Business Development Representative"
+  },
+  "techstars:97712553": {
+    "company": "Sketchdeck.ai",
+    "first_seen": "2026-10-22T10:32:39.723030+00:00",
+    "title": "Account Executive"
   }
 }
