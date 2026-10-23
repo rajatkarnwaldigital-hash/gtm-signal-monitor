@@ -1060,3 +1060,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Build Digital CS Team for Your Business.
 - **Why now** The listed product line about digital CS teams does not match the background, which describes LinqAlpha as a multi-agent AI research system for hedge funds and banks with $6.6M raised; with four GTM roles open and headcount slightly down, this is less a first-hire play and more a case of a London AE needing pipeline infrastructure on day one.
 - **Opener sent** Hi Hojun, saw you are hiring a Senior Account Executive for London alongside a few other GTM roles. For a market like hedge funds and asset managers I can stand up the account mapping, enrichment and outbound sequences in about a week so the London hire is not starting from a blank list in a new region.
+
+## 2026-10-23
+
+### Toolsvilla — Business Development Manager (BDM)
+- **Score** 13 · seed stage · 51-200 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://toolsvilla.com · **Posting** https://jobs.techstars.com/companies/toolsvilla/jobs/97789809-business-development-manager-bdm
+- **Contacted** Chetan Khaitan, Founder & CEO — https://in.linkedin.com/in/chetan-khaitan-98729688
+- **What they do** A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.
+- **Why now** They posted a BDM role today and it is the only GTM seat open, so the first dedicated seller is about to walk into a company that has been selling founder-led for ten years across 300+ manufacturers with no outbound system to inherit.
+- **Opener sent** Chetan, saw the BDM opening at Toolsvilla go up today. Before that person starts, I can spend a week building the outbound side they would otherwise spend their first quarter cobbling together: sourcing lists of agri-food buyers and manufacturers, enrichment, and sequences that actually track replies. Worth a short chat?
