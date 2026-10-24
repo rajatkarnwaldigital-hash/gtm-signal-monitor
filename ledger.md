@@ -1070,3 +1070,32 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** A Digital Marketplace for Machinery, Tools & Equipment that solve operational inefficiencies in the farm & food businesses of India.
 - **Why now** They posted a BDM role today and it is the only GTM seat open, so the first dedicated seller is about to walk into a company that has been selling founder-led for ten years across 300+ manufacturers with no outbound system to inherit.
 - **Opener sent** Chetan, saw the BDM opening at Toolsvilla go up today. Before that person starts, I can spend a week building the outbound side they would otherwise spend their first quarter cobbling together: sourcing lists of agri-food buyers and manufacturers, enrichment, and sequences that actually track replies. Worth a short chat?
+
+## 2026-10-24
+
+### Aware Health — Business Development Representative - Chicago
+- **Score** 11 · seed stage · 11-50 employees · posted 0d ago
+- **Site** https://awarehealth.io · **Posting** https://jobs.techstars.com/companies/aware-health/jobs/97902105-business-development-representative-chicago
+- **Contacted** Heidi A. Ojha, Chief Executive Officer — https://linkedin.com/in/heidi-ojha
+- **Contacted** Jennifer Bonnewell, Regional Head of Sales; South East — https://linkedin.com/in/jennifer-bonnewell-80830b39
+- **What they do** Aware Health diagnoses/treats joint pain without imaging or surgery.
+- **Why now** They posted a Chicago BDR role today as part of a multi-region hiring push, and with the team up 150% YoY on a $6.7M seed, the rep will be dialing employer benefits buyers with no territory data or sequencing built yet.
+- **Opener sent** Hi Heidi, I saw Aware Health put up a BDR role in Chicago today alongside openings in other regions. I build outbound infrastructure in about a week, so a new rep walks into a built territory list of employers and brokers plus sequences already running instead of starting from a blank CRM.
+
+### Aware Health — Business Development Representative
+- **Score** 11 · seed stage · 11-50 employees · posted 0d ago
+- **Site** https://awarehealth.io · **Posting** https://jobs.techstars.com/companies/aware-health/jobs/97902093-business-development-representative
+- **Contacted** Heidi A. Ojha, Chief Executive Officer — https://linkedin.com/in/heidi-ojha
+- **Contacted** Jennifer Bonnewell, Regional Head of Sales; South East — https://linkedin.com/in/jennifer-bonnewell-80830b39
+- **What they do** Aware Health diagnoses/treats joint pain without imaging or surgery.
+- **Why now** A second BDR opening went live today out of the Bay Area HQ, which means Aware is hiring reps faster than it is likely building the lists, enrichment and sequences they will all need to share.
+- **Opener sent** Hi Heidi, I noticed Aware Health posted another BDR role today, this one out of the Bay Area. Before those reps start, I can spend a week setting up the shared pipeline behind them: employer and broker targeting, enrichment on claims and headcount signals, and outbound sequences they can run on day one.
+
+### Aware Health — Business Development Representative - Northeast (NY, NJ, CT, MA, PA, RI)
+- **Score** 11 · seed stage · 11-50 employees · posted 0d ago
+- **Site** https://awarehealth.io · **Posting** https://jobs.techstars.com/companies/aware-health/jobs/97902083-business-development-representative-northeast-ny-nj-ct-ma-pa-ri
+- **Contacted** Heidi A. Ojha, Chief Executive Officer — https://linkedin.com/in/heidi-ojha
+- **Contacted** Jennifer Bonnewell, Regional Head of Sales; South East — https://linkedin.com/in/jennifer-bonnewell-80830b39
+- **What they do** Aware Health diagnoses/treats joint pain without imaging or surgery.
+- **Why now** The Northeast BDR req posted today covers six states remotely, and territory-level targeting across NY, NJ, CT, MA, PA and RI is exactly the kind of list and signal work that usually does not exist yet at a 30 person seed company.
+- **Opener sent** Hi Heidi, the Northeast BDR role you posted today covers six states, which is a lot of ground for one person to map from scratch. I do one week builds that hand a rep a segmented employer list across those states, enriched contacts for benefits leaders, and outbound sequences already live.
