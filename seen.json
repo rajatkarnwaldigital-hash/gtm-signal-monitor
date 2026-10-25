@@ -29,6 +29,11 @@
     "first_seen": "2026-10-17T09:38:24.967280+00:00",
     "title": "Sales Development Representative - USA Software (Remote)"
   },
+  "getro:98018179": {
+    "company": "Carepatron",
+    "first_seen": "2026-10-25T10:05:31.241408+00:00",
+    "title": "Senior Account Executive - USA Software Sales (Remote)"
+  },
   "techstars:28967670": {
     "company": "Docsumo",
     "first_seen": "2026-08-04T19:36:33.262370+00:00",
@@ -1273,5 +1278,20 @@
     "company": "Aware Health",
     "first_seen": "2026-10-24T09:45:43.393470+00:00",
     "title": "Business Development Representative - Chicago"
+  },
+  "techstars:97932688": {
+    "company": "Westcott Multimedia",
+    "first_seen": "2026-10-25T10:05:31.241408+00:00",
+    "title": "Enterprise Sales Development Representative"
+  },
+  "techstars:97972106": {
+    "company": "BOOMROOM Fitness",
+    "first_seen": "2026-10-25T10:05:31.241408+00:00",
+    "title": "SMB Account Executive"
+  },
+  "techstars:98018588": {
+    "company": "Admitly",
+    "first_seen": "2026-10-25T10:05:31.241408+00:00",
+    "title": "Business Development Manager"
   }
 }

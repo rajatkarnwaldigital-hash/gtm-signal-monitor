@@ -1099,3 +1099,28 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Aware Health diagnoses/treats joint pain without imaging or surgery.
 - **Why now** The Northeast BDR req posted today covers six states remotely, and territory-level targeting across NY, NJ, CT, MA, PA and RI is exactly the kind of list and signal work that usually does not exist yet at a 30 person seed company.
 - **Opener sent** Hi Heidi, the Northeast BDR role you posted today covers six states, which is a lot of ground for one person to map from scratch. I do one week builds that hand a rep a segmented employer list across those states, enriched contacts for benefits leaders, and outbound sequences already live.
+
+## 2026-10-25
+
+### Westcott Multimedia — Enterprise Sales Development Representative
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 1d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/97932688-enterprise-sales-development-representative
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** They posted an Enterprise SDR role yesterday with a team of under 10, and the background shows Kristin Grant already splitting time into a new Head of Members role at Pipeline since Jan 2026, so whoever lands this SDR seat will have no founder bandwidth and no existing outbound system to inherit.
+- **Opener sent** Kristin, saw the Enterprise SDR opening at Westcott go up this week. Before that person starts I could spend a week wiring up the signal and enrichment side of outbound so day one is calls instead of list building, happy to share what that looks like.
+
+### Carepatron — Senior Account Executive - USA Software Sales (Remote)
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** http://carepatron.com · **Posting** https://nz.linkedin.com/jobs/view/senior-account-executive-usa-software-sales-remote-at-carepatron-4482169856
+- **Contacted** Jamie Frew, Founder & CEO — https://linkedin.com/in/jamie-frew-b843618
+- **Contacted** Glen Jones, Head of Sales — https://linkedin.com/in/glen-jones-7bb03333
+- **What they do** Carepatron is a healthcare management software. The company's services include billing, coding, clinical notes, documentation, healthcare compliance, health records, medical dictation, online payments, practice management, a patient portal, and scheduling.
+- **Why now** The posting is 0 days old and the background contradicts the pre-seed label: 40 to 50 people growing 50 percent YoY on $5.1M raised, with a Head of Sales already in place, so this is a first US enterprise AE landing into a team that still needs an outbound motion built around them.
+- **Opener sent** Jamie, noticed the Senior AE role for US software sales just went live. I build outbound infrastructure in about a week, signal tracking, enrichment and sequences, so a new US rep has pipeline sources from the start rather than building them personally, worth a short chat with you or Glen?
+
+### Admitly — Business Development Manager
+- **Score** 11 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago · no domain resolved
+- **Site** unknown · **Posting** https://jobs.techstars.com/companies/admitly-2/jobs/98018588-business-development-manager
+- **Contacted** Nitesh kushwaha, Founder and director — https://linkedin.com/in/jaihindnk
+- **Why now** Lowest confidence of the three: posted today and the only GTM role, but the background shows a founder two years in with 68 connections, no company domain resolved and a listed $6.4B raise that is clearly a data error, so verify there is real budget before spending time here.
+- **Opener sent** Nitesh, saw the Business Development Manager role at Admitly. I build outbound setups for small teams in about a week, lead sourcing, enrichment and follow up sequences, so a new BD hire has something to run on from week one, is that something you are working on right now?
