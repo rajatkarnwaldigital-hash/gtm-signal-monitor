@@ -1124,3 +1124,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **Contacted** Nitesh kushwaha, Founder and director — https://linkedin.com/in/jaihindnk
 - **Why now** Lowest confidence of the three: posted today and the only GTM role, but the background shows a founder two years in with 68 connections, no company domain resolved and a listed $6.4B raise that is clearly a data error, so verify there is real budget before spending time here.
 - **Opener sent** Nitesh, saw the Business Development Manager role at Admitly. I build outbound setups for small teams in about a week, lead sourcing, enrichment and follow up sequences, so a new BD hire has something to run on from week one, is that something you are working on right now?
+
+## 2026-10-26
+
+### DocStation — Account Executive, Pharmacy
+- **Score** 12 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 0d ago
+- **Site** https://docstation.co · **Posting** https://jobs.techstars.com/companies/docstation/jobs/98050593-account-executive-pharmacy
+- **Contacted** Sammuel V. Anderegg, Chief Executive Officer — https://linkedin.com/in/sammuelanderegg
+- **What they do** DocStation is a clinical platform (EHR) for pharmacists.
+- **Why now** They posted the Account Executive, Pharmacy role today and it is their only open GTM seat, which means a first commercial hire is landing into a company where the CEO still describes business development and marketing as his own job, so there is no pipeline system for that AE to inherit.
+- **Opener sent** Hi Sammuel, saw the Account Executive, Pharmacy role go up today and it looks like the first dedicated sales seat at DocStation. Before they start I could spend a week building the outbound side of their desk, a targeted pharmacy and payer list with enrichment, plus tracked sequences, so day one is selling instead of list building.
