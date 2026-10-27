@@ -1134,3 +1134,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** DocStation is a clinical platform (EHR) for pharmacists.
 - **Why now** They posted the Account Executive, Pharmacy role today and it is their only open GTM seat, which means a first commercial hire is landing into a company where the CEO still describes business development and marketing as his own job, so there is no pipeline system for that AE to inherit.
 - **Opener sent** Hi Sammuel, saw the Account Executive, Pharmacy role go up today and it looks like the first dedicated sales seat at DocStation. Before they start I could spend a week building the outbound side of their desk, a targeted pharmacy and payer list with enrichment, plus tracked sequences, so day one is selling instead of list building.
+
+## 2026-10-27
+
+### Season Share — Sales Director
+- **Score** 14 · seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://seasonshare.com · **Posting** https://jobs.techstars.com/companies/season-share/jobs/98084231-sales-director
+- **Contacted** Aaron Holland, Chief Executive Officer — https://linkedin.com/in/aaholland
+- **What they do** Season Share makes the thrill of live entertainment more accessible to younger fans through ticketing technology that aligns teams and venues with the next generation of consumers.
+- **Why now** They just posted a Sales Director role today, and Aaron's own profile shows the company now operates as Attend rather than Season Share, so a rebrand plus a first senior sales hire means the new director will walk in with no pipeline system and no outbound motion built around the new name.
+- **Opener sent** Aaron, saw the Sales Director opening go up today and noticed Season Share is now running as Attend. Before that person starts I could spend a week wiring up a list of teams and venues that match your best accounts, with enrichment and a first outbound sequence ready for them to run on day one.
