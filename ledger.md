@@ -1144,3 +1144,43 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Season Share makes the thrill of live entertainment more accessible to younger fans through ticketing technology that aligns teams and venues with the next generation of consumers.
 - **Why now** They just posted a Sales Director role today, and Aaron's own profile shows the company now operates as Attend rather than Season Share, so a rebrand plus a first senior sales hire means the new director will walk in with no pipeline system and no outbound motion built around the new name.
 - **Opener sent** Aaron, saw the Sales Director opening go up today and noticed Season Share is now running as Attend. Before that person starts I could spend a week wiring up a list of teams and venues that match your best accounts, with enrichment and a first outbound sequence ready for them to run on day one.
+
+## 2026-10-29
+
+### Westcott Multimedia — Business Development Representative, Japan
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 1d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/98206129-business-development-representative-japan
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** Seed-stage Techstars company with under 10 people opening a BDR seat in Japan one day ago, which means someone is about to land in a market with no pipeline system behind them; note the only background profile provided is Kristin Grant, whose current role is Head of Members, Communications and Marketing at Pipeline, a separate music finance company, so the contact link here looks unreliable.
+- **Opener sent** Hi Kristin, I saw the Business Development Representative role open for Japan and it looks like the first dedicated outbound seat there. I build the pipeline side of that in about a week, so the rep starts with a target list, enrichment and sequences already running instead of building them from scratch.
+
+### Reppls — Senior Sales Manager
+- **Score** 13 · pre seed stage · mid-level GTM hire · only GTM role open — likely their first · Techstars 2024 — recent cohort · posted 1d ago
+- **Site** https://reppls.com · **Posting** https://jobs.techstars.com/companies/reppls/jobs/98221351-senior-sales-manager
+- **What they do** We are going to change existing HR practice of choosing candidates by CV - introducing AI Interview Agents who conduct real-time video interviews with all candidates, assessing their full background and providing instant feedback.
+- **Why now** Pre-seed Techstars 2024 company posted a Senior Sales Manager role yesterday with no other GTM hires, so the first sales leader will arrive with nothing to inherit and an AI interview product that needs a repeatable way to reach HR buyers.
+- **Opener sent** Hi, I noticed the Senior Sales Manager opening and it reads like the first real sales hire at Reppls. In roughly a week I can stand up the outbound setup around them, a list of HR and talent leaders worth contacting, enrichment on hiring signals, and sequences ready on day one.
+
+### WalletCard — Sales Development Representative
+- **Score** 13 · pre seed stage · 1-10 employees · only GTM role open — likely their first · posted 1d ago
+- **Site** https://mywalletcard.com · **Posting** https://jobs.techstars.com/companies/walletcard/jobs/98186754-sales-development-representative
+- **What they do** WalletCard is a collaborative compliance platform for issuing, tracking and managing verified occupational health & safety requirements.
+- **Why now** Pre-seed team of under ten posted an SDR role one day ago, and a compliance platform selling into safety and operations teams needs clear trigger signals like new site certifications or contractor onboarding before a junior rep can be productive.
+- **Opener sent** Hi, I saw the Sales Development Representative posting and it looks like the first outbound hire at WalletCard. I spend about a week building the signal and sequence layer an SDR needs, so they start with a scored list of safety and compliance contacts instead of a blank CRM.
+
+### Rezilient Health — Business Development Manager, Health Systems
+- **Score** 12 · series a stage · 51-200 employees · mid-level GTM hire · only GTM role open — likely their first · posted 1d ago
+- **Site** https://rezilienthealth.com · **Posting** https://jobs.techstars.com/companies/rezilient-health/jobs/98158494-business-development-manager-health-systems
+- **Contacted** Danish Nagda, Founder and CEO — https://linkedin.com/in/nagda
+- **Contacted** Erin G., Head of Marketing — https://linkedin.com/in/eringiegling
+- **What they do** Rezilient Health bridges the convenience of telehealth with the broad scope of in-person care by offering neighborhood CloudClinics where families can get virtual access to their doctor as well as physical exams, labs, and imaging.
+- **Why now** Danish has been building Rezilient for nearly ten years with $16.9M raised and a team around 50, and the new Business Development Manager for Health Systems is the only GTM role open, which means a new motion into health systems on top of the existing employer channel.
+- **Opener sent** Hi Danish, I saw the Business Development Manager role for Health Systems, which looks like a different buyer than the employer side you have been selling CloudClinics into. I build outbound infrastructure in about a week, so that hire walks into a mapped health system target list with enrichment and sequences already live.
+
+### AltScore — Senior Account Executive
+- **Score** 11 · series a stage · 11-50 employees · headcount shrinking (-10% YoY) · only GTM role open — likely their first · posted 0d ago
+- **Site** https://altscore.ai · **Posting** https://jobs.techstars.com/companies/altscore-2/jobs/98301897-senior-account-executive
+- **Contacted** Andres Perez Romo Leroux, Chief Executive Officer - Co-Founder — https://linkedin.com/in/andresprl
+- **What they do** AltScore increases the access to loans for small and medium business in Latin America
+- **Why now** Headcount is down 10 percent year over year while a Senior Account Executive role went up today, which usually means Andres wants pipeline from fewer people and needs systems doing the work a larger team used to do.
+- **Opener sent** Hi Andres, I noticed the Senior Account Executive opening and that AltScore helps customers launch credit programs in weeks, so I imagine you want the same speed on pipeline. I do one week builds of outbound infrastructure, lists of lenders and fintechs across LatAm, enrichment, and sequences the AE can run from their first day.
