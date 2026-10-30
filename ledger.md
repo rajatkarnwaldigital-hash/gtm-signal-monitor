@@ -1184,3 +1184,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** AltScore increases the access to loans for small and medium business in Latin America
 - **Why now** Headcount is down 10 percent year over year while a Senior Account Executive role went up today, which usually means Andres wants pipeline from fewer people and needs systems doing the work a larger team used to do.
 - **Opener sent** Hi Andres, I noticed the Senior Account Executive opening and that AltScore helps customers launch credit programs in weeks, so I imagine you want the same speed on pipeline. I do one week builds of outbound infrastructure, lists of lenders and fintechs across LatAm, enrichment, and sequences the AE can run from their first day.
+
+## 2026-10-30
+
+### BOxES 4.0 Devices — Regional Sales Manager (North and East Coast)
+- **Score** 15 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://boxesdevices.com · **Posting** https://jobs.techstars.com/companies/boxes-4-0-devices-2/jobs/98386661-regional-sales-manager-north-and-east-coast
+- **Contacted** Fernando Machin Gojdycz, CEO — https://linkedin.com/in/fernando-machin-gojdycz-
+- **What they do** We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!
+- **Why now** They just posted a Regional Sales Manager for the North and East Coast today, which is their only open GTM role and their first US field sales hire, while Fernando is still running sales himself out of a 1-10 person team with $370K raised, so there is no pipeline system for that rep to walk into.
+- **Opener sent** Fernando, saw the Regional Sales Manager role for the North and East Coast go up today. Before that person starts, I build the outbound layer they would otherwise spend their first quarter creating, usually in about a week: a target list of CPG brands and retailers, enrichment, and sequences that put meetings on the calendar from day one.
