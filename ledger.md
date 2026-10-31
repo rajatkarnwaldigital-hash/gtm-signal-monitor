@@ -1194,3 +1194,27 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** We're powering the future of retail combining physical and digital technology to democratize convenient, space-efficient, affordable & sustainable retail!
 - **Why now** They just posted a Regional Sales Manager for the North and East Coast today, which is their only open GTM role and their first US field sales hire, while Fernando is still running sales himself out of a 1-10 person team with $370K raised, so there is no pipeline system for that rep to walk into.
 - **Opener sent** Fernando, saw the Regional Sales Manager role for the North and East Coast go up today. Before that person starts, I build the outbound layer they would otherwise spend their first quarter creating, usually in about a week: a target list of CPG brands and retailers, enrichment, and sequences that put meetings on the calendar from day one.
+
+## 2026-10-31
+
+### Pack — Account Executive Enterprise - italian market
+- **Score** 8 · series a stage · 51-200 employees · headcount shrinking (-5% YoY) · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://thepack.tech · **Posting** https://jobs.techstars.com/companies/pack-2-c634742f-d87d-4114-8745-7752e86dd610/jobs/98451732-account-executive-enterprise-italian-market
+- **What they do** HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.
+- **Why now** They posted an Enterprise AE for the Italian market one day ago, and the background contradicts the listed profile: Pietro runs Pack out of Bologna with only about $600K raised, so this is a lean team opening a new country motion rather than a funded Series A sales org with pipeline infrastructure already in place.
+- **Opener sent** Hi Pietro, saw Pack is hiring an Enterprise AE for the Italian market. Before they start, I can build the outbound side in about a week: a target list of Italian mid-market HR leaders, enrichment, and sequences triggered off hiring and retention signals, so day one is calls instead of list building.
+
+### Pack — Account Executive Enterprise - french market
+- **Score** 8 · series a stage · 51-200 employees · headcount shrinking (-5% YoY) · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://thepack.tech · **Posting** https://jobs.techstars.com/companies/pack-2-c634742f-d87d-4114-8745-7752e86dd610/jobs/98451731-account-executive-enterprise-french-market
+- **What they do** HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.
+- **Why now** The French market Enterprise AE went up a day ago and Pietro himself is based in the Greater Paris region, so France is clearly a deliberate expansion bet that currently has no outbound system behind it while headcount is down 5 percent year over year.
+- **Opener sent** Hi Pietro, noticed Pack is opening an Enterprise AE role for the French market while you are based near Paris. I build outbound infrastructure in one week sprints, so the new AE could inherit a French account list, enriched contacts and running sequences rather than starting from an empty CRM.
+
+### dopay — Senior Performance Marketing Specialist - B2B
+- **Score** 8 · series a stage · 51-200 employees · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 1d ago
+- **Site** https://dopay.com · **Posting** https://jobs.techstars.com/companies/dopay/jobs/98450968-senior-performance-marketing-specialist-b2b
+- **Contacted** Abdelhamid Morsy, Head of Sales — https://linkedin.com/in/morsy
+- **What they do** SaaS solution that helps corporates to compute and deliver payroll to both banked and unbanked workers.
+- **Why now** dopay posted a Senior Performance Marketing Specialist for B2B as their only open GTM role, which means Abdelhamid's sales team is about to get paid demand with no pipeline plumbing behind it, and Frans has been publicly working investor and partner introductions as recently as this summer.
+- **Opener sent** Hi Abdelhamid, I saw dopay is hiring a Senior B2B performance marketing specialist, which usually means more inbound hitting sales than the current setup can route. In about a week I can stand up the layer underneath that: enrichment on inbound corporates, payroll and hiring signals for outbound, and sequences that hand your reps a reason to call.
