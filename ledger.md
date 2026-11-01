@@ -1218,3 +1218,43 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** SaaS solution that helps corporates to compute and deliver payroll to both banked and unbanked workers.
 - **Why now** dopay posted a Senior Performance Marketing Specialist for B2B as their only open GTM role, which means Abdelhamid's sales team is about to get paid demand with no pipeline plumbing behind it, and Frans has been publicly working investor and partner introductions as recently as this summer.
 - **Opener sent** Hi Abdelhamid, I saw dopay is hiring a Senior B2B performance marketing specialist, which usually means more inbound hitting sales than the current setup can route. In about a week I can stand up the layer underneath that: enrichment on inbound corporates, payroll and hiring signals for outbound, and sequences that hand your reps a reason to call.
+
+## 2026-11-01
+
+### Activated Scale — Sales Development Representative
+- **Score** 13 · pre seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://activatedscale.com · **Posting** https://jobs.techstars.com/companies/activated-scale/jobs/98669745-sales-development-representative
+- **Contacted** Prateek Mathur, Founder — https://linkedin.com/in/prateekmathur
+- **What they do** Marketplace connecting startups and small businesses with vetted and experienced freelance sales talent
+- **Why now** Prateek sells fractional SDRs and AEs himself but is now posting his own SDR role, which means his internal pipeline needs to be built before that rep lands, and he is a buyer who already understands the cost of a bad sales hire.
+- **Opener sent** Hi Prateek, saw Activated Scale is hiring an SDR, which is a fun one given you place SDRs for a living. If it would help, I build the outbound layer a new rep walks into in about a week, list building, enrichment and sequences, so they are booking meetings instead of setting up tools.
+
+### Skopenow — Sales Development Representative
+- **Score** 12 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2016 — old cohort · posted 0d ago
+- **Site** https://skopenow.com · **Posting** https://jobs.techstars.com/companies/skopenow/jobs/98669645-sales-development-representative
+- **Contacted** Rob Douglas, CEO and Co-Founder — https://linkedin.com/in/robdouglas
+- **What they do** Skopenow is a people search engine for discovering fraud and evaluating risk.
+- **Why now** Skopenow is a decade-old seed company at 40-50 people growing 10% YoY and only now posting an SDR role, so the outbound motion is likely new and still founder-led through Rob's own business development work.
+- **Opener sent** Hi Rob, noticed Skopenow has an SDR opening and that you have been carrying a lot of the business development and customer relationships yourself. I do one week builds of outbound infrastructure, signal tracking on fraud and risk teams plus enrichment and sequences, so whoever you hire starts with a working pipeline instead of a blank CRM.
+
+### Westcott Multimedia — Performance Marketing Analyst
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/98664425-performance-marketing-analyst
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** Westcott is a 1-10 person Techstars 2021 team posting a Performance Marketing Analyst role today, which usually signals the first dedicated demand function and no acquisition infrastructure behind it.
+- **Opener sent** Hi Kristin, I saw Westcott is hiring a Performance Marketing Analyst. Since the product is signals based, I could spend a week wiring up the same idea on the acquisition side, creator and catalog signals feeding an enriched target list and automated outreach, so the new hire has data to work with on day one.
+
+### Westcott Multimedia — Outbound Sales Development Representative - POS
+- **Score** 12 · seed stage · 1-10 employees · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/98664421-outbound-sales-development-representative-pos
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** The same small team is also posting an Outbound SDR for POS in the US, so they are standing up a net new outbound motion in a new segment with no existing playbook or lists.
+- **Opener sent** Hi Kristin, saw the Outbound SDR opening for POS at Westcott. Before that person starts I can build the outbound side in about a week, a sourced and enriched POS target list plus sequences and routing, so they are not spending month one building lists by hand.
+
+### AltScore — Sales Development Representative
+- **Score** 11 · series a stage · 11-50 employees · headcount shrinking (-10% YoY) · only GTM role open — likely their first · posted 0d ago
+- **Site** https://altscore.ai · **Posting** https://jobs.techstars.com/companies/altscore-2/jobs/98653551-sales-development-representative
+- **Contacted** Andres Perez Romo Leroux, Chief Executive Officer - Co-Founder — https://linkedin.com/in/andresprl
+- **What they do** AltScore increases the access to loans for small and medium business in Latin America
+- **Why now** AltScore raised $12.4M across four rounds and is Series A, but headcount is down 10% YoY while they open a single SDR role, which points to leaner growth where automation has to do the work a bigger team used to.
+- **Opener sent** Hola Andres, I noticed AltScore is hiring an SDR and that the team has gotten leaner over the past year. I build outbound systems in about a week, signal tracking on LatAm lenders and fintechs launching credit programs, enrichment and automated sequences, so one rep can cover the ground a few used to.
