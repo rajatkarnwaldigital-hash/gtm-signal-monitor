@@ -1258,3 +1258,39 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** AltScore increases the access to loans for small and medium business in Latin America
 - **Why now** AltScore raised $12.4M across four rounds and is Series A, but headcount is down 10% YoY while they open a single SDR role, which points to leaner growth where automation has to do the work a bigger team used to.
 - **Opener sent** Hola Andres, I noticed AltScore is hiring an SDR and that the team has gotten leaner over the past year. I build outbound systems in about a week, signal tracking on LatAm lenders and fintechs launching credit programs, enrichment and automated sequences, so one rep can cover the ground a few used to.
+
+## 2026-11-03
+
+### Rayda — Growth Marketing Specialist
+- **Score** 15 · pre seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2024 — recent cohort · posted 0d ago
+- **Site** https://rayda.co · **Posting** https://jobs.techstars.com/companies/rayda-2/jobs/98727791-growth-marketing-specialist
+- **Contacted** Francis Osifo, Founder/CEO — https://linkedin.com/in/francisosifo
+- **What they do** Acquire, manage and dispose of IT assets globally
+- **Why now** They posted their only GTM role today, a Growth Marketing Specialist, while headcount is up 50% YoY and the product already ships and retrieves devices across 170+ countries, so there is demand to work with but no outbound system for the new hire to step into; note the background lists Francis as YC W19 rather than the Techstars 2024 tag on the record.
+- **Opener sent** Francis, saw the Growth Marketing Specialist opening at Rayda go up today. Before that person starts, I could spend a week building the pipes they will need on day one: a list of distributed teams hiring in your 170+ country footprint, enrichment on who owns IT assets there, and sequences that fire off those signals.
+
+### Pack — Business Development Representative (IT)
+- **Score** 8 · series a stage · 51-200 employees · headcount shrinking (-5% YoY) · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://thepack.tech · **Posting** https://jobs.techstars.com/companies/pack-2-c634742f-d87d-4114-8745-7752e86dd610/jobs/98737593-business-development-representative-it
+- **Contacted** Cory Cummings, Co-Founder & CEO — https://linkedin.com/in/corycummings
+- **Contacted** Federico Rampini, Head of Marketing and Sales Excellence — https://linkedin.com/in/federico-rampini-8ab5a71b8
+- **What they do** HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.
+- **Why now** Pack is hiring a BDR for IT alongside an enterprise AE on the same day while headcount is down 5% YoY, which usually means they are rebuilding the sales motion rather than adding to it.
+- **Opener sent** Cory, noticed Pack put up a Business Development Representative role for IT today. If the BDR is going to be sourcing cold, I can build the signal and enrichment layer behind them in about a week so they are working a scored list instead of guessing which HR teams are in a change cycle.
+
+### Pack — Account Executive Enterprise - french market
+- **Score** 8 · series a stage · 51-200 employees · headcount shrinking (-5% YoY) · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://thepack.tech · **Posting** https://jobs.techstars.com/companies/pack-2-c634742f-d87d-4114-8745-7752e86dd610/jobs/98737592-account-executive-enterprise-french-market
+- **Contacted** Cory Cummings, Co-Founder & CEO — https://linkedin.com/in/corycummings
+- **Contacted** Federico Rampini, Head of Marketing and Sales Excellence — https://linkedin.com/in/federico-rampini-8ab5a71b8
+- **What they do** HR-Tech platform to foster people's growth with data-driven mentoring and increase employees' retention.
+- **Why now** The enterprise AE posting for the French market went live today and sits next to a BDR opening, so there is budget for a named-account motion that currently has no sourcing or routing behind it.
+- **Opener sent** Cory, I saw the Enterprise AE role for the French market at Pack. For an AE carrying France, I can stand up the account list, enrichment and trigger-based outreach in a week so they land with a defined territory rather than building it themselves.
+
+### dopay — Senior Performance Marketing - B2B
+- **Score** 8 · series a stage · 51-200 employees · only GTM role open — likely their first · Techstars 2014 — old cohort · posted 0d ago
+- **Site** https://dopay.com · **Posting** https://jobs.techstars.com/companies/dopay/jobs/98738049-senior-performance-marketing-b2b
+- **Contacted** Abdelhamid Morsy, Head of Sales — https://eg.linkedin.com/in/morsy
+- **What they do** SaaS solution that helps corporates to compute and deliver payroll to both banked and unbanked workers.
+- **Why now** dopay posted a Senior Performance Marketing B2B role today, its only open GTM role, and the founder has been publicly working investor and advisor introductions, so demand-gen spend is about to start with no pipeline infrastructure under it.
+- **Opener sent** Abdelhamid, I saw dopay is hiring a Senior Performance Marketing lead for B2B. Paid tends to work better when the outbound side is already catching the same accounts, so in about a week I could build you the corporate target list, payroll-related trigger signals and the follow-up sequences that sit behind the ads.
