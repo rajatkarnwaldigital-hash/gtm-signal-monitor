@@ -1294,3 +1294,31 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** SaaS solution that helps corporates to compute and deliver payroll to both banked and unbanked workers.
 - **Why now** dopay posted a Senior Performance Marketing B2B role today, its only open GTM role, and the founder has been publicly working investor and advisor introductions, so demand-gen spend is about to start with no pipeline infrastructure under it.
 - **Opener sent** Abdelhamid, I saw dopay is hiring a Senior Performance Marketing lead for B2B. Paid tends to work better when the outbound side is already catching the same accounts, so in about a week I could build you the corporate target list, payroll-related trigger signals and the follow-up sequences that sit behind the ads.
+
+## 2026-11-04
+
+### Moneiva — Product Marketing Manager
+- **Score** 18 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2024 — recent cohort · posted 0d ago
+- **Site** https://moneiva.com · **Posting** https://jobs.techstars.com/companies/moneiva/jobs/98947035-product-marketing-manager
+- **Contacted** Marina Brown, Founder and CEO — https://linkedin.com/in/marinadbrown
+- **What they do** Moneiva automates communication in Logistics and Supply Chain using AI-powered voice, email, and text agents. We reduce manual, repetitive tasks that cost teams time and money--every call costs $3.50, even when no one answers. Our deep logistics workflows drive 150%+ productivity gains and reduce communication costs by two-thirds.
+- **Why now** Marina posted the Product Marketing Manager role today and it is the only GTM seat open at a 1-10 person Techstars 2024 company, so whoever takes it walks into no pipeline system at all, despite a product with a very quotable number (every unanswered call costs 3.50 dollars).
+- **Opener sent** Marina, saw the Product Marketing Manager opening at Moneiva go up today. Before that person starts, I could spend a week building the outbound side they would otherwise build themselves: a list of brokers and shippers, enrichment on fleet and volume signals, and sequences built around the 3.50 dollars per call number you already lead with.
+
+### Carepatron — Junior Account Executive - USA Software Sales (Remote)
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** http://carepatron.com · **Posting** https://nz.linkedin.com/jobs/view/junior-account-executive-usa-software-sales-remote-at-carepatron-4486101375
+- **Contacted** Jamie Frew, Founder & CEO — https://linkedin.com/in/jamie-frew-b843618
+- **Contacted** Glen Jones, Head of Sales — https://linkedin.com/in/glen-jones-7bb03333
+- **What they do** Carepatron is a healthcare management software. The company's services include billing, coding, clinical notes, documentation, healthcare compliance, health records, medical dictation, online payments, practice management, a patient portal, and scheduling.
+- **Why now** They are listed as pre-seed but the background says 5.1M raised and 40-50 people growing 50 percent year over year, so this is a funded team adding its first junior AE in the US, and Glen as Head of Sales has someone to ramp with no US outbound machine in place yet.
+- **Opener sent** Jamie, noticed the Junior Account Executive role for US software sales went live today. For a first US rep I usually spend a week setting up the part they cannot build alone: practice and clinic data sourcing, enrichment, and a sequence set Glen can hand them on day one instead of month three.
+
+### AfterShoot — Sr Lifecycle Marketing Manager
+- **Score** 11 · pre seed stage · 51-200 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://aftershoot.co · **Posting** https://jobs.techstars.com/companies/aftershoot/jobs/98868064-sr-lifecycle-marketing-manager
+- **Contacted** Harshit Dwivedi, Founder and CEO — https://linkedin.com/in/harshithdwivedi
+- **Contacted** Akshay Chachra, Business Development Manager — https://linkedin.com/in/akshaychachra
+- **What they do** The fastest tool to automatically select the best photos by detecting unwanted blinks, camera shake, duplicate photos and much more.
+- **Why now** The listing says pre-seed but the background shows 150-200 people growing 50 percent year over year since the 2021 Techstars cohort, and the Sr Lifecycle Marketing Manager is the only GTM role open, which suggests self-serve growth with no structured outbound or lifecycle plumbing underneath it.
+- **Opener sent** Harshit, saw the Sr Lifecycle Marketing Manager role posted at Aftershoot today. Given how much of your growth comes from photographers finding you directly, I could spend a week wiring the signal and lifecycle side, trial behaviour to triggered sequences plus studio and workshop data for the outbound motion, so the new hire inherits something running.
