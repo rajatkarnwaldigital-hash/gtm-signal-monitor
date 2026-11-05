@@ -1322,3 +1322,29 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** The fastest tool to automatically select the best photos by detecting unwanted blinks, camera shake, duplicate photos and much more.
 - **Why now** The listing says pre-seed but the background shows 150-200 people growing 50 percent year over year since the 2021 Techstars cohort, and the Sr Lifecycle Marketing Manager is the only GTM role open, which suggests self-serve growth with no structured outbound or lifecycle plumbing underneath it.
 - **Opener sent** Harshit, saw the Sr Lifecycle Marketing Manager role posted at Aftershoot today. Given how much of your growth comes from photographers finding you directly, I could spend a week wiring the signal and lifecycle side, trial behaviour to triggered sequences plus studio and workshop data for the outbound motion, so the new hire inherits something running.
+
+## 2026-11-05
+
+### Trellis Health — PEO Sales, Account Executive
+- **Score** 16 · pre seed stage · 1-10 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://jointrellsihealth.com · **Posting** https://jobs.techstars.com/companies/trellis-health/jobs/99050795-peo-sales-account-executive
+- **Contacted** Estelle Giraud, CEO and Cofounder — https://linkedin.com/in/estelle-giraud
+- **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
+- **Why now** Posted today, a $4M pre-seed Techstars 2023 company with under 10 people is opening a PEO Sales AE seat, which means a first quota carrier is arriving to an empty pipeline, and Estelle has run commercial teams at a large genomics company so she will recognize what infrastructure the rep needs on day one.
+- **Opener sent** Hi Estelle, saw Trellis just put up the PEO Sales AE role. Since that rep will likely be the first one carrying a number there, I build the outbound layer before the hire starts: target list, enrichment, and sequences live in about a week, so they walk into pipeline instead of a blank CRM.
+
+### CancerAid — Growth & Go-To-Market Lead
+- **Score** 12 · pre seed stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2017 — old cohort · posted 0d ago
+- **Site** https://canceraid.com · **Posting** https://jobs.techstars.com/companies/canceraid/jobs/98977213-growth-go-to-market-lead
+- **Contacted** Zachary Tan, President, Co-Founder — https://www.linkedin.com/in/zacharytan
+- **What they do** CancerAid is an app for oncology patients, caregivers and clinicians to provide support during their journey.
+- **Why now** The Growth and Go-To-Market Lead posting went up today at a 10-20 person team, and worth noting the background contradicts the company data: Zachary Tan's profile lists him as President and Co-Founder of Optain since April 2023, so the real CancerAid decision maker may be someone else and the first message should confirm who owns this hire.
+- **Opener sent** Hi Zachary, I noticed the Growth and Go-To-Market Lead opening at CancerAid and wanted to check whether you are still the person on that hire, since your profile now lists Optain. Either way, for a first GTM lead I usually spend a week standing up the signal and outreach plumbing so they start with a working pipeline rather than building one from scratch.
+
+### Handl Health — Growth Marketing Manager
+- **Score** 9 · seed stage · stage data unreliable — board said 11-50, Exa says 7000-8000 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://gohandlhealth.com · **Posting** https://jobs.techstars.com/companies/handl-health/jobs/98895491-growth-marketing-manager
+- **Contacted** Evan Anderson, Senior Director of Business Development and Operations — https://linkedin.com/in/evanranderson
+- **What they do** The next generation of consumer engagement in healthcare.
+- **Why now** Posted a day ago and their only GTM opening is a Growth Marketing Manager at a Techstars 2023 seed company, so despite the 7000-8000 headcount figure in the data, which is clearly wrong for a seed-stage startup, this is a small team making its first growth hire.
+- **Opener sent** Hi Evan, saw the Growth Marketing Manager role at Handl Health. If that person is going to be the first one owning growth, I do one week builds of the outbound side of it, target list, enrichment, and sequences, so there is something running the day they start.
