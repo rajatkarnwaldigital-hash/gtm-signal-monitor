@@ -1364,9 +1364,19 @@
     "first_seen": "2026-10-30T11:34:13.073953+00:00",
     "title": "Regional Sales Manager (North and East Coast)"
   },
+  "techstars:98404803": {
+    "company": "Chainalysis",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Sr Product Marketing Manager, Platform"
+  },
   "techstars:98404805": {
     "company": "Chainalysis",
     "first_seen": "2026-10-30T11:34:13.073953+00:00",
+    "title": "Sr. Product Marketing Manager, Government"
+  },
+  "techstars:98404807": {
+    "company": "Chainalysis",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
     "title": "Sr. Product Marketing Manager, Government"
   },
   "techstars:98450968": {
@@ -1449,9 +1459,49 @@
     "first_seen": "2026-11-05T13:28:05.608240+00:00",
     "title": "Growth & Go-To-Market Lead"
   },
+  "techstars:98992279": {
+    "company": "Ecomtent",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Enterprise Account Executive"
+  },
+  "techstars:99011303": {
+    "company": "Cledara",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Head of Sales"
+  },
   "techstars:99050795": {
     "company": "Trellis Health",
     "first_seen": "2026-11-05T13:28:05.608240+00:00",
     "title": "PEO Sales, Account Executive"
+  },
+  "techstars:99080328": {
+    "company": "Chainalysis",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Enterprise Account Executive - MED"
+  },
+  "techstars:99088829": {
+    "company": "Kredete",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Head of Marketing, Brand and Product Growth"
+  },
+  "techstars:99088953": {
+    "company": "AmorSui",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Account Executive"
+  },
+  "techstars:99088954": {
+    "company": "AmorSui",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Enterprise Healthcare Account Executive"
+  },
+  "techstars:99090068": {
+    "company": "VOIDS",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Account Executive (f/m/d) German Speaking - AI SaaS Start-up"
+  },
+  "techstars:99146763": {
+    "company": "Trellis Health",
+    "first_seen": "2026-11-06T13:11:57.632887+00:00",
+    "title": "Senior Performance Marketing Manager, Paid Social"
   }
 }

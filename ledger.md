@@ -1348,3 +1348,46 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** The next generation of consumer engagement in healthcare.
 - **Why now** Posted a day ago and their only GTM opening is a Growth Marketing Manager at a Techstars 2023 seed company, so despite the 7000-8000 headcount figure in the data, which is clearly wrong for a seed-stage startup, this is a small team making its first growth hire.
 - **Opener sent** Hi Evan, saw the Growth Marketing Manager role at Handl Health. If that person is going to be the first one owning growth, I do one week builds of the outbound side of it, target list, enrichment, and sequences, so there is something running the day they start.
+
+## 2026-11-06
+
+### Kredete — Head of Marketing, Brand and Product Growth
+- **Score** 21 · series a stage · 11-50 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://kredete.io · **Posting** https://jobs.techstars.com/companies/kredete-2/jobs/99088829-head-of-marketing-brand-and-product-growth
+- **Contacted** Adewumi George, Co-founder — https://www.linkedin.com/in/adewumigeorge
+- **What they do** Streamlining the process of obtaining credit, financial management and future planning for your benefits.
+- **Why now** They just posted their only GTM role, a Head of Marketing, Brand and Product Growth, off a $25.3M raise and 50% headcount growth, so the budget is live but the new leader will walk into no outbound or lifecycle plumbing.
+- **Opener sent** Hi Adewumi, saw Kredete just opened the Head of Marketing, Brand and Product Growth role. I build the outbound and enrichment setup that a hire like that usually spends their first quarter assembling, and I can have a working version running in about a week so they start with pipeline instead of a blank slate.
+
+### Trellis Health — Senior Performance Marketing Manager, Paid Social
+- **Score** 18 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://jointrellsihealth.com · **Posting** https://jobs.techstars.com/companies/trellis-health/jobs/99146763-senior-performance-marketing-manager-paid-social
+- **Contacted** Estelle Giraud, CEO and Cofounder — https://linkedin.com/in/estelle-giraud
+- **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
+- **Why now** A pre-seed team of under ten with $4M raised is hiring a Senior Performance Marketing Manager for paid social today, which means spend is about to start before any tracking, enrichment or follow-up system exists behind it.
+- **Opener sent** Hi Estelle, I noticed Trellis Health is hiring a Senior Performance Marketing Manager for paid social. Before that person starts spending, I can stand up the signal and follow-up infrastructure behind the ads in about a week so every lead gets routed and worked instead of sitting in a form.
+
+### Ecomtent — Enterprise Account Executive
+- **Score** 17 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://ecomtent.ai · **Posting** https://jobs.techstars.com/companies/ecomtent-2/jobs/98992279-enterprise-account-executive
+- **Contacted** Max Hatter, Founder's Associate — https://linkedin.com/in/max-hatter-312553150
+- **What they do** Azoma is helping the world's leading brands, such as Mars, Colgate, HP, Beiersdorf, Zappos, P&G, and Reckitt, stay dominant in the era of AI Discovery with their end-to-end, enterprise, Generative Engine Optimization solution.
+- **Why now** Christian describes himself as the first US commercial hire building the North American GTM practice from scratch, and the company is now adding an Enterprise AE on top of a brand list that includes Mars, Colgate and P and G, so repeatable sourcing matters more than ever.
+- **Opener sent** Hi Max, saw Azoma is hiring an Enterprise Account Executive while the US GTM practice is still being built out from scratch. I do one week builds of the account signal and enrichment pipelines that feed that kind of enterprise motion, so the new AE has a target list and sequences on day one.
+
+### Cledara — Head of Sales
+- **Score** 15 · series a stage · 51-200 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · posted 1d ago
+- **Site** https://cledara.com · **Posting** https://jobs.techstars.com/companies/cledara/jobs/99011303-head-of-sales
+- **Contacted** Brad van Leeuwen, Co-Founder and COO — https://linkedin.com/in/bradvanleeuwen
+- **Contacted** Luke Steggle, Business Development Manager — https://linkedin.com/in/luke-steggle-1799a4107
+- **What they do** Purchasing and analytics platform for startups
+- **Why now** Cristina posted on 2026-09-01 about Cledara's first joint campaign with Visa, and the company is now hiring a Head of Sales as its only open GTM role, so there is brand momentum arriving before a sales engine exists to catch it.
+- **Opener sent** Hi Brad, I saw the Visa joint campaign post and that Cledara is hiring a Head of Sales. I build outbound infrastructure in roughly one week engagements, so the new head could inherit working signal and sequencing instead of spending their first month wiring tools together.
+
+### VOIDS — Account Executive (f/m/d) German Speaking - AI SaaS Start-up
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://voids.ai · **Posting** https://jobs.techstars.com/companies/voids/jobs/99090068-account-executive-f-m-d-german-speaking-ai-saas-start-up
+- **Contacted** Tobias Wandersleb, Co-Founder & CTO — https://linkedin.com/in/tobiaswandersleb
+- **What they do** Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.
+- **Why now** Tobias says VOIDS is at 60 plus brands including 6PM and HYROX and is now live in the US, and the first AE req is a German speaking role, so there is a two market motion to build sourcing for right now.
+- **Opener sent** Hi Tobias, saw you are hiring a German speaking Account Executive just as VOIDS goes live in the US. I can build the lead sourcing and outbound system for both markets in about a week so the new AE has a filled pipeline rather than a list they have to assemble themselves.
