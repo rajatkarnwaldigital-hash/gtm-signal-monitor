@@ -1391,3 +1391,38 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Providing technology empowering brands, businesses, and people to build a sustainable e-commerce ecosystem for all.
 - **Why now** Tobias says VOIDS is at 60 plus brands including 6PM and HYROX and is now live in the US, and the first AE req is a German speaking role, so there is a two market motion to build sourcing for right now.
 - **Opener sent** Hi Tobias, saw you are hiring a German speaking Account Executive just as VOIDS goes live in the US. I can build the lead sourcing and outbound system for both markets in about a week so the new AE has a filled pipeline rather than a list they have to assemble themselves.
+
+## 2026-11-07
+
+### Cledara — SMB Account Executive
+- **Score** 13 · series a stage · 11-50 employees · only GTM role open — likely their first · posted 1d ago
+- **Site** https://cledara.com · **Posting** https://jobs.techstars.com/companies/cledara/jobs/99126785-smb-account-executive
+- **Contacted** Cristina Vila Vives, Founder and CEO — https://linkedin.com/in/cvilavives
+- **Contacted** Luke Steggle, Business Development Manager — https://linkedin.com/in/luke-steggle-1799a4107
+- **What they do** Purchasing and analytics platform for startups
+- **Why now** They posted an SMB AE role yesterday and it is their only open GTM seat, but the background says headcount is actually down 40% YoY rather than up, so this is a lean team adding a quota carrier who will land with no pipeline system waiting for them.
+- **Opener sent** Hi Cristina, saw the SMB Account Executive role go up at Cledara yesterday. Before they start, I can build out the outbound side in about a week, signal tracking on SaaS spend triggers, enriched lists and sequences ready to run, so the AE walks into pipeline instead of a blank CRM.
+
+### Sigma360 — Senior Product Marketing Manager
+- **Score** 12 · series a stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago · no domain resolved
+- **Site** unknown · **Posting** https://jobs.techstars.com/companies/sigma360-2-ee2e9a0d-3889-434b-9091-a3a8466b9eaf/jobs/99235340-senior-product-marketing-manager
+- **Contacted** Stuart Jones, Jr., Co-Founder & Chief Executive Officer — https://linkedin.com/in/stuartjonesjr
+- **Contacted** David Markel, VP US Business Development — https://linkedin.com/in/dmarkel01
+- **Why now** The Senior Product Marketing Manager role went live today and is their only GTM opening, which for a Series A financial crime compliance company with a tiny team means messaging and demand gen are about to be built from zero.
+- **Opener sent** Hi Stuart, noticed Sigma360 just posted the Senior Product Marketing Manager role. Given your background at Treasury and NCTC, the compliance buyer list is very targetable, and in a week I could stand up the enrichment and outbound sequences so your new PMM has a working demand channel to plug messaging into.
+
+### AmorSui — Account Executive
+- **Score** 10 · pre seed stage · 1-10 employees · posted 1d ago
+- **Site** https://amorsui.com · **Posting** https://jobs.techstars.com/companies/amorsui-2/jobs/99088950-account-executive
+- **Contacted** Beau Wangtrakuldee, PhD, Founder & CEO — https://linkedin.com/in/beauwangtrakuldee
+- **What they do** AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators
+- **Why now** They posted an Account Executive role in Denver a day ago on a 1-10 person team with $3.7M raised, so the first seller is arriving before any outbound setup exists.
+- **Opener sent** Hi Beau, saw AmorSui is hiring an Account Executive in Denver. I build outbound setups in about a week for teams at your size, target lists of healthcare accounts, enrichment and the sequences behind them, so the new AE has something to work from on day one.
+
+### AmorSui — Enterprise Healthcare Account Executive
+- **Score** 10 · pre seed stage · 1-10 employees · posted 1d ago
+- **Site** https://amorsui.com · **Posting** https://jobs.techstars.com/companies/amorsui-2/jobs/99088949-enterprise-healthcare-account-executive
+- **Contacted** Beau Wangtrakuldee, PhD, Founder & CEO — https://linkedin.com/in/beauwangtrakuldee
+- **What they do** AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators
+- **Why now** A second AE posting, this one Enterprise Healthcare in Seattle, went up the same day, which means they are staffing two sales seats at once off a 1-10 person team and $3.7M raised.
+- **Opener sent** Hi Beau, I noticed AmorSui has both a Denver AE and an Enterprise Healthcare AE role open right now. Two sellers starting at once is usually the moment outbound infrastructure matters, and I can put the account research, enrichment and sequences in place inside a week so they are not each building their own.
