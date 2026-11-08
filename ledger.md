@@ -1426,3 +1426,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** AmorSui offers premium connected, integrated safety products that bring sustainability to healthcare innovators
 - **Why now** A second AE posting, this one Enterprise Healthcare in Seattle, went up the same day, which means they are staffing two sales seats at once off a 1-10 person team and $3.7M raised.
 - **Opener sent** Hi Beau, I noticed AmorSui has both a Denver AE and an Enterprise Healthcare AE role open right now. Two sellers starting at once is usually the moment outbound infrastructure matters, and I can put the account research, enrichment and sequences in place inside a week so they are not each building their own.
+
+## 2026-11-08
+
+### Trellis Health — Product Marketing Lead, Business Insurance
+- **Score** 18 · pre seed stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://jointrellsihealth.com · **Posting** https://jobs.techstars.com/companies/trellis-health/jobs/99282158-product-marketing-lead-business-insurance
+- **Contacted** Estelle Giraud, CEO and Cofounder — https://linkedin.com/in/estelle-giraud
+- **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
+- **Why now** They posted their Product Marketing Lead role today and it is the only GTM role open at a 1-10 person pre-seed company with $4M raised out of Techstars 2023, so whoever takes it will walk in with no pipeline system to inherit; worth noting Estelle's profile lists Seattle rather than the SF/NY locations on the posting, so she is likely hiring remote-first.
+- **Opener sent** Estelle, saw the Product Marketing Lead role go up today, and if that is your first dedicated GTM hire, they will likely spend week one building lists by hand. I build the outbound plumbing in about a week, target accounts enriched, signals tracked and sequences running, so your new hire starts on live conversations instead of spreadsheets.
