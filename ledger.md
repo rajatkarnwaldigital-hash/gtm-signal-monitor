@@ -1436,3 +1436,13 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Modern personal health software for you to access your past, manage your present, and build a foundation for the future of your family's health.
 - **Why now** They posted their Product Marketing Lead role today and it is the only GTM role open at a 1-10 person pre-seed company with $4M raised out of Techstars 2023, so whoever takes it will walk in with no pipeline system to inherit; worth noting Estelle's profile lists Seattle rather than the SF/NY locations on the posting, so she is likely hiring remote-first.
 - **Opener sent** Estelle, saw the Product Marketing Lead role go up today, and if that is your first dedicated GTM hire, they will likely spend week one building lists by hand. I build the outbound plumbing in about a week, target accounts enriched, signals tracked and sequences running, so your new hire starts on live conversations instead of spreadsheets.
+
+## 2026-11-09
+
+### Credentially — NHS Sales Lead
+- **Score** 10 · series unknown stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2016 — old cohort · posted 1d ago
+- **Site** https://credentially.io · **Posting** https://jobs.techstars.com/companies/credentially/jobs/99336764-nhs-sales-lead
+- **Contacted** Kit Latham, CEO — https://linkedin.com/in/kit-latham-991737a1
+- **What they do** HR software for healthcare organizations.
+- **Why now** They posted an NHS Sales Lead a day ago and it looks like the only GTM role open, so a first dedicated seller is walking into a company that has run founder-led sales since 2016 with no outbound system built for NHS trusts.
+- **Opener sent** Hi Kit, saw the NHS Sales Lead opening at Credentially. If it helps, I build short one week GTM setups for founders making their first sales hire, so things like an NHS trust and practice group target list, enrichment on the hiring and compliance leads inside them, and a working outbound sequence are ready on day one instead of month three. Happy to show what that looks like.
