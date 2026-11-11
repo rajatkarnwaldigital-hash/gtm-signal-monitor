@@ -1446,3 +1446,39 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** HR software for healthcare organizations.
 - **Why now** They posted an NHS Sales Lead a day ago and it looks like the only GTM role open, so a first dedicated seller is walking into a company that has run founder-led sales since 2016 with no outbound system built for NHS trusts.
 - **Opener sent** Hi Kit, saw the NHS Sales Lead opening at Credentially. If it helps, I build short one week GTM setups for founders making their first sales hire, so things like an NHS trust and practice group target list, enrichment on the hiring and compliance leads inside them, and a working outbound sequence are ready on day one instead of month three. Happy to show what that looks like.
+
+## 2026-11-11
+
+### Dfns — Revenue Operations Lead
+- **Score** 12 · series a stage · 11-50 employees · mid-level GTM hire · posted 0d ago
+- **Site** https://dfns.co · **Posting** https://jobs.techstars.com/companies/dfns-2-4e956051-1133-42b4-a43c-f9ef0eb69c7e/jobs/99522536-revenue-operations-lead
+- **Contacted** Clarisse Hagège, Founder & CEO — https://linkedin.com/in/clarissehagege
+- **Contacted** Jared Klee, Chief Revenue Officer — https://linkedin.com/in/jared-klee
+- **What they do** Wallet-as-a-service platform to streamline digital asset operations and onboard users into crypto, safely.
+- **Why now** They just posted a RevOps Lead today alongside a Sales Director role, and with a CRO (Jared Klee) already in seat and headcount up 40% YoY on $30.6M, the revenue stack needs to exist before the RevOps hire lands.
+- **Opener sent** Hi Clarisse, saw Dfns put up a Revenue Operations Lead today, right as you are also hiring a Sales Director for North America. I do one week builds of the plumbing a RevOps hire usually spends their first quarter on, things like enrichment on inbound wallet and custody signups and routing into sequences, so they start with something already running.
+
+### Packworks — Account Executive - Poland
+- **Score** 12 · pre seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://thepackworks.com · **Posting** https://jobs.techstars.com/companies/packworks-2/jobs/99494964-account-executive-poland
+- **Contacted** Ibrahim Bernardo, Chief Marketing Officer / Co-Founder — https://linkedin.com/in/ibbabernardo
+- **What they do** Packworks' goal is to help the millions of micro-entrepreneurs in the Philippines and South East Asia, by providing them with an app to grow their business.
+- **Why now** A pre-seed team of 30-40 posting an Account Executive for Poland signals a new market push outside their Philippines sari-sari base, and there is no existing outbound motion in that geography for the hire to inherit.
+- **Opener sent** Hi Ibrahim, noticed Packworks is hiring an Account Executive for Poland, which looks like a first push outside the PH market. I build outbound setups in about a week, list sourcing, enrichment and sequences for a new territory, so whoever you hire in Warsaw has pipeline on day one instead of building it from scratch.
+
+### Dfns — Sales Director, North America
+- **Score** 10 · series a stage · 11-50 employees · posted 0d ago
+- **Site** https://dfns.co · **Posting** https://jobs.techstars.com/companies/dfns-2-4e956051-1133-42b4-a43c-f9ef0eb69c7e/jobs/99522557-sales-director-north-america
+- **Contacted** Clarisse Hagège, Founder & CEO — https://linkedin.com/in/clarissehagege
+- **Contacted** Jared Klee, Chief Revenue Officer — https://linkedin.com/in/jared-klee
+- **What they do** Wallet-as-a-service platform to streamline digital asset operations and onboard users into crypto, safely.
+- **Why now** The Sales Director, North America post went up the same day as their RevOps Lead role, so Dfns is standing up a US sales team right now with $30.6M behind it and no outbound system for either hire to step into.
+- **Opener sent** Hi Clarisse, I saw Dfns posted a Sales Director for North America today. Before they start, I can spend a week building the outbound layer underneath the role, signal tracking on crypto and fintech teams shipping wallet features, enrichment, and sequences that actually fire, so the new director inherits pipeline rather than a blank CRM.
+
+### Leucine — Enterprise Account Executive
+- **Score** 10 · series a stage · 51-200 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://leucinetech.com · **Posting** https://jobs.techstars.com/companies/leucine/jobs/99529387-enterprise-account-executive
+- **Contacted** Mustaq Singh Bijral, Co-Founder, Head of Product — https://in.linkedin.com/in/mbijral
+- **What they do** A proactive digital manufacturing platform that enables better drug product quality and patient safety.
+- **Why now** Leucine's Enterprise AE posting went live today and is their only open GTM role, which means a Series A pharma manufacturing platform is about to put one seller against long enterprise cycles with no outbound infrastructure behind them.
+- **Opener sent** Hi Mustaq, saw the Enterprise Account Executive opening at Leucine, and it looks like the only GTM role you have out. In a week I can set up the outbound side for that hire, tracking signals like FDA inspection and warning letter activity at drug manufacturers, enriching the right quality and manufacturing contacts, and wiring it into sequences they can run from day one.
