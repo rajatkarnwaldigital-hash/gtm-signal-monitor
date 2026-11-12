@@ -1573,5 +1573,20 @@
     "company": "Leucine",
     "first_seen": "2026-11-11T12:55:51.789678+00:00",
     "title": "Enterprise Account Executive"
+  },
+  "techstars:99609477": {
+    "company": "Taizen",
+    "first_seen": "2026-11-12T13:57:42.877861+00:00",
+    "title": "Sales Development Representative (SDR) - Outbound"
+  },
+  "techstars:99619506": {
+    "company": "InStockRx",
+    "first_seen": "2026-11-12T13:57:42.877861+00:00",
+    "title": "Territory Business Development Manager, Pharmacy Network"
+  },
+  "techstars:99686788": {
+    "company": "LuminaData",
+    "first_seen": "2026-11-12T13:57:42.877861+00:00",
+    "title": "Founding Sales Executive"
   }
 }

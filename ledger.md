@@ -1482,3 +1482,29 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** A proactive digital manufacturing platform that enables better drug product quality and patient safety.
 - **Why now** Leucine's Enterprise AE posting went live today and is their only open GTM role, which means a Series A pharma manufacturing platform is about to put one seller against long enterprise cycles with no outbound infrastructure behind them.
 - **Opener sent** Hi Mustaq, saw the Enterprise Account Executive opening at Leucine, and it looks like the only GTM role you have out. In a week I can set up the outbound side for that hire, tracking signals like FDA inspection and warning letter activity at drug manufacturers, enriching the right quality and manufacturing contacts, and wiring it into sequences they can run from day one.
+
+## 2026-11-12
+
+### LuminaData — Founding Sales Executive
+- **Score** 22 · pre seed stage · 1-10 employees · founding hire — no GTM function exists yet · only GTM role open — likely their first · Techstars 2025 — recent cohort · posted 0d ago
+- **Site** https://luminadata.ai · **Posting** https://jobs.techstars.com/companies/luminadata/jobs/99686788-founding-sales-executive
+- **Contacted** Afrozy Ara, Founder & CEO — https://linkedin.com/in/afrozy-ara-57527612
+- **What they do** We are developing AI-powered agents and virtual co-workers to automate finance operations. Our technology streamlines critical tasks like reconciliations and data processing, minimizing manual effort, enhancing accuracy, and boosting efficiency for finance teams.
+- **Why now** Afrozy founded LuminaData in June 2025, is a Techstars 2025 company, and just posted its Founding Sales Executive role today, so the first seller will walk in with zero pipeline infrastructure and a CFO-level target list that has to be built from scratch.
+- **Opener sent** Afrozy, saw the Founding Sales Executive opening at LuminaData. Before that person starts, I can build the outbound side they would otherwise spend their first month on: a CFO and controller list with AI mandate signals pulled from earnings calls and hiring data, enriched and wired into sequences, in about a week.
+
+### InStockRx — Territory Business Development Manager, Pharmacy Network
+- **Score** 19 · series a stage · 1-10 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://instockrx.com · **Posting** https://jobs.techstars.com/companies/instockrx/jobs/99619506-territory-business-development-manager-pharmacy-network
+- **Contacted** Dr. Alex Toth, Co-Founder/COO — https://linkedin.com/in/dr-alex-toth
+- **What they do** Seamless Access to In-Stock Medication.
+- **Why now** The posting is a day old and the background shows a 1-10 person team with $120K raised, which reads far earlier than the Series A label, so this Territory Business Development Manager is almost certainly the first dedicated GTM hire with no system behind them.
+- **Opener sent** Alex, I noticed the Territory Business Development Manager posting for the pharmacy network. For a territory hire like that, I usually spend a week building the list and routing layer first, independent pharmacy data enriched and turned into a sequenced outreach flow, so the rep is working accounts instead of assembling them.
+
+### Taizen — Sales Development Representative (SDR) - Outbound
+- **Score** 16 · pre seed stage · 1-10 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://usetaizen.com · **Posting** https://jobs.techstars.com/companies/taizen-2-addab908-4b81-4f30-bec5-315db9d0ef85/jobs/99609477-sales-development-representative-sdr-outbound
+- **Contacted** Victor Chima, Co-Founder & CEO — https://linkedin.com/in/vchima
+- **What they do** LogSpend is a software company that provides End-to-end LLMOps platform for performance evaluation.
+- **Why now** Victor is building AI agents for revenue teams himself and just posted an outbound SDR role, so he already believes in signal-driven GTM but likely has no internal pipeline infrastructure for his own team to run on.
+- **Opener sent** Victor, saw the outbound SDR role at Taizen. Given you are building agents for revenue teams, it seemed worth asking who is setting up your own outbound stack, since I do one week builds of signal sourcing, enrichment and sequencing so a new SDR has something to run on day one.
