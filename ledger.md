@@ -1508,3 +1508,40 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** LogSpend is a software company that provides End-to-end LLMOps platform for performance evaluation.
 - **Why now** Victor is building AI agents for revenue teams himself and just posted an outbound SDR role, so he already believes in signal-driven GTM but likely has no internal pipeline infrastructure for his own team to run on.
 - **Opener sent** Victor, saw the outbound SDR role at Taizen. Given you are building agents for revenue teams, it seemed worth asking who is setting up your own outbound stack, since I do one week builds of signal sourcing, enrichment and sequencing so a new SDR has something to run on day one.
+
+## 2026-11-14
+
+### Granter.ai — Sales Lead, Spain
+- **Score** 17 · pre seed stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2025 — recent cohort · posted 1d ago
+- **Site** https://granter.ai · **Posting** https://jobs.techstars.com/companies/granter-ai/jobs/99755108-sales-lead-spain
+- **Contacted** Bernardo Seixas, CEO — https://linkedin.com/in/bernardo-seixas-
+- **What they do** World's first AI agent for grants
+- **Why now** They just came out of Techstars '25 and are posting a Sales Lead for Spain while the company is still headquartered in Lisbon on $279K raised, so the Spain push is a brand new motion with no pipeline machinery behind it.
+- **Opener sent** Bernardo, saw the Sales Lead opening for Spain right after the Techstars '25 cohort. Before that person starts, I can build the Spain side of the funnel in about a week: a list of companies actively applying for or eligible for grants, enriched contacts, and sequences that are live on day one rather than something they have to build from scratch.
+
+### Oper Credits — AI-Native Senior Account Executive - DACH
+- **Score** 13 · series a stage · 11-50 employees · only GTM role open — likely their first · posted 1d ago
+- **Site** https://opercredits.com · **Posting** https://jobs.techstars.com/companies/oper-credits-2/jobs/99713554-ai-native-senior-account-executive-dach
+- **Contacted** Geert Van Kerckhoven, CEO & Co-Founder — https://linkedin.com/in/geertvankerckhoven
+- **Contacted** Christine Hick, Head of Growth — https://linkedin.com/in/christinehick
+- **What they do** Oper creates world-class digital mortgage experiences.
+- **Why now** Geert is publicly making the case that 75 to 80 percent of mortgage files arrive incomplete and that Herman handles it, and they are now hiring an AI-native Senior AE for DACH, which means a brand new territory with no lender pipeline built yet.
+- **Opener sent** Geert, I read your note about 75 to 80 percent of files arriving incomplete and Herman reading them against lender rules, and then saw the AI-native Senior AE role for DACH. In a week I can stand up the DACH lender signal list, enrichment on origination and underwriting owners, and a sequence that opens with the incomplete-file number, so the AE inherits pipeline instead of a blank CRM.
+
+### Serve First — Enterprise Sales Development Representative
+- **Score** 13 · series unknown stage · 11-50 employees · only GTM role open — likely their first · Techstars 2024 — recent cohort · posted 2d ago
+- **Site** https://servefirst.co.uk · **Posting** https://jobs.techstars.com/companies/serve-first/jobs/99658350-enterprise-sales-development-representative
+- **Contacted** Erol Ayvaz, Founder and CEO — https://linkedin.com/in/erolayvaz
+- **Contacted** Jeremy Michael, Chief Revenue Officer — https://linkedin.com/in/jeremymichael1
+- **What they do** Serve First provides customer feedback surveys and staff engagement platforms.
+- **Why now** Headcount is up 150 percent year over year coming out of Techstars 24, and the first Enterprise SDR posting plus a recently added CRO suggests they are formalising outbound right now.
+- **Opener sent** Erol, noticed the Enterprise SDR role and that the team has grown 150 percent over the past year. I do one week builds for teams at exactly that point: the enterprise target list, enrichment, and the outbound sequences set up and running so the SDR and Jeremy start with a working system instead of spreadsheets.
+
+### Onescreen — Senior Account Executive, New Business
+- **Score** 12 · seed stage · 11-50 employees · headcount shrinking (-3% YoY) · only GTM role open — likely their first · posted 1d ago
+- **Site** https://onescreen.ai · **Posting** https://jobs.techstars.com/companies/onescreen-2-03c736c2-d7db-4943-bd76-11586fe265b7/jobs/99751111-senior-account-executive-new-business
+- **Contacted** Greg Wise, Co-Founder & Chief Customer Officer — https://linkedin.com/in/gregwise
+- **Contacted** Audrey Marchionni, Business Development — https://linkedin.com/in/audrey-marchionni
+- **What they do** OneScreen.ai is a SaaS-enabled market network that is transforming offline advertising - from billboards & transit to bars & stadiums.
+- **Why now** Headcount is down 3 percent year over year on $17.1M raised and they are hiring a Senior AE for new business, which reads like a deliberate bet on outbound efficiency rather than adding more bodies.
+- **Opener sent** Greg, saw the Senior Account Executive opening for new business. With the team slightly smaller than last year, I can spend a week building the signal and enrichment layer behind that seat, things like brands with campaigns or openings that fit out of home, so the new AE works a sourced list instead of starting cold.
