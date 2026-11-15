@@ -1619,6 +1619,11 @@
     "first_seen": "2026-11-14T12:28:09.820458+00:00",
     "title": "Sales Lead, Spain"
   },
+  "techstars:99798603": {
+    "company": "Derq",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Regional Sales Manager (ITS - Intelligent Transport Systems)"
+  },
   "techstars:99798604": {
     "company": "Derq",
     "first_seen": "2026-11-14T12:28:09.820458+00:00",
@@ -1628,5 +1633,45 @@
     "company": "Artera",
     "first_seen": "2026-11-14T12:28:09.820458+00:00",
     "title": "Director, Product Marketing"
+  },
+  "techstars:99882893": {
+    "company": "Westcott Multimedia",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Business Development Representative (\u65e5\u672c\u62c5\u5f53)"
+  },
+  "techstars:99889694": {
+    "company": "KITRO",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Sales Account Executive Zurich - KITRO, AI Food Waste Solution"
+  },
+  "techstars:99889695": {
+    "company": "KITRO",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Sales Account Executive Austria - KITRO, AI Food Waste Solution"
+  },
+  "techstars:99889697": {
+    "company": "KITRO",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Sales Account Executive Germany - KITRO, AI Food Waste Solution"
+  },
+  "techstars:99889699": {
+    "company": "KITRO",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Senior Sales Account Executive Zurich - KITRO, AI Food Waste Solution"
+  },
+  "techstars:99889700": {
+    "company": "KITRO",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Senior Sales Account Executive Austria - KITRO, AI Food Waste Solution"
+  },
+  "techstars:99889701": {
+    "company": "KITRO",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Senior Sales Account Executive Germany - KITRO, AI Food Waste Solution"
+  },
+  "techstars:99902895": {
+    "company": "Photocert",
+    "first_seen": "2026-11-15T12:56:37.054579+00:00",
+    "title": "Business Development Representative"
   }
 }

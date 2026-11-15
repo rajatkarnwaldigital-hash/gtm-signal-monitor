@@ -1545,3 +1545,21 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** OneScreen.ai is a SaaS-enabled market network that is transforming offline advertising - from billboards & transit to bars & stadiums.
 - **Why now** Headcount is down 3 percent year over year on $17.1M raised and they are hiring a Senior AE for new business, which reads like a deliberate bet on outbound efficiency rather than adding more bodies.
 - **Opener sent** Greg, saw the Senior Account Executive opening for new business. With the team slightly smaller than last year, I can spend a week building the signal and enrichment layer behind that seat, things like brands with campaigns or openings that fit out of home, so the new AE works a sourced list instead of starting cold.
+
+## 2026-11-15
+
+### Westcott Multimedia — Business Development Representative (日本担当)
+- **Score** 15 · seed stage · 1-10 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://westcottmultimedia.com · **Posting** https://jobs.techstars.com/companies/westcott-multimedia/jobs/99882893-business-development-representative
+- **What they do** A signals based automated advertising platform that drives uplift on catalog content for creators and the companies that support them.
+- **Why now** They posted a Japan-focused BDR today as their only open GTM role, so a seed team of under ten with $4.3M raised is about to drop a first seller into a market with no pipeline system behind them, and the signals-based ad product itself gives plenty of raw data to build outbound off.
+- **Opener sent** Saw the Business Development Representative role for the Japan market go up today, and it looks like the first dedicated GTM hire at Westcott. Before they start, I can build the list sourcing, enrichment and sequencing setup in about a week so day one is calls instead of spreadsheet building.
+
+### Photocert — Business Development Representative
+- **Score** 14 · seed stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://photocert.co.uk · **Posting** https://jobs.techstars.com/companies/photocert/jobs/99902895-business-development-representative
+- **Contacted** Pasquale Saviano, CEO — https://linkedin.com/in/ubnum
+- **Contacted** Paul D., Head of Business Development — https://linkedin.com/in/paul-davies-tech
+- **What they do** In an era where misinformation is rife, Photocert validates and certifies the authenticity of pictures and videos by generating a digital fingerprint.
+- **Why now** Worth a note that the background contradicts the stage line: Pasquale has been running Photocert from London since May 2016 and the company only shows $120K raised, so this is a long-running small team rather than a fresh seed, and with Paul D. already in a Head of Business Development seat the new BDR req posted today signals they are moving from founder-led selling to an actual outbound motion.
+- **Opener sent** Hi Pasquale, I noticed the Business Development Representative opening at Photocert went live today. I build outbound infrastructure in one week engagements, so the new rep and Paul would have sourcing, enrichment and follow up sequences already running on day one rather than starting from a blank CRM.
