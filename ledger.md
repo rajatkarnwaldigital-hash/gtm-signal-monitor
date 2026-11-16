@@ -1563,3 +1563,14 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** In an era where misinformation is rife, Photocert validates and certifies the authenticity of pictures and videos by generating a digital fingerprint.
 - **Why now** Worth a note that the background contradicts the stage line: Pasquale has been running Photocert from London since May 2016 and the company only shows $120K raised, so this is a long-running small team rather than a fresh seed, and with Paul D. already in a Head of Business Development seat the new BDR req posted today signals they are moving from founder-led selling to an actual outbound motion.
 - **Opener sent** Hi Pasquale, I noticed the Business Development Representative opening at Photocert went live today. I build outbound infrastructure in one week engagements, so the new rep and Paul would have sourcing, enrichment and follow up sequences already running on day one rather than starting from a blank CRM.
+
+## 2026-11-16
+
+### Oper Credits — AI-Native Senior Account Executive - DACH
+- **Score** 13 · series a stage · 11-50 employees · only GTM role open — likely their first · posted 0d ago
+- **Site** https://opercredits.com · **Posting** https://jobs.techstars.com/companies/oper-credits-2/jobs/99942523-ai-native-senior-account-executive-dach
+- **Contacted** Geert Van Kerckhoven, CEO & Co-Founder — https://linkedin.com/in/geertvankerckhoven
+- **Contacted** Christine Hick, Head of Growth — https://linkedin.com/in/christinehick
+- **What they do** Oper creates world-class digital mortgage experiences.
+- **Why now** Geert just posted the AI-Native Senior AE for DACH today, and it is their only open GTM role, so Oper is opening a new country market with over 20 lenders across six countries already as proof but no outbound machine behind the new hire.
+- **Opener sent** Hi Geert, saw the AI-Native Senior AE for DACH went up today. If it helps, I build outbound infrastructure in about a week, so a DACH lender list, enrichment on who is still re-checking files manually, and sequences would be waiting for that AE on day one instead of them starting from a blank CRM.
