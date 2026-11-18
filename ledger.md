@@ -1574,3 +1574,42 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** Oper creates world-class digital mortgage experiences.
 - **Why now** Geert just posted the AI-Native Senior AE for DACH today, and it is their only open GTM role, so Oper is opening a new country market with over 20 lenders across six countries already as proof but no outbound machine behind the new hire.
 - **Opener sent** Hi Geert, saw the AI-Native Senior AE for DACH went up today. If it helps, I build outbound infrastructure in about a week, so a DACH lender list, enrichment on who is still re-checking files manually, and sequences would be waiting for that AE on day one instead of them starting from a blank CRM.
+
+## 2026-11-18
+
+### CERPRO — Head of Sales (m/w/d)
+- **Score** 15 · pre seed stage · 1-10 employees · GTM leadership hire — owns the budget · 4 GTM roles open — team already exists · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://cerpro.io · **Posting** https://jobs.techstars.com/companies/cerpro/jobs/99967127-head-of-sales-m-w-d
+- **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
+- **Why now** A 1-10 person Techstars 2023 company in Berlin posted four GTM roles at once, with the Head of Sales listed 1 day ago, meaning someone just got budget to build a sales function from zero.
+- **Opener sent** Saw CERPRO is hiring a Head of Sales plus three more GTM roles in Berlin. Before that person starts, I can spend a week setting up the pipeline side of it, target list for manufacturing accounts, enrichment, and a working outbound sequence, so they walk into something live instead of an empty CRM.
+
+### Carepatron — Performance Marketing Lead (Remote)
+- **Score** 14 · pre seed stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** http://carepatron.com · **Posting** https://nz.linkedin.com/jobs/view/performance-marketing-lead-remote-at-carepatron-4491505049
+- **Contacted** Jamie Frew, Founder & CEO — https://linkedin.com/in/jamie-frew-b843618
+- **Contacted** Glen Jones, Head of Sales — https://linkedin.com/in/glen-jones-7bb03333
+- **What they do** Carepatron is a healthcare management software. The company's services include billing, coding, clinical notes, documentation, healthcare compliance, health records, medical dictation, online payments, practice management, a patient portal, and scheduling.
+- **Why now** The background contradicts the pre-seed label: Carepatron has raised $5.1M, is four years into building, and grew the team 50 percent year over year to 40-50 people, and the Performance Marketing Lead is the only GTM role open, so paid acquisition is about to get funded without an outbound layer behind it.
+- **Opener sent** Jamie, I noticed Carepatron is hiring a Performance Marketing Lead and that it is the only GTM role open right now. I build outbound and signal infrastructure in about a week, so the paid side has a matching motion for practices that look like your best accounts rather than only inbound signups.
+
+### CERPRO — Business Development Representative (m/w/d)
+- **Score** 10 · pre seed stage · 1-10 employees · 4 GTM roles open — team already exists · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://cerpro.io · **Posting** https://jobs.techstars.com/companies/cerpro/jobs/99967130-business-development-representative-m-w-d
+- **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
+- **Why now** The BDR posting went up a day ago alongside three other GTM roles at a 1-10 person company, which usually means a rep is arriving with no list, no data, and no sequences built yet.
+- **Opener sent** Noticed CERPRO just posted a BDR role in Berlin alongside a few other sales hires. I do one week builds that give a new BDR the thing they usually spend their first two months assembling, account list, enriched contacts, and sequences that are already sending.
+
+### CERPRO — Senior Account Executive (m/w/d)
+- **Score** 10 · pre seed stage · 1-10 employees · 4 GTM roles open — team already exists · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://cerpro.io · **Posting** https://jobs.techstars.com/companies/cerpro/jobs/99967126-senior-account-executive-m-w-d
+- **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
+- **Why now** Hiring a Senior AE at 1-10 people straight out of the Techstars 2023 cohort means the founder is handing off selling, and senior reps do not want to build data plumbing in month one.
+- **Opener sent** Saw the Senior Account Executive opening at CERPRO. A senior rep tends to want pipeline on day one, and I can stand up the sourcing and outbound setup behind that in about a week so they are not building it themselves.
+
+### CERPRO — Account Executive (m/w/d)
+- **Score** 10 · pre seed stage · 1-10 employees · 4 GTM roles open — team already exists · Techstars 2023 — recent cohort · posted 1d ago
+- **Site** https://cerpro.io · **Posting** https://jobs.techstars.com/companies/cerpro/jobs/99967131-account-executive-m-w-d
+- **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
+- **Why now** Four GTM openings including this AE role, all posted within a day at a pre-seed team under ten people, is the clearest window to install the infrastructure before the headcount lands.
+- **Opener sent** CERPRO has four GTM roles live right now including this Account Executive one. I build the layer underneath those hires, manufacturing account signals, enrichment, and automated outbound, usually in a single week, so the ramp is about conversations and not setup.

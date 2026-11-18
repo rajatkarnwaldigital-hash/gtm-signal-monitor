@@ -1,4 +1,9 @@
 {
+  "getro:100072321": {
+    "company": "Carepatron",
+    "first_seen": "2026-11-18T14:30:11.068146+00:00",
+    "title": "Performance Marketing Lead (Remote)"
+  },
   "getro:91529173": {
     "company": "Quashed",
     "first_seen": "2026-09-10T10:01:15.468471+00:00",
@@ -1678,5 +1683,25 @@
     "company": "Oper Credits",
     "first_seen": "2026-11-16T13:56:55.982023+00:00",
     "title": "AI-Native Senior Account Executive - DACH"
+  },
+  "techstars:99967126": {
+    "company": "CERPRO",
+    "first_seen": "2026-11-18T14:30:11.068146+00:00",
+    "title": "Senior Account Executive (m/w/d)"
+  },
+  "techstars:99967127": {
+    "company": "CERPRO",
+    "first_seen": "2026-11-18T14:30:11.068146+00:00",
+    "title": "Head of Sales (m/w/d)"
+  },
+  "techstars:99967130": {
+    "company": "CERPRO",
+    "first_seen": "2026-11-18T14:30:11.068146+00:00",
+    "title": "Business Development Representative (m/w/d)"
+  },
+  "techstars:99967131": {
+    "company": "CERPRO",
+    "first_seen": "2026-11-18T14:30:11.068146+00:00",
+    "title": "Account Executive (m/w/d)"
   }
 }
