@@ -1613,3 +1613,37 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
 - **Why now** Four GTM openings including this AE role, all posted within a day at a pre-seed team under ten people, is the clearest window to install the infrastructure before the headcount lands.
 - **Opener sent** CERPRO has four GTM roles live right now including this Account Executive one. I build the layer underneath those hires, manufacturing account signals, enrichment, and automated outbound, usually in a single week, so the ramp is about conversations and not setup.
+
+## 2026-11-19
+
+### Cycle — Field Sales Manager (m/f/d) - München
+- **Score** 9 · series a stage · 11-50 employees · mid-level GTM hire · 4 GTM roles open — team already exists · posted 0d ago
+- **Site** https://cycle.eco · **Posting** https://jobs.techstars.com/companies/cycle/jobs/100207224-field-sales-manager-m-f-d-munchen
+- **Contacted** Luis Orsini-Rosenberg, Co-Founder & CEO — https://linkedin.com/in/luis-orsini-rosenberg-90921599
+- **What they do** All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.
+- **Why now** Cycle posted four field sales roles at once today, starting with Munich, which means they are opening city territories faster than any one person can build a pipeline for, and with 10,000 e-bikes already on the road the fleet and delivery operator data to target is sitting there unused.
+- **Opener sent** Luis, saw the Field Sales Manager opening for Munich go up today alongside the other city roles. I build outbound infrastructure for teams in exactly that spot, and in about a week I could hand your Munich hire a ready list of last mile and delivery operators in the region with contacts enriched and first touch sequences already running.
+
+### Cycle — Field Sales Manager (m/f/d) - Düsseldorf
+- **Score** 9 · series a stage · 11-50 employees · mid-level GTM hire · 4 GTM roles open — team already exists · posted 0d ago
+- **Site** https://cycle.eco · **Posting** https://jobs.techstars.com/companies/cycle/jobs/100207212-field-sales-manager-m-f-d-dusseldorf
+- **Contacted** Luis Orsini-Rosenberg, Co-Founder & CEO — https://linkedin.com/in/luis-orsini-rosenberg-90921599
+- **What they do** All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.
+- **Why now** The Dusseldorf Field Sales Manager post went live today as one of four simultaneous city hires, so each new rep will land in a cold territory with no local pipeline built yet.
+- **Opener sent** Luis, I noticed Cycle is hiring a Field Sales Manager for Dusseldorf as part of a multi city push. Before that person starts I could spend a week building the territory list for NRW, courier and delivery fleets enriched and scored, plus the sequences so they walk into booked conversations rather than a blank CRM.
+
+### Cycle — Field Sales Manager (m/f/d) - Berlin
+- **Score** 9 · series a stage · 11-50 employees · mid-level GTM hire · 4 GTM roles open — team already exists · posted 0d ago
+- **Site** https://cycle.eco · **Posting** https://jobs.techstars.com/companies/cycle/jobs/100207209-field-sales-manager-m-f-d-berlin
+- **Contacted** Luis Orsini-Rosenberg, Co-Founder & CEO — https://linkedin.com/in/luis-orsini-rosenberg-90921599
+- **What they do** All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.
+- **Why now** Cycle is hiring a Berlin Field Sales Manager at HQ today while also opening Munich, Hamburg and Dusseldorf, which usually means repeatable territory prospecting is still being done by hand.
+- **Opener sent** Luis, the Berlin Field Sales Manager role caught my eye, especially with three other cities posted the same day. I do one week builds of the prospecting layer underneath roles like that, so a new rep in any city gets the same enriched target list and outbound sequence instead of each one starting from scratch.
+
+### Cycle — Field Sales Manager (m/f/d) - Hamburg
+- **Score** 9 · series a stage · 11-50 employees · mid-level GTM hire · 4 GTM roles open — team already exists · posted 0d ago
+- **Site** https://cycle.eco · **Posting** https://jobs.techstars.com/companies/cycle/jobs/100207203-field-sales-manager-m-f-d-hamburg
+- **Contacted** Luis Orsini-Rosenberg, Co-Founder & CEO — https://linkedin.com/in/luis-orsini-rosenberg-90921599
+- **What they do** All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.
+- **Why now** The Hamburg Field Sales Manager listing is one of four city roles posted today, and with over 10,000 e-bikes deployed Cycle has the usage and customer data to build a signal based outbound system rather than hiring reps to cold call city by city.
+- **Opener sent** Luis, saw the Field Sales Manager post for Hamburg today. Happy to show you what a week of work looks like: Hamburg delivery and logistics operators pulled and enriched, signals like new depot openings or fleet hiring wired in, and sequences running before your hire signs.
