@@ -1647,3 +1647,34 @@ Our offering includes smart corporate cards, invoice payment systems, and expens
 - **What they do** All-in-one bike subscription package: pay a monthly fee to access everything you need to get going: E-Bikes, Service, Insurance and Software.
 - **Why now** The Hamburg Field Sales Manager listing is one of four city roles posted today, and with over 10,000 e-bikes deployed Cycle has the usage and customer data to build a signal based outbound system rather than hiring reps to cold call city by city.
 - **Opener sent** Luis, saw the Field Sales Manager post for Hamburg today. Happy to show you what a week of work looks like: Hamburg delivery and logistics operators pulled and enriched, signals like new depot openings or fleet hiring wired in, and sequences running before your hire signs.
+
+## 2026-11-20
+
+### Rezilient Health — Director of Revenue Operations and Proposals
+- **Score** 15 · series a stage · 51-200 employees · GTM leadership hire — owns the budget · only GTM role open — likely their first · posted 0d ago
+- **Site** https://rezilienthealth.com · **Posting** https://jobs.techstars.com/companies/rezilient-health/jobs/100376074-director-of-revenue-operations-and-proposals
+- **Contacted** Danish Nagda, Founder and CEO — https://linkedin.com/in/nagda
+- **Contacted** Lisa Ness MBA, RD, CDE, Chief Revenue Officer — https://linkedin.com/in/lisa-ness-mba-rd-cde-3980767
+- **What they do** Rezilient Health bridges the convenience of telehealth with the broad scope of in-person care by offering neighborhood CloudClinics where families can get virtual access to their doctor as well as physical exams, labs, and imaging.
+- **Why now** They posted a Director of Revenue Operations and Proposals today, their only open GTM role, which means an employer-focused sales motion funded by $16.9M is about to land on someone with no RevOps stack to inherit.
+- **Opener sent** Danish, saw the Director of Revenue Operations and Proposals role go up today. Before that person starts, I can spend a week building the employer-side outbound plumbing they would otherwise spend their first quarter on, things like enrichment on target employers, signal tracking and sequenced follow up.
+
+### Ideally — Product Marketing Manager
+- **Score** 12 · series a stage · 51-200 employees · mid-level GTM hire · only GTM role open — likely their first · posted 1d ago
+- **Site** http://goideally.com · **Posting** https://ideally.careers.empathix.xyz/jobs/NKVO4566RJ85
+- **Contacted** James Donald, Co-Founder and CEO — https://linkedin.com/in/james-donald-3799239a
+- **Contacted** Joshua Nuu-Steele, Co-Founder and CRO — https://linkedin.com/in/joshuanuusteele
+- **What they do** Ideally provides a software platform that enables businesses to test ideas, concepts, and marketing strategies using real customer feedback. The company offers tools that combine generative AI with structured research methods to collect and analyze consumer input throughout the product and campaign development process. Its system supports concept testing, message evaluation, and idea validation by engaging target audiences early rather than relying only on late-stage research.
+
+The platform allows teams to run iterative experiments, compare variations, and generate reports that translate feedback into actionable insights. It is used by marketing, innovation, and insights teams to assess customer attitudes, benchmark ideas, and refine offerings based on data rather than assumptions.
+- **Why now** Fresh Product Marketing Manager post from a team that has already partnered with 250+ brands including Google, Kraft Heinz and Revlon since launching in 2023, so there is real demand to route and no GTM system behind it yet.
+- **Opener sent** James, I noticed the Product Marketing Manager opening at Ideally. Given you are already working with 250+ brands across APAC and the US, I could build the outbound and enrichment setup in about a week so the new PMM walks into working pipeline instead of a blank slate.
+
+### Sea Machines Robotics — Inside Sales Manager
+- **Score** 8 · series unknown stage · 11-50 employees · headcount shrinking (-4% YoY) · mid-level GTM hire · only GTM role open — likely their first · Techstars 2017 — old cohort · posted 0d ago
+- **Site** https://sea-machines.com · **Posting** https://jobs.techstars.com/companies/sea-machines-robotics/jobs/100346726-inside-sales-manager
+- **Contacted** Michael G. Johnson, Vice President — https://linkedin.com/in/micgjohnson
+- **Contacted** Don Black, Chief Revenue Officer — https://linkedin.com/in/don-black-1a34155
+- **What they do** Autonomous self-driving systems for boats.
+- **Why now** They put up an Inside Sales Manager role today while headcount is down about 4% year over year, which usually means the sales motion needs to produce fast with a small team, and Michael just moved back into the CEO seat in Sep 2025.
+- **Opener sent** Michael, saw the Inside Sales Manager role posted at Sea Machines. For a hire like that I usually spend a week setting up the lead sourcing and outbound sequences for vessel operators and fleet owners so the person is calling into a built list rather than making one.
