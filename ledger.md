@@ -1678,3 +1678,30 @@ The platform allows teams to run iterative experiments, compare variations, and 
 - **What they do** Autonomous self-driving systems for boats.
 - **Why now** They put up an Inside Sales Manager role today while headcount is down about 4% year over year, which usually means the sales motion needs to produce fast with a small team, and Michael just moved back into the CEO seat in Sep 2025.
 - **Opener sent** Michael, saw the Inside Sales Manager role posted at Sea Machines. For a hire like that I usually spend a week setting up the lead sourcing and outbound sequences for vessel operators and fleet owners so the person is calling into a built list rather than making one.
+
+## 2026-11-21
+
+### OneInbox.ai — Head of Sales — MENA
+- **Score** 18 · pre seed stage · 1-10 employees · GTM leadership hire — owns the budget · Techstars 2025 — recent cohort · posted 0d ago
+- **Site** https://oneinbox.ai · **Posting** https://jobs.techstars.com/companies/oneinbox-ai/jobs/100402487-head-of-sales-mena
+- **Contacted** Abhishek Gupta, Founder & CEO — https://linkedin.com/in/abhishekguptaofficial
+- **What they do** Voice AI Agent for Sales and Customer Support
+- **Why now** Abhishek is running a 1-10 person pre-seed out of Techstars '25 while claiming 10X YoY growth, and he just posted a Head of Sales for MENA on the same day as a second regional sales lead, so two new sellers are about to land with no shared pipeline system behind them.
+- **Opener sent** Hi Abhi, saw you posted the Head of Sales MENA role today alongside the Southeast Asia one. Before either of them starts I could build the outbound layer they would otherwise spend their first month assembling: contact list build for MENA contact centers, enrichment, and sequences wired to your CRM, in about a week.
+
+### OneInbox.ai — Head of Sales — Southeast Asia
+- **Score** 18 · pre seed stage · 1-10 employees · GTM leadership hire — owns the budget · Techstars 2025 — recent cohort · posted 0d ago
+- **Site** https://oneinbox.ai · **Posting** https://jobs.techstars.com/companies/oneinbox-ai/jobs/100402486-head-of-sales-southeast-asia
+- **Contacted** Abhishek Gupta, Founder & CEO — https://linkedin.com/in/abhishekguptaofficial
+- **What they do** Voice AI Agent for Sales and Customer Support
+- **Why now** The Southeast Asia Head of Sales went up the same day as the MENA one, so OneInbox is opening two regions at once off a $120K pre-seed with under ten people, which means whoever lands first inherits nothing.
+- **Opener sent** Hi Abhi, noticed the Head of Sales for Southeast Asia posted today. Given you are hiring two regional leads at once, I can stand up the shared outbound plumbing in a week so each one starts with a built list, enrichment and live sequences instead of a blank CRM.
+
+### OpenLoop — Performance Marketing Lead
+- **Score** 11 · series a stage · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://openloophealth.com · **Posting** https://jobs.techstars.com/companies/openloop/jobs/100409505-performance-marketing-lead
+- **Contacted** Jon Lensing MD, Co-Founder and CEO — https://linkedin.com/in/jon-lensing
+- **Contacted** Bailey Hawn, MBA, Vice President of Business Development — https://linkedin.com/in/baileyhawn
+- **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
+- **Why now** The stage line says early but the background does not: OpenLoop is Series A with 500 plus people, $26.7M raised, live in all 50 states and named a TIME Top HealthTech 2026 company, yet Performance Marketing Lead is the only GTM role open, which usually means paid acquisition is being built from scratch next to an existing enterprise sales motion.
+- **Opener sent** Hi Jon, saw the Performance Marketing Lead opening, which looks like the only GTM seat you have out right now. For a company already operating in all 50 states I could spend a week building the signal and enrichment pipeline that feeds whoever takes that role, so inbound and outbound to healthcare orgs are working off the same data from day one.
