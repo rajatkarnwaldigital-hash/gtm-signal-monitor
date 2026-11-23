@@ -1705,3 +1705,21 @@ The platform allows teams to run iterative experiments, compare variations, and 
 - **What they do** OpenLoop is a digital health company that offers comprehensive telehealth solutions, providing a full-stack, white-label infrastructure for healthcare organizations.
 - **Why now** The stage line says early but the background does not: OpenLoop is Series A with 500 plus people, $26.7M raised, live in all 50 states and named a TIME Top HealthTech 2026 company, yet Performance Marketing Lead is the only GTM role open, which usually means paid acquisition is being built from scratch next to an existing enterprise sales motion.
 - **Opener sent** Hi Jon, saw the Performance Marketing Lead opening, which looks like the only GTM seat you have out right now. For a company already operating in all 50 states I could spend a week building the signal and enrichment pipeline that feeds whoever takes that role, so inbound and outbound to healthcare orgs are working off the same data from day one.
+
+## 2026-11-23
+
+### Leucine — Enterprise Sales Lead (Life Sciences / Pharma)
+- **Score** 12 · series a stage · 51-200 employees · mid-level GTM hire · only GTM role open — likely their first · posted 0d ago
+- **Site** https://leucinetech.com · **Posting** https://jobs.techstars.com/companies/leucine/jobs/100563654-enterprise-sales-lead-life-sciences-pharma
+- **What they do** A proactive digital manufacturing platform that enables better drug product quality and patient safety.
+- **Why now** They just posted an Enterprise Sales Lead for life sciences today, their only open GTM role, and Sumanth is running the business side off 17 years of pharma relationships rather than any built pipeline system, so the new hire will land with nothing to inherit.
+- **Opener sent** Hi Sumanth, saw Leucine opened the Enterprise Sales Lead role for pharma manufacturing this week. Before that person starts I could stand up the account signal tracking and outbound sequencing for pharma QA and manufacturing targets in about a week, so they walk into live pipeline instead of a blank CRM.
+
+### KITRO — Account Executive Zurich - KITRO, AI Food Waste Solution
+- **Score** 8 · series unknown stage · 11-50 employees · only GTM role open — likely their first · Techstars 2017 — old cohort · posted 2d ago
+- **Site** https://kitro.ch · **Posting** https://jobs.techstars.com/companies/kitro/jobs/100500036-account-executive-zurich-kitro-ai-food-waste-solution
+- **Contacted** Naomi MacKenzie, Co-Chief Executive Officer — https://linkedin.com/in/naomimack
+- **Contacted** Jonathan Comotti, Head of Sales — https://linkedin.com/in/jonathan-comotti
+- **What they do** Simplifying food waste management for the food and beverage industry
+- **Why now** KITRO posted an Account Executive role in Zurich two days ago and it is their only open GTM seat, which means Jonathan is still the whole sales function at a 30 to 40 person company that has been building since the 2017 Techstars cohort.
+- **Opener sent** Hi Naomi, I noticed KITRO is hiring an Account Executive in Zurich. I build outbound setups for small teams in about a week, so the new AE would start with a working list of hotel and catering groups, enrichment on each site, and sequences already running rather than building all of that from scratch.
