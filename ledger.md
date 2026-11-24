@@ -1723,3 +1723,13 @@ The platform allows teams to run iterative experiments, compare variations, and 
 - **What they do** Simplifying food waste management for the food and beverage industry
 - **Why now** KITRO posted an Account Executive role in Zurich two days ago and it is their only open GTM seat, which means Jonathan is still the whole sales function at a 30 to 40 person company that has been building since the 2017 Techstars cohort.
 - **Opener sent** Hi Naomi, I noticed KITRO is hiring an Account Executive in Zurich. I build outbound setups for small teams in about a week, so the new AE would start with a working list of hotel and catering groups, enrichment on each site, and sequences already running rather than building all of that from scratch.
+
+## 2026-11-24
+
+### Seedsight — Business Development Manager
+- **Score** 19 · seed stage · 11-50 employees · mid-level GTM hire · only GTM role open — likely their first · Techstars 2024 — recent cohort · posted 0d ago
+- **Site** https://seedsight.io · **Posting** https://jobs.techstars.com/companies/seedsight-2-1ff699c1-5a85-41e7-b026-942c1deec876/jobs/100606475-business-development-manager
+- **Contacted** Joana S. Paiva, Chief Executive Officer — https://linkedin.com/in/joanaspaiva
+- **What they do** First Worldwide Digital Library of Seed Signatures
+- **Why now** They posted a Business Development Manager today, their only open GTM role, and with a Techstars 2024 cohort behind them and headcount up 50 percent year over year, the new hire will land with no outbound system to inherit.
+- **Opener sent** Hi Joana, saw Seedsight just opened the Business Development Manager role, which looks like the first dedicated GTM hire on the team. I build the outbound groundwork before someone like that starts, usually in about a week: lead sourcing on your seed and agri buyers, enrichment, and sequences they can run from day one rather than build themselves.
