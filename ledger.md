@@ -1733,3 +1733,14 @@ The platform allows teams to run iterative experiments, compare variations, and 
 - **What they do** First Worldwide Digital Library of Seed Signatures
 - **Why now** They posted a Business Development Manager today, their only open GTM role, and with a Techstars 2024 cohort behind them and headcount up 50 percent year over year, the new hire will land with no outbound system to inherit.
 - **Opener sent** Hi Joana, saw Seedsight just opened the Business Development Manager role, which looks like the first dedicated GTM hire on the team. I build the outbound groundwork before someone like that starts, usually in about a week: lead sourcing on your seed and agri buyers, enrichment, and sequences they can run from day one rather than build themselves.
+
+## 2026-11-25
+
+### Serve First — Enterprise Account Executive
+- **Score** 13 · series unknown stage · 11-50 employees · only GTM role open — likely their first · Techstars 2024 — recent cohort · posted 0d ago
+- **Site** https://servefirst.co.uk · **Posting** https://jobs.techstars.com/companies/serve-first/jobs/100755916-enterprise-account-executive
+- **Contacted** Erol Ayvaz, Founder and CEO — https://linkedin.com/in/erolayvaz
+- **Contacted** Jeremy Michael, Chief Revenue Officer — https://linkedin.com/in/jeremymichael1
+- **What they do** Serve First provides customer feedback surveys and staff engagement platforms.
+- **Why now** They posted their first Enterprise AE role today, team has grown 150% YoY to 30-40 people off the back of Techstars 2024, and with a CRO already in seat the new AE will land into a pipeline that nobody has built the plumbing for yet.
+- **Opener sent** Hi Erol, saw the Enterprise AE opening go up today at Serve First, which usually means someone is about to arrive expecting a pipeline to work. I build outbound infrastructure in about a week, so the signal tracking, enrichment and sequences are running before their first day rather than after it.
