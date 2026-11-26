@@ -1744,3 +1744,13 @@ The platform allows teams to run iterative experiments, compare variations, and 
 - **What they do** Serve First provides customer feedback surveys and staff engagement platforms.
 - **Why now** They posted their first Enterprise AE role today, team has grown 150% YoY to 30-40 people off the back of Techstars 2024, and with a CRO already in seat the new AE will land into a pipeline that nobody has built the plumbing for yet.
 - **Opener sent** Hi Erol, saw the Enterprise AE opening go up today at Serve First, which usually means someone is about to arrive expecting a pipeline to work. I build outbound infrastructure in about a week, so the signal tracking, enrichment and sequences are running before their first day rather than after it.
+
+## 2026-11-26
+
+### alive5 — Enterprise Account Executive
+- **Score** 11 · pre seed stage · 1-10 employees · only GTM role open — likely their first · Techstars 2018 — old cohort · posted 0d ago
+- **Site** https://alive5.com · **Posting** https://jobs.techstars.com/companies/alive5/jobs/100842895-enterprise-account-executive
+- **Contacted** Dustin Yu, Founder & CEO — https://linkedin.com/in/dustin-yu-3559503
+- **What they do** Messaging meets payments
+- **Why now** Dustin has been running Alive5 solo-ish since 2017 on about $70K raised, and the Enterprise AE req posted today is the first GTM hire, meaning whoever shows up has no pipeline, no sequences and no enrichment to inherit.
+- **Opener sent** Hi Dustin, saw Alive5 just opened the Enterprise AE role, which looks like the first dedicated sales seat after nine years of founder-led selling. I build the outbound setup in about a week, so the AE lands on sourced lists, working sequences and a signal feed into government and education accounts instead of a blank CRM.
