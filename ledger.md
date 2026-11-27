@@ -1754,3 +1754,13 @@ The platform allows teams to run iterative experiments, compare variations, and 
 - **What they do** Messaging meets payments
 - **Why now** Dustin has been running Alive5 solo-ish since 2017 on about $70K raised, and the Enterprise AE req posted today is the first GTM hire, meaning whoever shows up has no pipeline, no sequences and no enrichment to inherit.
 - **Opener sent** Hi Dustin, saw Alive5 just opened the Enterprise AE role, which looks like the first dedicated sales seat after nine years of founder-led selling. I build the outbound setup in about a week, so the AE lands on sourced lists, working sequences and a signal feed into government and education accounts instead of a blank CRM.
+
+## 2026-11-27
+
+### Tenzo — Product Marketing Executive
+- **Score** 11 · series a stage · 11-50 employees · only GTM role open — likely their first · Techstars 2016 — old cohort · posted 0d ago
+- **Site** https://gotenzo.com · **Posting** https://jobs.techstars.com/companies/tenzo/jobs/100899633-product-marketing-executive
+- **Contacted** Adam Taylor, Co-founder — https://linkedin.com/in/adamtaylor0
+- **What they do** Bringing actionable business insight to retailers
+- **Why now** They posted a Product Marketing Executive role today and it is the only GTM role open, so it is likely their first dedicated marketing hire at Series A, and Adam's own profile already lists hard proof points (up to 18 percent better gross margins, 10 percent lower labor costs) that nobody has turned into a repeatable outbound motion yet.
+- **Opener sent** Hi Adam, saw the Product Marketing Executive opening go up at Tenzo and it looks like the first dedicated GTM hire. Before they start, I could spend a week building the outbound plumbing around the numbers you already cite publicly, things like a restaurant group target list, enrichment on POS and scheduling stack, and sequences tied to that 18 percent margin claim, so the new hire inherits a working system instead of a blank slate.
