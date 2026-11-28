@@ -1764,3 +1764,37 @@ The platform allows teams to run iterative experiments, compare variations, and 
 - **What they do** Bringing actionable business insight to retailers
 - **Why now** They posted a Product Marketing Executive role today and it is the only GTM role open, so it is likely their first dedicated marketing hire at Series A, and Adam's own profile already lists hard proof points (up to 18 percent better gross margins, 10 percent lower labor costs) that nobody has turned into a repeatable outbound motion yet.
 - **Opener sent** Hi Adam, saw the Product Marketing Executive opening go up at Tenzo and it looks like the first dedicated GTM hire. Before they start, I could spend a week building the outbound plumbing around the numbers you already cite publicly, things like a restaurant group target list, enrichment on POS and scheduling stack, and sequences tied to that 18 percent margin claim, so the new hire inherits a working system instead of a blank slate.
+
+## 2026-11-28
+
+### Ecomtent — Enterprise Account Executive (German Speaking)
+- **Score** 17 · seed stage · 11-50 employees · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://ecomtent.ai · **Posting** https://jobs.techstars.com/companies/ecomtent-2/jobs/100960840-enterprise-account-executive-german-speaking
+- **Contacted** Max Sinclair, Founder, CEO — https://linkedin.com/in/max-sinclair-ai
+- **What they do** Azoma is helping the world's leading brands, such as Mars, Colgate, HP, Beiersdorf, Zappos, P&G, and Reckitt, stay dominant in the era of AI Discovery with their end-to-end, enterprise, Generative Engine Optimization solution.
+- **Why now** They just posted a German-speaking Enterprise AE, their only open GTM role, while running a 20-30 person team that doubled headcount in a year on $6.4M raised, and Max is publicly repositioning the company from Ecomtent to Azoma around agentic commerce, so the new AE will need a German-market pipeline built from scratch rather than an existing one to inherit.
+- **Opener sent** Max, saw the German-speaking Enterprise AE opening at Azoma. Given the names already on your logo wall like Unilever, Mars and Beiersdorf, I could spend a week building that rep a DACH target list with enrichment and a sequenced outbound motion so they are talking to brands in week one instead of building lists.
+
+### InStockRx — Revenue Operations Manager
+- **Score** 17 · series a stage · 1-10 employees · headcount shrinking (-8% YoY) · mid-level GTM hire · only GTM role open — likely their first · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://instockrx.com · **Posting** https://jobs.techstars.com/companies/instockrx/jobs/100960760-revenue-operations-manager
+- **Contacted** Mac Dougherty, Chief Executive Officer — https://linkedin.com/in/mac-dougherty
+- **What they do** Seamless Access to In-Stock Medication.
+- **Why now** Mac is hiring a Revenue Operations Manager into a 1 to 10 person team that has shrunk 8 percent year over year, which usually means there is no revenue stack yet and the hire is expected to build one, and a one-week engagement gets further than a slow search.
+- **Opener sent** Mac, noticed the Revenue Operations Manager role at InStockRx. With a team your size, I can stand up the pharmacy targeting and enrichment pipeline plus the outbound sequences in about a week, so whoever you hire walks into a working system instead of a blank CRM.
+
+### CERPRO — Business Development Representative (m/w/d)
+- **Score** 10 · pre seed stage · 11-50 employees · headcount shrinking (-10% YoY) · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://cerpro.io · **Posting** https://jobs.techstars.com/companies/cerpro/jobs/100936253-business-development-representative-m-w-d
+- **Contacted** Sascha Müller, CTO & Co-Founder — https://linkedin.com/in/saschamuller
+- **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
+- **Why now** CERPRO is hiring a BDR and an AE at the same time, and the background says the team actually grew 150 percent year over year since founding in 2023, which contradicts the shrinking headcount in the listing, so this looks like a first real outbound push into German manufacturing.
+- **Opener sent** Sascha, saw CERPRO is hiring a BDR alongside the AE role. Before they start, I could build the manufacturing account list, the enrichment around order processing signals and a German language sequence in about a week so the BDR has something to run on day one.
+
+### CERPRO — Account Executive (m/w/d)
+- **Score** 10 · pre seed stage · 11-50 employees · headcount shrinking (-10% YoY) · Techstars 2023 — recent cohort · posted 0d ago
+- **Site** https://cerpro.io · **Posting** https://jobs.techstars.com/companies/cerpro/jobs/100936254-account-executive-m-w-d
+- **Contacted** Sascha Müller, CTO & Co-Founder — https://linkedin.com/in/saschamuller
+- **What they do** CERPRO helps reimagining the future of production using artificial intelligence, and cloud computing technologies.
+- **Why now** The AE req posted the same day as the BDR req, so there is budget for two seats but no pipeline machine behind them yet, and CERPRO has been building since 2023 with real growth in headcount per the background.
+- **Opener sent** Sascha, you have the AE and BDR roles up at the same time, which usually means pipeline needs to exist before either of them lands. I build that infrastructure in roughly a week, the target list, enrichment and the outbound sequences for German manufacturers, so the AE spends their first month selling.
